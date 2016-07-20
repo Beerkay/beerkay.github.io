@@ -15,16 +15,14 @@ Privacy](http://www.ieee-security.org/TC/SP2016/).
 
 ### About Me
 
-I am a research assistant in Department of Electrical Engineering and Computer Science at the Pennsylvania State 
-University working with [Prof. Patrick McDaniel](http://www.patrickmcdaniel.org/) and a member of the Systems and 
-Internet Infrastructure Security Laboratory (SIIS). My research focuses on large-scale systems security.
+I am a research assistant in Department of Electrical Engineering and Computer Science at the Pennsylvania State University working with [Prof. Patrick McDaniel](http://www.patrickmcdaniel.org/) and a member of the Systems and 
+Internet Infrastructure Security Laboratory (SIIS). 
 
-Previously, I worked with Prof. George Kesidis and Prof. David J. Miller on NSF NeTSE Unsupervised Flow-Based 
-Clustering project (also supported by Cisco Systems URP gift and DHS/NSF EMIST/DETER project) during my Msc. 
-studies at Penn State University. My research there focused on application of 
+Previously, I worked with [Prof. George Kesidis](http://www.cse.psu.edu/~gik2/) and [Prof. David J. Miller](http://www.ee.psu.edu/directory/FacultyInfo/Miller/MillerProfilePage.aspx) on NSF NeTSE Unsupervised Flow-Based 
+Clustering project (also supported by Cisco Systems URP gift and DHS/NSF EMIST/DETER project) during my Msc.studies. My research there focused on network security and learning algorithms. 
 
-I started to work under the supervision of Prof. Sema Oktug at Istanbul Technical University focusing on practical 
-network security problems (e.g., fast-flux networks). Then, I joined SIIS lab in 2014.
+I started to work under the direction of [Prof. Sema Oktug](http://web.itu.edu.tr/~oktug/) at [Istanbul Technical University](http://www.itu.edu.tr/en/) focusing on practical 
+network security problems (e.g., fast-flux networks).
 
 
 ### Projects
@@ -55,18 +53,10 @@ restricting which sites have access to those cookies.  Read more about
 [funpriv]:http://forensics.umass.edu/pubs/walls.hotsec12.pdf
  
 
-#### Digital Forensics
-
-Mobile phones contain evidence that is invaluable for criminal investigations.
-However, commercially-available forensic tools must be hand-tailored to each
-phone model. If no tools support the target phone, then extracting the phone's
-information requires investigators to  examine the stored data byte by byte.
-To address this problem,  I've developed general algorithms and techniques for
-recovering information from phones even if the exact  storage format is unknown
-or the data has been logically deleted. 
-
-[DECODE](https://github.com/umass-forensics/DEC0DE-forensics) is an inference engine that extracts meaningful information from raw
-byte streams. Read more about it [here][decode]. 
+#### Detection with Privileged Information
+<img style="float: right;" src="{{ site.base }}/img/privileged/privileged.png">
+Modern detection systems use sensor outputs available in the deployment environment to probabilistically identify attacks. These systems are trained on past or synthetic feature vectors to create a model of anomalous or normal behavior. Thereafter, run-time collected sensor outputs are compared to the model to identify attacks (or the lack of attack). While this approach to detection has been proven to be effective in many environments, it is limited to training on only features that can be reliably collected at test-time. Hence, they fail to leverage the often vast amount of ancillary information available from past forensic analysis and post-mortem data. In short, detection systems do not train (and thus do not learn from) features that are unavailable or too costly to collect at run-time. In this paper, we leverage recent advances in machine learning to integrate privileged information---features reliably available at training time, but not at run-time---into detection algorithms. We apply three different approaches to model training with privileged information: knowledge transfer, model influence, and distillation. We empirically validate their performance in a range of detection domains. Our evaluation shows that privileged information can increase detector precision and recall: we observe an average of 3.8\% relative decrease in detection error for fast-flux bot detection over a system with no privileged information, 5.4\% for malware traffic detection, 3.6\% for malware classification, and 16.9\% for user face authentication. We conclude by exploring the limitations and applications of different privileged information techniques in detection systems.
+Read more about it [here](https://arxiv.org/pdf/1603.09638v1.pdf), and details of formulation and implementation in [technical report](http://www.cse.psu.edu/~zbc102/files/svm_plus_technical_report_15.pdf).
 
 [Liftr](https://github.com/umass-forensics/Liftr-forensics) incorporates
 investigator feedback and relevance graphs to improve the results of inference
