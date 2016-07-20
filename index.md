@@ -55,11 +55,23 @@ restricting which sites have access to those cookies.  Read more about
 
 #### Detection with Privileged Information
 <img align="left" src="{{ site.base }}/img/privileged/privileged-sm.png" style="border-radius: 15px;
-box-shadow: 5px 8px 10px #e0e0e0"> Modern detection systems use sensor outputs available in the deployment environment to probabilistically identify attacks. These systems are trained on past or synthetic feature vectors to create a model of anomalous or normal behavior. Thereafter, run-time collected sensor outputs are compared to the model to identify attacks (or the lack of attack). While this approach to detection has been proven to be effective in many environments, it is limited to training on only features that can be reliably collected at test-time. Hence, they fail to leverage the often vast amount of ancillary information available from past forensic analysis and post-mortem data. In short, detection systems do not train (and thus do not learn from) features that are unavailable or too costly to collect at run-time. In this paper, we leverage recent advances in machine learning to integrate privileged information---features reliably available at training time, but not at run-time---into detection algorithms. We apply three different approaches to model training with privileged information: knowledge transfer, model influence, and distillation. We empirically validate their performance in a range of detection domains. Our evaluation shows that privileged information can increase detector precision and recall: we observe an average of 3.8\% relative decrease in detection error for fast-flux bot detection over a system with no privileged information, 5.4\% for malware traffic detection, 3.6\% for malware classification, and 16.9\% for user face authentication. We conclude by exploring the limitations and applications of different privileged information techniques in detection systems.
+box-shadow: 5px 8px 10px #e0e0e0"> Modern detection systems use sensor outputs available in the deployment environment to probabilistically identify attacks. These systems are trained on past or synthetic feature vectors to create a model of anomalous or normal behavior. Thereafter, run-time collected sensor outputs are compared to the model to identify attacks (or the lack of attack). While this approach to detection has been proven to be effective in many environments, it is limited to training on only features that can be reliably collected at test-time. Hence, they fail to leverage the often vast amount of ancillary information available from past forensic analysis and post-mortem data. In short, detection systems do not train (and thus do not learn from) features that are unavailable or too costly to collect at run-time. In this paper, we leverage recent advances in machine learning to integrate privileged information---features reliably available at training time, but not at run-time---into detection algorithms. We apply three different approaches to model training with privileged information: knowledge transfer, model influence, and distillation. Read more about it [here](https://arxiv.org/pdf/1603.09638v1.pdf), and details of formulation and implementation in [technical report](http://www.cse.psu.edu/~zbc102/files/svm_plus_technical_report_15.pdf).
 
-Read more about it [here](https://arxiv.org/pdf/1603.09638v1.pdf), and details of formulation and implementation in [technical report](http://www.cse.psu.edu/~zbc102/files/svm_plus_technical_report_15.pdf).
 
-[Liftr](https://github.com/umass-forensics/Liftr-forensics) incorporates
+<td class="publication">
+			<span class="pubtitle">
+				<a href="http://rjwalls.github.io/papers/mcdaniel15_otan.pdf">Estimating Attack Intent and Mission Impact from Detection Signals</a>.
+			</span><br />
+			<span class="authors">
+				Patrick McDaniel and Robert J. Walls.
+			</span><br />
+			<span class="venuetype"></span><span class="venue">Workshop on Cyber Attack Detection, Forensics and Attribution for Assessment of Mission Impact</span>.
+			<br />
+			<span class="links">
+			</span>
+</td>
+
+Publications: Celik, Z Berkay and McDaniel, Patrick and Izmailov, Rauf and Papernot, Nicolas and Swami, Ananthram (https://github.com/umass-forensics/Liftr-forensics) incorporates
 investigator feedback and relevance graphs to improve the results of inference
 engines like DEC0DE. [Paper here][liftr].
 
