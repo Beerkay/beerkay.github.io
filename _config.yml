@@ -27,11 +27,11 @@ roles:
 front_page_news: 8
 
 # Base pathname for links.
-base: 'http://beerkay.github.io'
+base: 'https://beerkay.github.io/'
 
 # Navigation bar links.
 #navigation:
-#    - title: Home
+#   - title: Home
 #      link: /
 #    - title: People
 #      link: /people.html
