@@ -15,30 +15,17 @@ Privacy](http://www.ieee-security.org/TC/SP2016/).
 
 ### About Me
 
-I am a postdoctoral scholar in Department of Electrical Engineering and
-Computer Science at The Pennsylvania State University working with [Prof.
-Patrick McDaniel](http://www.patrickmcdaniel.org/).  My research focuses on
-large-scale systems security.
+I am a research assistant in Department of Electrical Engineering and Computer Science at the Pennsylvania State 
+University working with [Prof. Patrick McDaniel](http://www.patrickmcdaniel.org/) and a member of the Systems and 
+Internet Infrastructure Security Laboratory (SIIS). My research focuses on large-scale systems security.
 
-Previously, I attended the School of Computer Science at the [University of
-Massachusetts](http://www.cs.umass.edu/) advised by [Prof. Brian
-Levine](http://people.cs.umass.edu/~brian/). My research there focused on
-advancing digital forensics by providing law enforcement with novel techniques
-for investigating crimes. My past work includes an inference-based approach for
-mobile phone triage and an in-depth analysis of contraband on peer-to-peer
-networks. You can find my view on the difference between forensics and security
-[here](http://forensics.umass.edu/publications.php?q=Walls:2011a).
+Previously, I worked with Prof. George Kesidis and Prof. David J. Miller on NSF NeTSE Unsupervised Flow-Based 
+Clustering project (also supported by Cisco Systems URP gift and DHS/NSF EMIST/DETER project) during my Msc. 
+studies at Penn State University. My research there focused on application of 
 
-I studied at [The University of Texas at Arlington](http://www.cse.uta.edu/)
-under the direction of [Prof. Matthew Wright](http://isec.uta.edu/mwright/).
-While there I focused on network security and was awarded the CSE Outstanding
-Master’s thesis award for my work on the design and detection of covert timing
-channels.
+I started to work under the supervision of Prof. Sema Oktug at Istanbul Technical University focusing on practical 
+network security problems (e.g., fast-flux networks). Then, I joined SIIS lab in 2014.
 
-While at UMass, I was admitted to Ph.D candidacy with distinction and awarded
-the department's Outstanding Synthesis Project award. I am also honored to have
-received the 2011 Yahoo Key Scientific Challenges award in the Security &
-Privacy category.
 
 ### Projects
 

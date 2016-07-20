@@ -1,5 +1,5 @@
-name: Robert J. Walls
-url: http://rjwalls.github.io
+name: Z. Berkay Celik
+url: http://beerkay.github.io
 
 exclude: [bibble, README.md, Makefile, screenshot.png]
 
@@ -9,7 +9,7 @@ redcarpet:
     extensions: [smart, tables]
 
 # colorize code snippets with the pygments module
-pygments: true
+# pygments: true
 
 # The path structure for blog posts.
 permalink: /blog/:year/:month/:day/:title.html
@@ -27,7 +27,7 @@ roles:
 front_page_news: 8
 
 # Base pathname for links.
-base: 'http://rjwalls.github.io'
+base: 'http://beerkay.github.io'
 
 # Navigation bar links.
 #navigation:
