@@ -49,7 +49,7 @@ activities including Content Distribution Networks (CDNs). Read more about the s
 
 #### Machine Learning in Adversarial Settings
 
-<img align="left" src="{{ site.base }}/img/adversarial/dnn.png" style="border-radius: 15px;
+<img align="left" src="{{ site.base }}/img/adversarial/dnn-sm.png" style="border-radius: 15px;
 box-shadow: 5px 8px 10px #e0e0e0" hspace="15"> One of the limitations of machine learning in practice is that they are subject to adversarial samples. Adversarial samples are carefully modified inputs crafted to dictate a selected output. In the context of classification, adversarial samples are crafted so as to force a target model to classify them in a class different from their legitimate class. In this work, we focus on Deep Neural Networks (DNNs) for adversarial sample generation and attacker's capabilities to evade systems built on DNNs.
 
 In collabration with [Nicolas Papernot](https://www.papernot.fr/).
