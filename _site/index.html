@@ -4,11 +4,11 @@
         <meta charset="utf-8">
         <title>Z. Berkay Celik: Home</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <link href="https://beerkay.github.io//css/bootstrap.min.css" rel="stylesheet">
-        <link href="https://beerkay.github.io//css/group.css" rel="stylesheet">
-        <link rel="stylesheet" href="https://beerkay.github.io//css/styles.css">
+        <link href="https://beerkay.github.io/css/bootstrap.min.css" rel="stylesheet">
+        <link href="https://beerkay.github.io/css/group.css" rel="stylesheet">
+        <link rel="stylesheet" href="https://beerkay.github.io/css/styles.css">
         <link rel="alternate" type="application/atom+xml" title="Atom"
-            href="https://beerkay.github.io//blog/blog.xml">
+            href="https://beerkay.github.io/blog/blog.xml">
     </head>
     <body>
 
@@ -30,9 +30,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
               
               
             </ul>
-            <!--<a href="https://beerkay.github.io//">
-                <img src="https://beerkay.github.io//img/logo.png"
-                    srcset="https://beerkay.github.io//img/logo@2x.png 2x"
+            <!--<a href="https://beerkay.github.io/">
+                <img src="https://beerkay.github.io/img/logo.png"
+                    srcset="https://beerkay.github.io/img/logo@2x.png 2x"
                     alt="Awesome" id="logo">
             </a>-->
           </div>
@@ -52,14 +52,14 @@ University Park, PA 16802<br/>
 <a href="mailto: zbc102@cse.psu.edu">zbc102@cse.psu.edu</a>
 <br/>
 <br/>
-<a href="https://beerkay.github.io//papers/Berkay_Celik_CV.pdf">CV</a><br/>
+<a href="https://beerkay.github.io/papers/Berkay_Celik_CV.pdf">CV</a><br/>
 <a href="https://scholar.google.com/citations?user=g1I269gAAAAJ&hl=en">Google Scholar</a> <br/>
 <a href="https://github.com/Beerkay">Github</a></br>
 <a href="https://www.linkedin.com/in/berkaycelik">Linkedin</a></br>
 </p>
 </td>
 <td>
-<img align="right" src="https://beerkay.github.io//img/celik-sm.png" style="border-radius: 15px;
+<img align="right" src="https://beerkay.github.io/img/celik-sm.png" style="border-radius: 15px;
 box-shadow: 5px 8px 10px #e0e0e0">
 <br/><br/>
 
@@ -69,102 +69,44 @@ box-shadow: 5px 8px 10px #e0e0e0">
           <tr>
             <td colspan="2"> <h3 id="news">News</h3>
 
-<p><strong>Reviewing papers</strong>: I’ve joined the program committee for the <a href="http://icnp2016.comp.nus.edu.sg/">2016 IEEE
-International Conference on Network Protocols</a>.</p>
-
-<p><strong>Going to Oakland</strong>: Our paper “Domain-Z: 28 Registrations Later” was accepted
-to the <a href="http://www.ieee-security.org/TC/SP2016/">IEEE Symposium on Security and
-Privacy</a>.</p>
+<p><strong>Reviewing papers</strong>:</p>
 
 <h3 id="about-me">About Me</h3>
 
-<p>I am a research assistant in Department of Electrical Engineering and Computer Science at the Pennsylvania State 
-University working with <a href="http://www.patrickmcdaniel.org/">Prof. Patrick McDaniel</a> and a member of the Systems and 
-Internet Infrastructure Security Laboratory (SIIS). My research focuses on large-scale systems security.</p>
+<p>I am a research assistant in Department of Electrical Engineering and Computer Science at the Pennsylvania State University working with <a href="http://www.patrickmcdaniel.org/">Prof. Patrick McDaniel</a> and a member of the Systems and 
+Internet Infrastructure Security Laboratory (SIIS).</p>
 
-<p>Previously, I worked with Prof. George Kesidis and Prof. David J. Miller on NSF NeTSE Unsupervised Flow-Based 
-Clustering project (also supported by Cisco Systems URP gift and DHS/NSF EMIST/DETER project) during my Msc. 
-studies at Penn State University. My research there focused on application of</p>
+<p>Previously, I worked with <a href="http://www.cse.psu.edu/~gik2/">Prof. George Kesidis</a> and <a href="http://www.ee.psu.edu/directory/FacultyInfo/Miller/MillerProfilePage.aspx">Prof. David J. Miller</a> on NSF NeTSE Unsupervised Flow-Based 
+Clustering project (also supported by Cisco Systems URP gift and DHS/NSF EMIST/DETER project) during my Msc.studies. My research there focused on network security and learning algorithms.</p>
 
-<p>I started to work under the supervision of Prof. Sema Oktug at Istanbul Technical University focusing on practical 
-network security problems (e.g., fast-flux networks). Then, I joined SIIS lab in 2014.</p>
+<p>I also worked under the direction of <a href="http://web.itu.edu.tr/~oktug/">Prof. Sema Oktug</a> at <a href="http://www.itu.edu.tr/en/">Istanbul Technical University</a> focusing on practical network security problems (e.g., fast-flux networks).</p>
 
 <h3 id="projects">Projects</h3>
 
-<p>I’ve had the opportunity to work on a number of interesting research projects
-during my career. Here is a summary of some of my efforts.</p>
+<p>I’ve had the opportunity to work on a number of interesting research projects during my Msc. and PhD. studies. Here is a summary of some of my efforts.</p>
 
-<h4 id="web-security-and-privacy">Web Security and Privacy</h4>
+<h4 id="detection-with-privileged-information">Detection with Privileged Information</h4>
+<p><img align="left" src="https://beerkay.github.io/img/privileged/privileged-sm.png" style="border-radius: 15px; box-shadow: 5px 8px 10px #e0e0e0" hspace="15" /> Modern detection systems use sensor outputs available in the deployment environment to probabilistically identify attacks. These systems are trained on past or synthetic feature vectors to create a model of anomalous or normal behavior. Thereafter, run-time collected sensor outputs are compared to the model to identify attacks (or the lack of attack). While this approach to detection has been proven to be effective in many environments, it is limited to training on only features that can be reliably collected at test-time. Hence, they fail to leverage the often vast amount of ancillary information available from past forensic analysis and post-mortem data. In short, detection systems do not train (and thus do not learn from) features that are unavailable or too costly to collect at run-time. In this paper, we leverage recent advances in machine learning to integrate privileged information—features reliably available at training time, but not at run-time—into detection algorithms. We apply three different approaches to model training with privileged information: knowledge transfer, model influence, and distillation.</p>
 
-<p>Online advertising is one of those little annoyances that we all have to deal
-with. “Not so!” Said the plethora of ad blocking extensions promising to
-improve your browser experience. Not only do they block ads, they also claim to
-help preserve your privacy and protect  you against the growing trend of
-malicious advertisements. In our <a href="http://rjwalls.github.io/papers/walls15_imc.pdf">IMC 2015 work</a> my co-authors and I take
-a closer look at the most popular ad blocking software. We find that ad
-blockers are not quite what they appear to be.</p>
+<p>This paper is under peer-review: <a href="https://arxiv.org/pdf/1603.09638v1.pdf">Building Better Detection with Privileged Information</a>, Z Berkay Celik, Patrick McDaniel, Rauf Izmailov, Nicolas Papernot and Ananthram Swami, arXiv preprint arXiv:1603.09638, 2016. Read more about formulation and implementation in <a href="http://www.cse.psu.edu/~zbc102/files/svm_plus_technical_report_15.pdf">technical report</a>.</p>
 
-<p>If you are in the market for a practical privacy solution, take a look at our
-browser extension <a href="https://github.com/rjwalls/Milk">Milk</a>. Milk implements the concept of <em>functional
-privacy</em>: give the users as much privacy as possible without breaking desired
-functionality. The extension does this by putting cookies in separate silos and
-restricting which sites have access to those cookies.  Read more about
-<a href="http://forensics.umass.edu/pubs/walls.hotsec12.pdf">functional privacy here</a>.</p>
+<h4 id="malware-traffic-detection-and-experimentation-artifacts">Malware Traffic Detection and Experimentation Artifacts</h4>
+<p><img align="left" src="https://beerkay.github.io/img/malware/malware.png" style="border-radius: 15px; box-shadow: 5px 8px 10px #e0e0e0" hspace="15" /> We present a framework for evaluating the transport layer feature space of malware heartbeat traffic.
+We utilize these features in a prototype detection system to distinguish malware traffic from traffic generated by legitimate
+applications. In contrast to previous work, we eliminate features at risk of producing overly optimistic detection results, detect previously
+unobserved anomalous behavior, and rely only on tamperresistant features making it difficult for sophisticated malware
+to avoid detection. Further, we characterize the evolution of malware evasion techniques over time by examining the behavior of 16 malware families. In particular, we highlight the difficulty of detecting malware that use traffic-shaping techniques to mimic legitimate traffic. Read more about the study [here] (https://beerkay.github.io/papers/celik15_Milcom).</p>
 
-<h4 id="digital-forensics">Digital Forensics</h4>
+<p>In our <a href="https://beerkay.github.io/papers/celik11_CSET">CSET 2011</a> work my co-authors and I also take a closer look at the experimentation artifacts of malware detection. We find that current approaches do not consider timing-based calibration of the C&amp;C traffic traces prior to using this traffic to salt a background traffic trace. Thus, timing-based features of the C&amp;C traffic may be artificially distinctive, potentially leading to (unrealistically) optimistic flow classification results.</p>
 
-<p>Mobile phones contain evidence that is invaluable for criminal investigations.
-However, commercially-available forensic tools must be hand-tailored to each
-phone model. If no tools support the target phone, then extracting the phone’s
-information requires investigators to  examine the stored data byte by byte.
-To address this problem,  I’ve developed general algorithms and techniques for
-recovering information from phones even if the exact  storage format is unknown
-or the data has been logically deleted.</p>
-
-<p><a href="https://github.com/umass-forensics/DEC0DE-forensics">DECODE</a> is an inference engine that extracts meaningful information from raw
-byte streams. Read more about it <a href="http://forensics.umass.edu/pubs/Walls.usenixSecurity.2011.pdf">here</a>.</p>
-
-<p><a href="https://github.com/umass-forensics/Liftr-forensics">Liftr</a> incorporates
-investigator feedback and relevance graphs to improve the results of inference
-engines like DEC0DE. <a href="http://forensics.umass.edu/pubs/varma.spsm.2014.pdf">Paper here</a>.</p>
-
-<p><a href="https://github.com/rjwalls/YaffsParser">Yapr</a> parses the Yaffs File System
-commonly found on (older) Android phones.  Yapr even has limited ability to
-reconstruct past versions of a file by leverage expired pages of flash memory.</p>
-
-<p><a href="https://github.com/rjwalls/Filtr">Filtr</a> implements the concept of block hash
-filtering using bloom filters. In short, Filtr will remove an repeated blocks
-of data in a raw byte stream. For flash-based devices, such as phones, Filtr
-often removes 50-90% of the raw data, saving precious time by limited the
-amount of data that needs to be examines. Read more about block hash filtering
-<a href="http://forensics.umass.edu/pubs/Walls.usenixSecurity.2011.pdf">here</a>.</p>
+<p>We also studied the detection of Fast-Flux Service Networks (FFSNs) using DNS (Domain Name System)
+response packets. We have observed that current approaches do not employ a large combination of DNS features to feed into
+the proposed detection systems. The lack of features leads to high false positive or false negative rates triggered by benign
+activities including Content Distribution Networks (CDNs). Read more about the study <a href="https://beerkay.github.io/papers/Celik13_ISCC">here</a>.</p>
 
 <h4 id="science-of-security">Science of Security</h4>
 
-<p>Perhaps the most  ambitious projects I am involved in is the 10-year
-Cyber-Security Collaborative Research Alliance (<a href="http://cra.psu.edu/">CSec CRA</a>) with the Army
-Research Laboratory, Penn State, Carnegie Mellon, UC Riverside, UC Davis, and
-Indiana University. Our mandate is to develop a new science of security. As
-part of this effort, I’ve worked on the foundation for representing of
-operational and environmental knowledge. (See my work on ontologies
-<a href="http://rjwalls.github.io/papers/oltramari14_stids.pdf">here</a>). Our goal to reason about both current and
-future states to make optimal security decisions.</p>
-
-<h4 id="improving-the-process">Improving the Process</h4>
-
-<p>Like all computer scientists, I am constantly on the lookout for tools or
-methods that will help me be more efficient in my work. Here are a few
-repositories that you may find helpful.</p>
-
-<p><a href="https://github.com/rjwalls/paper-template">Latex Paper Template.</a> Tired of wasting half an hour setting up your paper
-   directory every time you start a new project? Try my paper template instead.</p>
-
-<p><a href="https://github.com/rjwalls/SlidifyTest">Slidify Tutorial.</a> I am a big fan of
-presentations, R, and Markdown—Slidify beautifully combines all three. Check
-out my simple Slidify tutorial <a href="http://rjwalls.github.io/SlidifyTest">here</a>.</p>
-
-<p><a href="https://github.com/rjwalls/Taskr">Taskr.</a> This simple command line utility
-helps manage how you spend your time.</p>
+<p>Perhaps the most ambitious projects I am involved in is the 10-year Cyber-Security Collaborative Research Alliance (<a href="http://cra.psu.edu/">CSec CRA</a> with the Army Research Laboratory, Penn State, Carnegie Mellon, UC Riverside, UC Davis, and Indiana University. Our mandate is to develop a new science of security. As part of this effort, I’ve worked on the foundation for representing of operational and environmental knowledge. (See my work on operational models <a href="ontology1">here</a>. Our goal to reason about both current and future states to make optimal security decisions.</p>
 
 <h3 id="publications">Publications</h3>
 
@@ -565,6 +507,6 @@ helps manage how you spend your time.</p>
 
         <!-- Support retina images. -->
         <script type="text/javascript"
-            src="https://beerkay.github.io//js/srcset-polyfill.js"></script>
+            src="https://beerkay.github.io/js/srcset-polyfill.js"></script>
     </body>
 </html>
