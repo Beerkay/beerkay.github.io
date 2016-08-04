@@ -11,11 +11,10 @@ notitle: true
 
 ### About Me
 
-I am a research assistant in Department of Electrical Engineering and Computer Science at the Pennsylvania State University working with [Prof. Patrick McDaniel](http://www.patrickmcdaniel.org/) and a member of the Systems and 
-Internet Infrastructure Security Laboratory (SIIS). 
+I am a research assistant in Department of Electrical Engineering and Computer Science at the Pennsylvania State University working with [Prof. Patrick McDaniel](http://www.patrickmcdaniel.org/) and a member of the [Systems and Internet Infrastructure Security Laboratory (SIIS)](http://siis.cse.psu.edu/). 
 
-Previously, I worked with [Prof. George Kesidis](http://www.cse.psu.edu/~gik2/) and [Prof. David J. Miller](http://www.ee.psu.edu/directory/FacultyInfo/Miller/MillerProfilePage.aspx) on NSF NeTSE Unsupervised Flow-Based 
-Clustering project (also supported by Cisco Systems URP gift and DHS/NSF EMIST/DETER project) during my Msc.studies. My research there focused on network security and learning algorithms. 
+During my Msc.studies, I worked with [Prof. George Kesidis](http://www.cse.psu.edu/~gik2/) and [Prof. David J. Miller](http://www.ee.psu.edu/directory/FacultyInfo/Miller/MillerProfilePage.aspx) on NSF NeTSE Unsupervised Flow-Based 
+Clustering project (also supported by Cisco Systems URP gift and DHS/NSF EMIST/DETER project). My research there focused on network security and learning algorithms. 
 
 I also worked under the direction of [Prof. Sema Oktug](http://web.itu.edu.tr/~oktug/) at [Istanbul Technical University](http://www.itu.edu.tr/en/) focusing on practical network security problems (e.g., fast-flux networks).
 
@@ -27,7 +26,7 @@ I've had the opportunity to work on a number of interesting research projects du
 
 #### Detection with Privileged Information
 <img align="left" src="{{ site.base }}/img/privileged/privileged-sm.png" style="border-radius: 15px;
-box-shadow: 5px 8px 10px #e0e0e0" hspace="15"> Modern detection systems use sensor outputs available in the deployment environment to probabilistically identify attacks. These systems are trained on past or synthetic feature vectors to create a model of anomalous or normal behavior. Thereafter, run-time collected sensor outputs are compared to the model to identify attacks (or the lack of attack). While this approach to detection has been proven to be effective in many environments, it is limited to training on only features that can be reliably collected at test-time. Hence, they fail to leverage the often vast amount of ancillary information available from past forensic analysis and post-mortem data. In short, detection systems do not train (and thus do not learn from) features that are unavailable or too costly to collect at run-time. In this paper, we leverage recent advances in machine learning to integrate privileged information---features reliably available at training time, but not at run-time---into detection algorithms. We apply three different approaches to model training with privileged information: knowledge transfer, model influence, and distillation.
+box-shadow: 5px 8px 10px #e0e0e0" hspace="15"> Modern detection systems use sensor outputs available in the deployment environment to probabilistically identify attacks. These systems are trained on past or synthetic feature vectors to create a model of anomalous or normal behavior. Thereafter, run-time collected sensor outputs are compared to the model to identify attacks (or the lack of attack). While this approach to detection has been proven to be effective in many environments, it is limited to training on only features that can be reliably collected at test-time. Hence, they fail to leverage the often vast amount of ancillary information available from past forensic analysis and post-mortem data. In short, detection systems do not train (and thus do not learn from) features that are unavailable or too costly to collect at run-time. In this work, we leverage recent advances in machine learning to integrate privileged information---features reliably available at training time, but not at run-time---into detection algorithms.
 
 This paper is under peer-review: [Building Better Detection with Privileged Information](https://arxiv.org/pdf/1603.09638v1.pdf), Z Berkay Celik, Patrick McDaniel, Rauf Izmailov, Nicolas Papernot and Ananthram Swami, arXiv preprint arXiv:1603.09638, 2016. Read more about formulation and implementation in [technical report](http://www.cse.psu.edu/~zbc102/files/svm_plus_technical_report_15.pdf).
 
