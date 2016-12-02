@@ -23,21 +23,21 @@
 }
 
 @Article{celik2017Pets,
-  Title                    = {Building Better Detection with Privileged Information},
+  Title                    = {Patient-Driven Privacy Control through Generalized Distillation},
   Author                   = {Celik, Z. Berkay and Lopez-Paz, David, and McDaniel, Patrick and Izmailov},
-  Journal                  = {In submission Privacy Enhancing Technologies Symposium (PETS 2017)},
+  Journal                  = {In submission},
   Year                     = {2017},
 
   Url                      = {https://arxiv.org/pdf/1603.09638v2.pdf}
 }
 
 @Article{celik2016building,
-  Title                    = {Extending Detection with Forensic},
+  Title                    = {Extending Detection with Forensic Information},
   Author                   = {Celik, Z. Berkay and McDaniel, Patrick and Izmailov, Rauf and Papernot, Nicolas and Swami, Ananthram},
   Journal                  = {arXiv preprint arXiv:1603.09638},
   Year                     = {2016},
 
-  Url                      = {https://arxiv.org/pdf/1603.09638v2.pdf}
+  Url                      = {https://arxiv.org/pdf/1603.09638v3.pdf}
 }
 
 @InProceedings{celik2013detection,
