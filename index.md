@@ -25,7 +25,7 @@ I've had the opportunity to work on a number of interesting research projects du
 
 
 #### Patient-Driven Privacy Control 
-<img align="left" src="{{ site.base }}/img/patient-privacy/problem.png" style="border-radius: 15px" hspace="15"> The introduction of data analytics into medicine has changed the nature of treatment. In this, patients are asked to disclose personal information such as genetic markers, lifestyle habits, and clinical history. This data is then used by statistical models to predict personalized treatments. However, due to privacy concerns, patients often desire to withhold sensitive information. This self-censorship can impede proper diagnosis and treatment, which may lead to serious health complications and even death. In this paper, we present privacy distillation, a mechanism which allows patients to control the type and amount of information they wish to disclose to the healthcare providers for use in statistical models. Meanwhile, it retains the accuracy of models that have access to all patient data under a sufficient but not full set of privacy-relevant information. We validate privacy distillation using a corpus of patients prescribed to warfarin for a personalized dosage. We use a deep neural network to implement privacy distillation for training and making dose predictions. We find that privacy distillation with sufficient privacy-relevant information i) retains accuracy almost as good as having all patient data (only 3% worse), and ii) is effective at preventing errors that introduce health-related risks (yielding on average 3.9% of under- or over-prescriptions).
+<img align="left" src="{{ site.base }}/img/patient-privacy/problem.png" style="border-radius: 15px" hspace="15"> The introduction of data analytics into medicine has changed the nature of treatment. In this, patients are asked to disclose personal information such as genetic markers, lifestyle habits, and clinical history. This data is then used by statistical models to predict personalized treatments. However, due to privacy concerns, patients often desire to withhold sensitive information. This self-censorship can impede proper diagnosis and treatment, which may lead to serious health complications and even death. In this work, we present privacy distillation, a mechanism which allows patients to control the type and amount of information they wish to disclose to the healthcare providers for use in statistical models. Meanwhile, it retains the accuracy of models that have access to all patient data under a sufficient but not full set of privacy-relevant information. We validate privacy distillation using a corpus of patients prescribed to warfarin for a personalized dosage. We use a deep neural network to implement privacy distillation for training and making dose predictions. We find that privacy distillation with sufficient privacy-relevant information i) retains accuracy almost as good as having all patient data (only 3% worse), and ii) is effective at preventing errors that introduce health-related risks (yielding on average 3.9% of under- or over-prescriptions).
 
 This paper is under peer-review: [Patient-Driven Privacy Control through Generalized Distillation](https://arxiv.org/pdf/1611.08648v1.pdf), Z Berkay Celik, David Lopez-Paz, and Patrick McDaniel, 2016.
 
@@ -47,8 +47,7 @@ activities including Content Distribution Networks (CDNs). Read more about the s
 
 #### Machine Learning in Adversarial Settings
 
-<img align="left" src="{{ site.base }}/img/adversarial/dnn-sm.png" style="border-radius: 15px;
-box-shadow: 5px 8px 10px #e0e0e0" hspace="15"> One of the limitations of machine learning in practice is that they are subject to adversarial samples. Adversarial samples are carefully modified inputs crafted to dictate a selected output. In the context of classification, adversarial samples are crafted so as to force a target model to classify them in a class different from their legitimate class. In this work, we focus on Deep Neural Networks (DNNs) for adversarial sample generation and attacker's capabilities to evade systems built on DNNs.
+<img align="left" src="{{ site.base }}/img/adversarial/dnn-sm.png" style="border-radius: 15px" hspace="15"> One of the limitations of machine learning in practice is that they are subject to adversarial samples. Adversarial samples are carefully modified inputs crafted to dictate a selected output. In the context of classification, adversarial samples are crafted so as to force a target model to classify them in a class different from their legitimate class. In this work, we focus on Deep Neural Networks (DNNs) for adversarial sample generation and attacker's capabilities to evade systems built on DNNs.
 
 In collaboration with [Nicolas Papernot](https://www.papernot.fr/).
 
@@ -58,4 +57,4 @@ I am involved in is the 10-year Cyber-Security Collaborative Research Alliance (
 
 ### Publications
 
-{% include pubs.html %}
+{% include pubs-2.html %}
