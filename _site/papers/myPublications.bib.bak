@@ -22,13 +22,22 @@
   Url                      = {http://www.cse.psu.edu/~zbc102/files/svm_plus_technical_report_15.pdf}
 }
 
+@Article{celik2017Pets,
+  Title                    = {Patient-Driven Privacy Control through Generalized Distillation},
+  Author                   = {Celik, Z. Berkay and Lopez-Paz, David, and McDaniel, Patrick and Izmailov},
+  Journal                  = {In submission},
+  Year                     = {2017},
+
+  Url                      = {https://arxiv.org/pdf/1603.09638v2.pdf}
+}
+
 @Article{celik2016building,
-  Title                    = {Building Better Detection with Privileged Information},
-  Author                   = {Celik, Z Berkay and McDaniel, Patrick and Izmailov, Rauf and Papernot, Nicolas and Swami, Ananthram},
+  Title                    = {Extending Detection with Forensic Information},
+  Author                   = {Celik, Z. Berkay and McDaniel, Patrick and Izmailov, Rauf and Papernot, Nicolas and Swami, Ananthram},
   Journal                  = {arXiv preprint arXiv:1603.09638},
   Year                     = {2016},
 
-  Url                      = {https://arxiv.org/pdf/1603.09638v2.pdf}
+  Url                      = {https://arxiv.org/pdf/1603.09638v3.pdf}
 }
 
 @InProceedings{celik2013detection,
@@ -58,6 +67,16 @@
   Organization             = {IEEE},
 
   Url                      = {https://beerkay.github.io/papers/Celik15_Milcom.pdf}
+}
+
+@InProceedings{nanberkay,
+  Title                    = {Action-Driven Operation Model with Evaluation of Risk and Executability (ADOM-ERE)},
+  Author                   = {Hu, Nan and Bartolini, Novella, and La Porta, Tom and Celik, Z. Berkay and McDaniel, Patrick},
+  Booktitle                = {In submission },
+  Year                     = {2017},
+
+  Owner                    = {berkay},
+  Timestamp                = {2016.09.02}
 }
 
 @Article{mcdaniel2016machine,

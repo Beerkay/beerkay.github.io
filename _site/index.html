@@ -69,7 +69,7 @@ box-shadow: 5px 8px 10px #e0e0e0">
           <tr>
             <td colspan="2"> <h3 id="news">News</h3>
 
-<p><strong>Reviewing papers</strong>:</p>
+<hr />
 
 <h3 id="about-me">About Me</h3>
 
@@ -84,17 +84,18 @@ Clustering project (also supported by Cisco Systems URP gift and DHS/NSF EMIST/D
 
 <p>I’ve had the opportunity to work on a number of interesting research projects during my Msc. and PhD. studies. Here is a summary of some of my efforts.</p>
 
-<h4 id="detection-with-privileged-information">Detection with Privileged Information</h4>
-<p><img align="left" src="https://beerkay.github.io/img/privileged/privileged-sm.png" style="border-radius: 15px; box-shadow: 5px 8px 10px #e0e0e0" hspace="15" /> Modern detection systems use sensor outputs available in the deployment environment to probabilistically identify attacks. These systems are trained on past or synthetic feature vectors to create a model of anomalous or normal behavior. Thereafter, run-time collected sensor outputs are compared to the model to identify attacks (or the lack of attack). While this approach to detection has been proven to be effective in many environments, it is limited to training on only features that can be reliably collected at test-time. Hence, they fail to leverage the often vast amount of ancillary information available from past forensic analysis and post-mortem data. In short, detection systems do not train (and thus do not learn from) features that are unavailable or too costly to collect at run-time. In this work, we leverage recent advances in machine learning to integrate privileged information—features reliably available at training time, but not at run-time—into detection algorithms.</p>
+<h4 id="patient-driven-privacy-control">Patient-Driven Privacy Control</h4>
+<p><img align="left" src="https://beerkay.github.io/img/patient-privacy/problem.png" style="border-radius: 15px" hspace="15" /> The introduction of data analytics into medicine has changed the nature of treatment. In this, patients are asked to disclose personal information such as genetic markers, lifestyle habits, and clinical history. This data is then used by statistical models to predict personalized treatments. However, due to privacy concerns, patients often desire to withhold sensitive information. This self-censorship can impede proper diagnosis and treatment, which may lead to serious health complications and even death. In this work, we present privacy distillation, a mechanism which allows patients to control the type and amount of information they wish to disclose to the healthcare providers for use in statistical models. Meanwhile, it retains the accuracy of models that have access to all patient data under a sufficient but not full set of privacy-relevant information. We validate privacy distillation using a corpus of patients prescribed to warfarin for a personalized dosage. We use a deep neural network to implement privacy distillation for training and making dose predictions. We find that privacy distillation with sufficient privacy-relevant information i) retains accuracy almost as good as having all patient data (only 3% worse), and ii) is effective at preventing errors that introduce health-related risks (yielding on average 3.9% of under- or over-prescriptions).</p>
 
-<p>This paper is under peer-review: <a href="https://arxiv.org/pdf/1603.09638v1.pdf">Building Better Detection with Privileged Information</a>, Z Berkay Celik, Patrick McDaniel, Rauf Izmailov, Nicolas Papernot and Ananthram Swami, arXiv preprint arXiv:1603.09638, 2016. Read more about formulation and implementation in <a href="http://www.cse.psu.edu/~zbc102/files/svm_plus_technical_report_15.pdf">technical report</a>.</p>
+<p>This paper is under peer-review: <a href="https://arxiv.org/pdf/1611.08648v1.pdf">Patient-Driven Privacy Control through Generalized Distillation</a>, Z. Berkay Celik, David Lopez-Paz, and Patrick McDaniel, 2016.</p>
+
+<h4 id="extending-detection-with-forensic-information">Extending Detection with Forensic Information</h4>
+<p><img align="left" src="https://beerkay.github.io/img/privileged/forensic-detection.png" style="border-radius: 15px" hspace="15" /> For over a quarter century, security-relevant detection has been driven by models learned from input features collected from real or simulated environments. An artifact (e.g., network event, potential malware sample, suspicious email) is deemed malicious or non-malicious based on its similarity to the learned model at run-time. However, the training of the models has been historically limited to only those features available at run time. This talk covers an alternate model construction approach that trains models using forensic “privileged” information–features available at training time but not at runtime–to improve the accuracy and resilience of detection systems. In particular, we adapt and extend recent advances in knowledge transfer, model influence, and distillation to enable the use of forensic data in a range of security domains. Such techniques open the door to systems that can integrate forensic data directly into detection models, and therein provide a means to fully exploit the information available about past security-relevant events.</p>
+
+<p>This paper is under peer-review: <a href="https://arxiv.org/pdf/1603.09638v3.pdf">Extending Detection with Forensic Information</a>, Z. Berkay Celik, Patrick McDaniel, Rauf Izmailov, Nicolas Papernot and Ananthram Swami, 2016. Read more about formulation and implementation in <a href="http://www.cse.psu.edu/~zbc102/files/svm_plus_technical_report_15.pdf">technical report</a>.</p>
 
 <h4 id="malware-traffic-detection-and-experimentation-artifacts">Malware Traffic Detection and Experimentation Artifacts</h4>
-<p><img align="left" src="https://beerkay.github.io/img/malware/malware-sm.png" style="border-radius: 15px; box-shadow: 5px 8px 10px #e0e0e0" hspace="15" /> We present a framework for evaluating the transport layer feature space of malware heartbeat traffic.
-We utilize these features in a prototype detection system to distinguish malware traffic from traffic generated by legitimate
-applications. In contrast to previous work, we eliminate features at risk of producing overly optimistic detection results, detect previously
-unobserved anomalous behavior, and rely only on tamperresistant features making it difficult for sophisticated malware
-to avoid detection. Further, we characterize the evolution of malware evasion techniques over time by examining the behavior of 16 malware families. In particular, we highlight the difficulty of detecting malware that use traffic-shaping techniques to mimic legitimate traffic. Read more about the study <a href="https://beerkay.github.io/papers/Celik15_Milcom.pdf">here</a>.</p>
+<p><img align="left" src="https://beerkay.github.io/img/malware/malware-sm.png" style="border-radius: 15px" hspace="15" /> We present a framework for evaluating the transport layer feature space of malware heartbeat traffic. We utilize these features in a prototype detection system to distinguish malware traffic from traffic generated by legitimate applications. In contrast to previous work, we eliminate features at risk of producing overly optimistic detection results, detect previously unobserved anomalous behavior, and rely only on tamperresistant features making it difficult for sophisticated malware to avoid detection. Further, we characterize the evolution of malware evasion techniques over time by examining the behavior of 16 malware families. In particular, we highlight the difficulty of detecting malware that use traffic-shaping techniques to mimic legitimate traffic. Read more about the study <a href="https://beerkay.github.io/papers/Celik15_Milcom.pdf">here</a>.</p>
 
 <p>In our <a href="https://beerkay.github.io/papers/Celik11_CSET.pdf">CSET 2011</a> work my co-authors and I also take a closer look at the experimentation artifacts of malware detection. We find that current approaches do not consider timing-based calibration of the C&amp;C traffic traces prior to using this traffic to salt a background traffic trace. Thus, timing-based features of the C&amp;C traffic may be artificially distinctive, potentially leading to (unrealistically) optimistic flow classification results.</p>
 
@@ -105,20 +106,19 @@ activities including Content Distribution Networks (CDNs). Read more about the s
 
 <h4 id="machine-learning-in-adversarial-settings">Machine Learning in Adversarial Settings</h4>
 
-<p><img align="left" src="https://beerkay.github.io/img/adversarial/dnn-sm.png" style="border-radius: 15px; box-shadow: 5px 8px 10px #e0e0e0" hspace="15" /> One of the limitations of machine learning in practice is that they are subject to adversarial samples. Adversarial samples are carefully modified inputs crafted to dictate a selected output. In the context of classification, adversarial samples are crafted so as to force a target model to classify them in a class different from their legitimate class. In this work, we focus on Deep Neural Networks (DNNs) for adversarial sample generation and attacker’s capabilities to evade systems built on DNNs.</p>
+<p><img align="left" src="https://beerkay.github.io/img/adversarial/dnn-sm.png" style="border-radius: 15px" hspace="15" /> One of the limitations of machine learning in practice is that they are subject to adversarial samples. Adversarial samples are carefully modified inputs crafted to dictate a selected output. In the context of classification, adversarial samples are crafted so as to force a target model to classify them in a class different from their legitimate class. In this work, we focus on Deep Neural Networks (DNNs) for adversarial sample generation and attacker’s capabilities to evade systems built on DNNs.</p>
 
 <p>In collaboration with <a href="https://www.papernot.fr/">Nicolas Papernot</a>.</p>
 
 <h4 id="science-of-security">Science of Security</h4>
 
-<p>Perhaps the most ambitious projects I am involved in is the 10-year Cyber-Security Collaborative Research Alliance (<a href="http://cra.psu.edu/">CSec CRA</a>) with the Army Research Laboratory, Penn State, Carnegie Mellon, UC Riverside, UC Davis, and Indiana University. Our mandate is to develop a new science of security. As part of this effort, I’ve worked on the foundation for representing of operational and environmental knowledge. (See my work on operational models <a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=g1I269gAAAAJ&amp;citation_for_view=g1I269gAAAAJ:e5wmG9Sq2KIC">here</a>). Our goal to reason about both current and future states to make optimal security decisions.</p>
+<p>I am involved in 10-year Cyber-Security Collaborative Research Alliance (<a href="http://cra.psu.edu/">CSec CRA</a>) with the Army Research Laboratory, Penn State, Carnegie Mellon, UC Riverside, UC Davis, and Indiana University. Our mandate is to develop a new science of security. As part of this effort, I’ve worked on the foundation for representing of operational and environmental knowledge. (See my work on operational models <a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=g1I269gAAAAJ&amp;citation_for_view=g1I269gAAAAJ:e5wmG9Sq2KIC">here</a>). Our goal to reason about both current and future states of a system to make optimal decisions.</p>
 
 <h3 id="publications">Publications</h3>
 
 <html>
 <head>
-<title>Z. Berkay Celik Publications</title>
-<meta http-equiv="Content-Type" content="text/html; charset=MacRoman" />
+<title>Berkay references</title>
 <script type="text/javascript">
 <!--
 // QuickSearch script for JabRef HTML export 
@@ -505,40 +505,62 @@ p.infolinks { margin: 0.3em 0em 0em 0em; padding: 0px; }
 </head>
 <body>
 
-<form action="" id="quicksearch">
-<input type="text" id="qs_field" autocomplete="off" placeholder="Type to search..." /> <input type="button" onclick="clearQS()" value="clear" />
-<span id="searchstat">Matching entries: <span id="stat">0</span></span>
-<div id="showsettings" onclick="toggleSettings()">settings...</div>
-<div id="settings" class="hidden">
-<ul>
-<li><input type="checkbox" class="search_setting" id="opt_searchAbs" onchange="updateSetting(this)" /><label for="opt_searchAbs"> include abstract</label></li>
-<li><input type="checkbox" class="search_setting" id="opt_searchRev" onchange="updateSetting(this)" /><label for="opt_searchRev"> include review</label></li>
-<li><input type="checkbox" class="search_setting" id="opt_useRegExp" onchange="updateSetting(this)" /><label for="opt_useRegExp"> use RegExp</label></li>
-<li><input type="checkbox" class="search_setting" id="opt_noAccents" onchange="updateSetting(this)" /><label for="opt_noAccents"> ignore accents</label></li>
-</ul>
-</div>
-</form>
+
+
 <table id="qs_table" border="1">
 <tbody>
+<tr id="celik2017Pets" class="entry">
+	<td>Celik ZB, Lopez-Paz D, McDaniel P and Izmailov (2017), <i>"Patient-Driven Privacy Control through Generalized Distillation"</i>, arXiv preprint arXiv:1611.08648. 
+	<p class="infolinks"> [<a href="javascript:toggleInfo('celik2017Pets','bibtex')">BibTeX</a>] [<a href="https://arxiv.org/pdf/1603.09638v2.pdf" target="_blank">URL</a>]</p>
+	</td>
+</tr>
+<tr id="bib_celik2017Pets" class="bibtex noshow">
+<td><b>BibTeX</b>:
+<pre>
+@article{celik2017Pets,
+  author = {Celik, Z. Berkay and Lopez-Paz, David, and McDaniel, Patrick and Izmailov},
+  title = {Patient-Driven Privacy Control through Generalized Distillation},
+  journal = {In submission},
+  year = {2016},
+  url = {https://arxiv.org/pdf/1611.08648v1.pdf}
+}
+</pre></td>
+</tr>
 <tr id="celik2016building" class="entry">
-	<td>Celik ZB, McDaniel P, Izmailov R, Papernot N and Swami A (2016), <i>"Building Better Detection with Privileged Information"</i>, arXiv preprint arXiv:1603.09638. 
-	<p class="infolinks"> [<a href="javascript:toggleInfo('celik2016building','bibtex')">BibTeX</a>] [<a href="https://arxiv.org/pdf/1603.09638v2.pdf" target="_blank">URL</a>]</p>
+	<td>Celik ZB, McDaniel P, Izmailov R, Papernot N and Swami A (2016), <i>"Extending Detection with Forensic Information"</i>, arXiv preprint arXiv:1603.09638. 
+	<p class="infolinks"> [<a href="javascript:toggleInfo('celik2016building','bibtex')">BibTeX</a>] [<a href="https://arxiv.org/pdf/1603.09638v3.pdf" target="_blank">URL</a>]</p>
 	</td>
 </tr>
 <tr id="bib_celik2016building" class="bibtex noshow">
 <td><b>BibTeX</b>:
 <pre>
 @article{celik2016building,
-  author = {Celik, Z Berkay and McDaniel, Patrick and Izmailov, Rauf and Papernot, Nicolas and Swami, Ananthram},
-  title = {Building Better Detection with Privileged Information},
+  author = {Celik, Z. Berkay and McDaniel, Patrick and Izmailov, Rauf and Papernot, Nicolas and Swami, Ananthram},
+  title = {Extending Detection with Forensic Information},
   journal = {arXiv preprint arXiv:1603.09638},
   year = {2016},
-  url = {https://arxiv.org/pdf/1603.09638v2.pdf}
+  url = {https://arxiv.org/pdf/1603.09638v3.pdf}
+}
+</pre></td>
+</tr>
+<tr id="nanberkay" class="entry">
+	<td>Hu N, Bartolini N., La Porta T, Celik ZB and McDaniel P (2017), <i>"Action-Driven Operation Model with Evaluation of Risk and Executability (ADOM-ERE)"</i>, In submission. 
+	<p class="infolinks"> [<a href="javascript:toggleInfo('nanberkay','bibtex')">BibTeX</a>]</p>
+	</td>
+</tr>
+<tr id="bib_nanberkay" class="bibtex noshow">
+<td><b>BibTeX</b>:
+<pre>
+@inproceedings{nanberkay,
+  author = {Hu, Nan and Bartolini, Novella, and La Porta, Tom and Celik, Z. Berkay and McDaniel, Patrick},
+  title = {Action-Driven Operation Model with Evaluation of Risk and Executability (ADOM-ERE)},
+  booktitle = {In submission },
+  year = {2017}
 }
 </pre></td>
 </tr>
 <tr id="celik2016mapping" class="entry">
-	<td>Celik ZB, Hu N, Li Y, Papernot N, McDaniel P, Rowe J, Walls R, Levitt K, Bartolini N, Porta TFL and others (2016), <i>"Mapping Sample Scenarios to Operational Models"</i>, In Internatonal Conference for Military Communications (MILCOM). 
+	<td>Celik ZB, Hu N, Li Y, Papernot N, McDaniel P, Rowe J, Walls R, Levitt K, Bartolini N, La Porta T and Chadha R (2016), <i>"Mapping Sample Scenarios to Operational Models"</i>, In Internatonal Conference for Military Communications (MILCOM). 
 	<p class="infolinks"> [<a href="javascript:toggleInfo('celik2016mapping','bibtex')">BibTeX</a>]</p>
 	</td>
 </tr>
@@ -546,7 +568,7 @@ p.infolinks { margin: 0.3em 0em 0em 0em; padding: 0px; }
 <td><b>BibTeX</b>:
 <pre>
 @inproceedings{celik2016mapping,
-  author = {Celik, Z. Berkay and Hu, Nan and Li, Yun and Papernot, Nicolas and McDaniel, Patrick and Rowe, Jeff and Walls, Robert and Levitt, Karl and Bartolini, Novella and Porta, Thomas F. La and others},
+  author = {Celik, Z. Berkay and Hu, Nan and Li, Yun and Papernot, Nicolas and McDaniel, Patrick and Rowe, Jeff and Walls, RobertJ. and Levitt, Karl and Bartolini, Novella and La Porta, Thomas and Chadha, Ritu},
   title = {Mapping Sample Scenarios to Operational Models},
   booktitle = {Internatonal Conference for Military Communications (MILCOM)},
   year = {2016}
@@ -608,7 +630,7 @@ p.infolinks { margin: 0.3em 0em 0em 0em; padding: 0px; }
 </pre></td>
 </tr>
 <tr id="celik2015malware" class="entry">
-	<td>Celik ZB, Walls RJ, McDaniel P and Swami A (2015), <i>"Malware Traffic Detection using Tamper Resistant Features"</i>, In International Conference for Military Communications (MILCOM). 
+	<td>Celik ZB, Walls RJ, McDaniel P and Swami A (2015), <i>"Malware Traffic Detection using Tamper Resistant Features"</i>, In Internatonal Conference for Military Communications (MILCOM). 
 	<p class="infolinks"> [<a href="javascript:toggleInfo('celik2015malware','bibtex')">BibTeX</a>] [<a href="https://beerkay.github.io/papers/Celik15_Milcom.pdf" target="_blank">URL</a>]</p>
 	</td>
 </tr>
@@ -618,7 +640,7 @@ p.infolinks { margin: 0.3em 0em 0em 0em; padding: 0px; }
 @inproceedings{celik2015malware,
   author = {Celik, Z Berkay and Walls, Robert J and McDaniel, Patrick and Swami, Ananthram},
   title = {Malware Traffic Detection using Tamper Resistant Features},
-  booktitle = {International Conference for Military Communications (MILCOM)},
+  booktitle = {Internatonal Conference for Military Communications (MILCOM)},
   year = {2015},
   url = {https://beerkay.github.io/papers/Celik15_Milcom.pdf}
 }
@@ -661,7 +683,7 @@ p.infolinks { margin: 0.3em 0em 0em 0em; padding: 0px; }
 </pre></td>
 </tr>
 <tr id="celik2011salting" class="entry">
-	<td>Celik ZB, Raghuram J, Kesidis G and Miller DJ (2011), <i>"Salting public traces with attack traffic to test flow classifiers"</i>, In USENIX 4th CSET Workshop. 
+	<td>Celik ZB, Raghuram J, Kesidis G and Miller DJ (2011), <i>"Salting public traces with attack traffic to test flow classifiers"</i>, In In USENIX 4th CSET Workshop. 
 	<p class="infolinks"> [<a href="javascript:toggleInfo('celik2011salting','bibtex')">BibTeX</a>] [<a href="https://beerkay.github.io/papers/Celik11_CSET.pdf" target="_blank">URL</a>]</p>
 	</td>
 </tr>
@@ -671,7 +693,7 @@ p.infolinks { margin: 0.3em 0em 0em 0em; padding: 0px; }
 @inproceedings{celik2011salting,
   author = {Celik, Z Berkay and Raghuram, Jayaram and Kesidis, George and Miller, David J},
   title = {Salting public traces with attack traffic to test flow classifiers},
-  booktitle = {USENIX 4th CSET Workshop},
+  booktitle = {In USENIX 4th CSET Workshop},
   year = {2011},
   url = {https://beerkay.github.io/papers/Celik11_CSET.pdf}
 }
@@ -679,6 +701,7 @@ p.infolinks { margin: 0.3em 0em 0em 0em; padding: 0px; }
 </tr>
 </tbody>
 </table>
+
 </body>
 </html>
 </td>

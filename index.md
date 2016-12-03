@@ -6,8 +6,7 @@ notitle: true
 
 ### News
 
-**Reviewing papers**: 
-
+---
 
 ### About Me
 
@@ -27,12 +26,12 @@ I've had the opportunity to work on a number of interesting research projects du
 #### Patient-Driven Privacy Control 
 <img align="left" src="{{ site.base }}/img/patient-privacy/problem.png" style="border-radius: 15px" hspace="15"> The introduction of data analytics into medicine has changed the nature of treatment. In this, patients are asked to disclose personal information such as genetic markers, lifestyle habits, and clinical history. This data is then used by statistical models to predict personalized treatments. However, due to privacy concerns, patients often desire to withhold sensitive information. This self-censorship can impede proper diagnosis and treatment, which may lead to serious health complications and even death. In this work, we present privacy distillation, a mechanism which allows patients to control the type and amount of information they wish to disclose to the healthcare providers for use in statistical models. Meanwhile, it retains the accuracy of models that have access to all patient data under a sufficient but not full set of privacy-relevant information. We validate privacy distillation using a corpus of patients prescribed to warfarin for a personalized dosage. We use a deep neural network to implement privacy distillation for training and making dose predictions. We find that privacy distillation with sufficient privacy-relevant information i) retains accuracy almost as good as having all patient data (only 3% worse), and ii) is effective at preventing errors that introduce health-related risks (yielding on average 3.9% of under- or over-prescriptions).
 
-This paper is under peer-review: [Patient-Driven Privacy Control through Generalized Distillation](https://arxiv.org/pdf/1611.08648v1.pdf), Z Berkay Celik, David Lopez-Paz, and Patrick McDaniel, 2016.
+This paper is under peer-review: [Patient-Driven Privacy Control through Generalized Distillation](https://arxiv.org/pdf/1611.08648v1.pdf), Z. Berkay Celik, David Lopez-Paz, and Patrick McDaniel, 2016.
 
 #### Extending Detection with Forensic Information
 <img align="left" src="{{ site.base }}/img/privileged/forensic-detection.png" style="border-radius: 15px" hspace="15"> For over a quarter century, security-relevant detection has been driven by models learned from input features collected from real or simulated environments. An artifact (e.g., network event, potential malware sample, suspicious email) is deemed malicious or non-malicious based on its similarity to the learned model at run-time. However, the training of the models has been historically limited to only those features available at run time. This talk covers an alternate model construction approach that trains models using forensic "privileged" information--features available at training time but not at runtime--to improve the accuracy and resilience of detection systems. In particular, we adapt and extend recent advances in knowledge transfer, model influence, and distillation to enable the use of forensic data in a range of security domains. Such techniques open the door to systems that can integrate forensic data directly into detection models, and therein provide a means to fully exploit the information available about past security-relevant events.
 
-This paper is under peer-review: [Extending Detection with Forensic Information](https://arxiv.org/pdf/1603.09638v3.pdf), Z Berkay Celik, Patrick McDaniel, Rauf Izmailov, Nicolas Papernot and Ananthram Swami, 2016. Read more about formulation and implementation in [technical report](http://www.cse.psu.edu/~zbc102/files/svm_plus_technical_report_15.pdf).
+This paper is under peer-review: [Extending Detection with Forensic Information](https://arxiv.org/pdf/1603.09638v3.pdf), Z. Berkay Celik, Patrick McDaniel, Rauf Izmailov, Nicolas Papernot and Ananthram Swami, 2016. Read more about formulation and implementation in [technical report](http://www.cse.psu.edu/~zbc102/files/svm_plus_technical_report_15.pdf).
 
 
 #### Malware Traffic Detection and Experimentation Artifacts
@@ -53,8 +52,8 @@ In collaboration with [Nicolas Papernot](https://www.papernot.fr/).
 
 #### Science of Security
 
-I am involved in is the 10-year Cyber-Security Collaborative Research Alliance ([CSec CRA](http://cra.psu.edu/)) with the Army Research Laboratory, Penn State, Carnegie Mellon, UC Riverside, UC Davis, and Indiana University. Our mandate is to develop a new science of security. As part of this effort, I've worked on the foundation for representing of operational and environmental knowledge. (See my work on operational models [here](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g1I269gAAAAJ&citation_for_view=g1I269gAAAAJ:e5wmG9Sq2KIC)). Our goal to reason about both current and future states  of a system to make optimal security decisions. 
+I am involved in 10-year Cyber-Security Collaborative Research Alliance ([CSec CRA](http://cra.psu.edu/)) with the Army Research Laboratory, Penn State, Carnegie Mellon, UC Riverside, UC Davis, and Indiana University. Our mandate is to develop a new science of security. As part of this effort, I've worked on the foundation for representing of operational and environmental knowledge. (See my work on operational models [here](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g1I269gAAAAJ&citation_for_view=g1I269gAAAAJ:e5wmG9Sq2KIC)). Our goal to reason about both current and future states of a system to make optimal decisions.
 
-#### Publications
+### Publications
 
 {% include pubs-2.html %}
