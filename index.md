@@ -5,7 +5,7 @@ notitle: true
 ---
 
 ### News
-Pennsylvania State University working with [Prof. Patrick McDaniel](http://www.patrickmcdaniel.org/) 
+
 ---
 
 ### About Me
