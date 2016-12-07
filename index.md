@@ -16,6 +16,7 @@ During my Msc.studies, I worked with [Prof. George Kesidis](http://www.cse.psu.e
 Clustering project (also supported by Cisco Systems URP gift and DHS/NSF EMIST/DETER project). My research there focused on network security and learning algorithms. 
 
 I also worked under the direction of [Prof. Sema Oktug](http://web.itu.edu.tr/~oktug/) at [Istanbul Technical University](http://www.itu.edu.tr/en/) focusing on practical network security problems (e.g., fast-flux networks).
+
 ---
 
 ### Projects
@@ -53,6 +54,7 @@ In collaboration with [Nicolas Papernot](https://www.papernot.fr/).
 #### Science of Security
 
 I am involved in Cyber-Security Collaborative Research Alliance ([CSec CRA](http://cra.psu.edu/)) with the Army Research Laboratory, Penn State, Carnegie Mellon, UC Riverside, UC Davis, and Indiana University. Our mandate is to develop a new science of security. As part of this effort, I've worked on the foundation for representing of operational and environmental knowledge. (See my work on operational models [here](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g1I269gAAAAJ&citation_for_view=g1I269gAAAAJ:e5wmG9Sq2KIC)). Our goal to reason about both current and future states of a system to make optimal decisions.
+
 ---
 
 ### Invited Talks
