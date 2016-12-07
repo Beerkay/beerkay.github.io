@@ -5,7 +5,7 @@ notitle: true
 ---
 
 ### News
-
+Pennsylvania State University working with [Prof. Patrick McDaniel](http://www.patrickmcdaniel.org/) 
 ---
 
 ### About Me
@@ -53,6 +53,9 @@ In collaboration with [Nicolas Papernot](https://www.papernot.fr/).
 #### Science of Security
 
 I am involved in Cyber-Security Collaborative Research Alliance ([CSec CRA](http://cra.psu.edu/)) with the Army Research Laboratory, Penn State, Carnegie Mellon, UC Riverside, UC Davis, and Indiana University. Our mandate is to develop a new science of security. As part of this effort, I've worked on the foundation for representing of operational and environmental knowledge. (See my work on operational models [here](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g1I269gAAAAJ&citation_for_view=g1I269gAAAAJ:e5wmG9Sq2KIC)). Our goal to reason about both current and future states of a system to make optimal decisions.
+
+### Invited Talks
+December 2016 --- Extending Detection with Forensic information (FIU, host: [Dr. Selcuk Uluagac](http://web.eng.fiu.edu/selcuk/), [Cyber-Physical Systems Security Lab](https://csl.fiu.edu/)
 
 ### Publications
 
