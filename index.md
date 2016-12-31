@@ -58,7 +58,11 @@ I am involved in Cyber-Security Collaborative Research Alliance ([CSec CRA](http
 ---
 
 ### Invited Talks
-* December 2016 --- Extending Detection with Forensic information (FIU, host: [Dr. Selcuk Uluagac](http://web.eng.fiu.edu/selcuk/), [Cyber-Physical Systems Security Lab](https://csl.fiu.edu/))
+
+* December 2016 --- Recent Research Topics in Security and Networking (Istanbbul Technical University, host: [Prof. Sema Oktug](http://web.itu.edu.tr/~oktug/),
+[Computer Networks Research Laboratory](http://www.bb.itu.edu.tr/en/research/computer-networks-research-laboratory))
+
+* December 2016 --- Extending Detection with Forensic Information (Florida International University, host: [Dr. Selcuk Uluagac](http://web.eng.fiu.edu/selcuk/), [Cyber-Physical Systems Security Lab](https://csl.fiu.edu/))
 
 ### Publications
 
