@@ -27,7 +27,7 @@ I've had the opportunity to work on a number of interesting research projects du
 #### Policy-based Secure Data Exchange 
 <img align="left" src="{{ site.base }}/img/curie/curie.png" style="border-radius: 15px" hspace="15"> Data sharing among partners---users, organizations, companies---is crucial for the advancement of data analytics in many domains. Sharing through secure computation and differential privacy allows these partners to perform private computations on their sensitive data in controlled ways. However, in reality, there exist complex relationships among members. Politics, regulations, interest, trust, data demands and needs are one of the many reasons. Thus, there is a need for a mechanism to meet these conflicting relationships on data sharing. This paper presents Curie, an approach to exchange data among members whose membership has complex relationships. The CPL policy language that allows members to define the specifications of data exchange requirements is introduced. Members (partners) assert who and what to exchange through their local policies and negotiate a global sharing agreement. The agreement is implemented in a multi-party computation that guarantees sharing among members will comply with the policy as negotiated. The use of Curie is validated through an example of a health care application built on recently introduced secure multi-party computation and differential privacy frameworks, and policy and performance trade-offs are explored.
 
-This paper is under peer-review: [Curie: Policy-based Secure Data Exchange](https://arxiv.org/pdf/1702.08342.pdf), Z. Berkay Celik, Hidayet Aksu, Abbas Acar,Ryan Sheatsley, A. Selcuk Uluagac and Patrick McDaniel, 2017. We extend the algorithms used in Curie paper and construct algorithms for [Achieving Secure and Differentially Private Computations in Multiparty Settings]("ttps://arxiv.org/pdf/1702.08342.pdf"). This paper is accepted to IEEE Privacy-aware computing (PAC) conference.
+This paper is under peer-review: [Curie: Policy-based Secure Data Exchange](https://arxiv.org/pdf/1702.08342.pdf), Z. Berkay Celik, Hidayet Aksu, Abbas Acar,Ryan Sheatsley, A. Selcuk Uluagac and Patrick McDaniel, 2017. We extend the algorithms used in Curie paper and construct algorithms for [Achieving Secure and Differentially Private Computations in Multiparty Settings](https://arxiv.org/pdf/1702.08342.pdf). This paper is accepted to IEEE Privacy-aware computing (PAC) conference.
 
 
 #### Patient-Driven Privacy Control 
@@ -65,9 +65,9 @@ I am involved in Cyber-Security Collaborative Research Alliance ([CSec CRA](http
 ### Professional Activities
 
 * 2016, Technical Program Committee for MILCOM'16 Track 3: Cyber Security and Trusted Computing.
-* 2017, Program Committee for first ACM CCS Workshop on Internet-of-Things Security and Privacy (IoT S&P 2017)
+* 2017, Program Committee for first ACM CCS Workshop on Internet-of-Things Security and Privacy (IoT S&P)
 * 2017, Publicity Chair for  IEEE Conference on Communications and Network Security (CNS) Workshop on Cyber-Physical Systems Security (CPS-Sec)
-* Reviewer: IEEE S&P Magazine (2016), NDSS (2016), Journal of Network and Computer Applications (JNCA) (2016), Computers — Open Access Journal (2016), College of Engineering Research Symposium (CERS) (2016)
+* Reviewer: IEEE S&P Magazine (2016), NDSS (2016), Journal of Network and Computer Applications (JNCA) (2016), Computers-Open Access Journal (2016), College of Engineering Research Symposium (CERS) (2016)
 
 
 ### Invited Talks
