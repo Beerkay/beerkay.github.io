@@ -71,8 +71,8 @@ I am involved in Cyber-Security Collaborative Research Alliance ([CSec CRA](http
 * Reviewer: IEEE S&P Magazine (2016), NDSS (2016), Journal of Network and Computer Applications (JNCA) (2016), Computers-Open Access Journal (2016), College of Engineering Research Symposium (CERS) (2016)
 
 ### Invited Talks
-* March 2016, Malware Detection with Tamper-proof Features, [Army Research Laboratory](https://www.arl.army.mil/www/default.cfm) (host: Dr. Ananthram Swami)
-* March 2016, Mapping Sample Scenarios to Operational Models in Cyber Environments, A DoD Multidisciplinary University Research Initiative (MURI) Project  (George Mason University, host:[Sushil Jajodia] (http://csis.gmu.edu/jajodia/)), 
+* March 2016, Malware Traffic Detection using Tamper Resistant Features, [Army Research Laboratory](https://www.arl.army.mil/www/default.cfm) (host: Dr. Ananthram Swami)
+* March 2016, Mapping Sample Scenarios to Operational Models in Cyber Environments, A DoD Multidisciplinary University Research Initiative (MURI) Project (George Mason University, host:[Sushil Jajodia](http://csis.gmu.edu/jajodia/)), 
 * December 2016 --- Recent Research Topics in Security and Networking (Istanbul Technical University, host: [Prof. Sema Oktug](http://web.itu.edu.tr/~oktug/),
 [Computer Networks Research Laboratory](http://www.bb.itu.edu.tr/en/research/computer-networks-research-laboratory))
 * December 2016 --- Extending Detection with Forensic Information (Florida International University, host: [Dr. Selcuk Uluagac](http://web.eng.fiu.edu/selcuk/), [Cyber-Physical Systems Security Lab](https://csl.fiu.edu/))
