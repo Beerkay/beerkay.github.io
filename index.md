@@ -16,9 +16,7 @@ During my Msc. studies, I worked with [Prof. George Kesidis](http://www.cse.psu.
 Clustering project (also supported by Cisco Systems URP gift and DHS/NSF EMIST/DETER project). My research there focused on network security and learning algorithms. 
 
 I also worked under the direction of [Prof. Sema Oktug](http://web.itu.edu.tr/~oktug/) at [Istanbul Technical University](http://www.itu.edu.tr/en/) focusing on practical network security problems (e.g., fast-flux networks).
-
 ---
-
 ### Projects
 
 I've had the opportunity to work on a number of interesting research projects during my Msc. and PhD. studies. Here is a summary of some of my efforts. 
@@ -59,23 +57,22 @@ In collaboration with [Nicolas Papernot](https://www.papernot.fr/).
 
 #### Science of Security
 
-I am involved in Cyber-Security Collaborative Research Alliance ([CSec CRA](http://cra.psu.edu/)) with the Army Research Laboratory, Penn State, Carnegie Mellon, UC Riverside, UC Davis, and Indiana University. Our mandate is to develop a new science of security. As part of this effort, I've worked on the foundation for representing of operational and environmental knowledge. (See my work on operational models [here](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g1I269gAAAAJ&citation_for_view=g1I269gAAAAJ:e5wmG9Sq2KIC)). Our goal to reason about both current and future states of a system to make optimal decisions.
-
+I am involved in Cyber-Security Collaborative Research Alliance ([CSec CRA](http://cra.psu.edu/)) with the Army Research Laboratory, Penn State, Carnegie Mellon, UC Riverside, UC Davis, and Indiana University. Our mandate is to develop a new science of security. As part of this effort, I've worked on the foundation for representing of operational and environmental knowledge. (See my work on operational models [here](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g1I269gAAAAJ&citation_for_view=g1I269gAAAAJ:e5wmG9Sq2KIC)). Our goal is to reason about both current and future states of a cyber-operation to make optimal decisions.
 ---
 ### Professional Activities
 
 * 2016, Technical Program Committee for MILCOM'16 Track 3: Cyber Security and Trusted Computing.
-* 2017, Program Committee for first ACM CCS Workshop on Internet-of-Things Security and Privacy (IoT S&P)
-* 2017, Publicity Chair for  IEEE Conference on Communications and Network Security (CNS) Workshop on Cyber-Physical Systems Security (CPS-Sec)
+* 2017, Program Committee for ACM CCS Workshop on Internet-of-Things Security and Privacy (IoT S&P)
+* 2017, Publicity Chair for IEEE Conference on Communications and Network Security (CNS) Workshop on Cyber-Physical Systems Security (CPS-Sec)
 * Reviewer: IEEE S&P Magazine (2016), NDSS (2016), Journal of Network and Computer Applications (JNCA) (2016), Computers-Open Access Journal (2016), College of Engineering Research Symposium (CERS) (2016)
 
-
 ### Invited Talks
-
+* March 2016, Malware Detection with Tamper-proof Features, [Army Research Laboratory](https://www.arl.army.mil/www/default.cfm) (host: Dr. Ananthram Swami)
+* March 2016, Mapping Sample Scenarios to Operational Models in Cyber Environments, A DoD Multidisciplinary University Research Initiative (MURI) Project  (George Mason University, host:[Sushil Jajodia] (http://csis.gmu.edu/jajodia/)), 
 * December 2016 --- Recent Research Topics in Security and Networking (Istanbul Technical University, host: [Prof. Sema Oktug](http://web.itu.edu.tr/~oktug/),
 [Computer Networks Research Laboratory](http://www.bb.itu.edu.tr/en/research/computer-networks-research-laboratory))
 * December 2016 --- Extending Detection with Forensic Information (Florida International University, host: [Dr. Selcuk Uluagac](http://web.eng.fiu.edu/selcuk/), [Cyber-Physical Systems Security Lab](https://csl.fiu.edu/))
-
+---
 ### Publications
 
-{% include pubs-2.html %}
+{% include pubs-3.html %}

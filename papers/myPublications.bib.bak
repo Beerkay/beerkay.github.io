@@ -2,6 +2,13 @@
 % Encoding: MacRoman
 
 
+@InProceedings{abbas2017PAC,
+  Title                    = {Achieving Secure and Differentially Private Computations in Multiparty Settings},
+  Author                   = {Abbas Acar and Z. Berkay Celik and Hidayet Aksu and A. Selcuk Uluagac and Patrick McDaniel},
+  Booktitle                = {IEEE Privacy-Aware Computing (PAC)},
+  Year                     = {2017}
+}
+
 @InProceedings{celik2016mapping,
   Title                    = {Mapping Sample Scenarios to Operational Models},
   Author                   = {Celik, Z. Berkay and Hu, Nan and Li, Yun and Papernot, Nicolas and McDaniel, Patrick and Rowe, Jeff and Walls, RobertJ. and Levitt, Karl and Bartolini, Novella and {La Porta}, Thomas and Chadha, Ritu},
@@ -25,14 +32,23 @@
 @Article{celik2017Pets,
   Title                    = {Patient-Driven Privacy Control through Generalized Distillation},
   Author                   = {Celik, Z. Berkay and Lopez-Paz, David, and McDaniel, Patrick and Izmailov, Rauf},
-  Journal                  = {In submission},
+  Journal                  = {IEEE Symposium on Privacy-Aware Computing (PAC)},
   Year                     = {2017},
 
   Url                      = {https://arxiv.org/pdf/1611.08648v1.pdf}
 }
 
+@Article{berkayMalwareModelling,
+  Title                    = {Malware Modeling and Experimentation through Parameterized Behavior},
+  Author                   = {Celik, Z. Berkay and McDaniel, Patrick and Bowen, Thomas},
+  Journal                  = {Journal of Defense Modeling and Simulation (JDMS)},
+  Year                     = {2017},
+
+  Url                      = {https://beerkay.github.io/papers/Celik17_JDMS.pdf}
+}
+
 @Article{celik2016building,
-  Title                    = {Extending Detection with Forensic Information},
+  Title                    = {Detection with Privileged Information},
   Author                   = {Celik, Z. Berkay and McDaniel, Patrick and Izmailov, Rauf and Papernot, Nicolas and Swami, Ananthram},
   Journal                  = {arXiv preprint arXiv:1603.09638},
   Year                     = {2016},
@@ -43,7 +59,7 @@
 @Conference{berkayIWSPA17,
   Title                    = {Feature Cultivation in Privileged Information-augmented Detection},
   Author                   = {Celik, Z. Berkay and McDaniel, Patrick, and Izmailov, Rauf},
-  Booktitle                = {Proc. International Workshop on Security And Privacy Analytics (Codaspy, IWSPA) (Invited Paper)},
+  Booktitle                = {International Workshop on Security And Privacy Analytics (Codaspy, IWSPA) (Invited Paper)},
   Year                     = {2017},
 
   Owner                    = {berkay},
@@ -51,9 +67,9 @@
 }
 
 @InProceedings{celik2013detection,
-  Title                    = {Detection of fast-flux networks using various DNS feature sets},
+  Title                    = {Detection of Fast-flux Networks using Various DNS Feature Sets},
   Author                   = {Celik, Z. Berkay and Oktug, Sema},
-  Booktitle                = {Computers and Communications Symposium (ISCC)},
+  Booktitle                = {IEEE Computers and Communications Symposium (ISCC)},
   Year                     = {2013},
   Organization             = {IEEE},
 
@@ -61,9 +77,9 @@
 }
 
 @InProceedings{celik2011salting,
-  Title                    = {Salting public traces with attack traffic to test flow classifiers},
+  Title                    = {Salting Public Traces with Attack Traffic to Test Flow Classifiers},
   Author                   = {Celik, Z Berkay and Raghuram, Jayaram and Kesidis, George and Miller, David J},
-  Booktitle                = {In USENIX 4th CSET Workshop},
+  Booktitle                = {In USENIX Cyber Security and Experimentation (CSET) Workshop},
   Year                     = {2011},
 
   Url                      = {https://beerkay.github.io/papers/Celik11_CSET.pdf}
@@ -82,7 +98,7 @@
 @InProceedings{nanberkay,
   Title                    = {Action-Driven Operation Model with Evaluation of Risk and Executability (ADOM-ERE)},
   Author                   = {Hu, Nan and Bartolini, Novella, and La Porta, Tom and Celik, Z. Berkay and McDaniel, Patrick},
-  Booktitle                = {In submission },
+  Booktitle                = {In submission},
   Year                     = {2017},
 
   Owner                    = {berkay},
@@ -111,11 +127,10 @@
 }
 
 @InProceedings{papernot2016limitations,
-  Title                    = {The limitations of deep learning in adversarial settings},
+  Title                    = {The limitations of Deep Learning in Adversarial Settings},
   Author                   = {Papernot, Nicolas and McDaniel, Patrick and Jha, Somesh and Fredrikson, Matt and Celik, Z Berkay and Swami, Ananthram},
   Booktitle                = {IEEE European Symposium on Security and Privacy (EuroS\&P)},
   Year                     = {2016},
-  Organization             = {IEEE},
 
   Url                      = {https://arxiv.org/pdf/1511.07528v1.pdf}
 }
