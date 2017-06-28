@@ -16,7 +16,9 @@ During my Msc. studies, I worked with [Prof. George Kesidis](http://www.cse.psu.
 Clustering project (also supported by Cisco Systems URP gift and DHS/NSF EMIST/DETER project). My research there focused on network security and learning algorithms. 
 
 I also worked under the direction of [Prof. Sema Oktug](http://web.itu.edu.tr/~oktug/) at [Istanbul Technical University](http://www.itu.edu.tr/en/) focusing on practical network security problems (e.g., fast-flux networks).
+
 ---
+
 ### Projects
 
 I've had the opportunity to work on a number of interesting research projects during my Msc. and PhD. studies. Here is a summary of some of my efforts. 
@@ -58,7 +60,9 @@ In collaboration with [Nicolas Papernot](https://www.papernot.fr/).
 #### Science of Security
 
 I am involved in Cyber-Security Collaborative Research Alliance ([CSec CRA](http://cra.psu.edu/)) with the Army Research Laboratory, Penn State, Carnegie Mellon, UC Riverside, UC Davis, and Indiana University. Our mandate is to develop a new science of security. As part of this effort, I've worked on the foundation for representing of operational and environmental knowledge. (See my work on operational models [here](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g1I269gAAAAJ&citation_for_view=g1I269gAAAAJ:e5wmG9Sq2KIC)). Our goal is to reason about both current and future states of a cyber-operation to make optimal decisions.
+
 ---
+
 ### Professional Activities
 
 * 2016, Technical Program Committee for MILCOM'16 Track 3: Cyber Security and Trusted Computing.
@@ -72,7 +76,9 @@ I am involved in Cyber-Security Collaborative Research Alliance ([CSec CRA](http
 * December 2016 --- Recent Research Topics in Security and Networking (Istanbul Technical University, host: [Prof. Sema Oktug](http://web.itu.edu.tr/~oktug/),
 [Computer Networks Research Laboratory](http://www.bb.itu.edu.tr/en/research/computer-networks-research-laboratory))
 * December 2016 --- Extending Detection with Forensic Information (Florida International University, host: [Dr. Selcuk Uluagac](http://web.eng.fiu.edu/selcuk/), [Cyber-Physical Systems Security Lab](https://csl.fiu.edu/))
+
 ---
+
 ### Publications
 
 {% include pubs-3.html %}
