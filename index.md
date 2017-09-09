@@ -4,10 +4,6 @@ title: Home
 notitle: true
 ---
 
-### News
-
----
-
 ### About Me
 
 I am a research assistant in Department of Electrical Engineering and Computer Science at the Pennsylvania State University working with [Prof. Patrick McDaniel](http://www.patrickmcdaniel.org/) and a member of the [Systems and Internet Infrastructure Security Laboratory (SIIS)](http://siis.cse.psu.edu/). 
@@ -65,19 +61,32 @@ I am involved in Cyber-Security Collaborative Research Alliance ([CSec CRA](http
 
 ### Professional Activities
 
-* 2016, Technical Program Committee for MILCOM'16 Track 3: Cyber Security and Trusted Computing.
-* 2017, Program Committee for ACM CCS Workshop on Internet-of-Things Security and Privacy (IoT S&P)
+* 2017, Program Committee Member for ACM CCS Workshop on Internet-of-Things Security and Privacy (IoT S&P)
 * 2017, Publicity Chair for IEEE Conference on Communications and Network Security (CNS) Workshop on Cyber-Physical Systems Security (CPS-Sec)
+* 2016, Technical Program Committee for MILCOM'16 Track 3: Cyber Security and Trusted Computing.
 * Reviewer: IEEE S&P Magazine (2016), NDSS (2016), Journal of Network and Computer Applications (JNCA) (2016), Computers-Open Access Journal (2016), College of Engineering Research Symposium (CERS) (2016)
 
 ### Invited Talks
-* March 2016, Malware Traffic Detection using Tamper Resistant Features, [Army Research Laboratory](https://www.arl.army.mil/www/default.cfm) (host: Dr. Ananthram Swami)
-* March 2016, Mapping Sample Scenarios to Operational Models in Cyber Environments, A DoD Multidisciplinary University Research Initiative (MURI) Project (George Mason University, host:[Sushil Jajodia](http://csis.gmu.edu/jajodia/)), 
-* December 2016 --- Recent Research Topics in Security and Networking (Istanbul Technical University, host: [Prof. Sema Oktug](http://web.itu.edu.tr/~oktug/),
-[Computer Networks Research Laboratory](http://www.bb.itu.edu.tr/en/research/computer-networks-research-laboratory))
+
+* September 2017 --- SAINT: Sensitive Information Tracking for IoT Applications, [Great Lakes Security Day 2017](https://www.rit.edu/cybersecurity/great-lakes-security-day-2017) (Rochester Institute of Technology, host: [Matthew Wright](https://sites.google.com/site/matthewkwright/) and [Shanchieh Jay Yang](https://people.rit.edu/sjyeec/) )
+* December 2016 --- Recent Research Topics in Security and Networking (Istanbul Technical University, host: [Dr. Sema Oktug](http://web.itu.edu.tr/~oktug/), [Computer Networks Research Laboratory](http://www.bb.itu.edu.tr/en/research/computer-networks-research-laboratory))
 * December 2016 --- Extending Detection with Forensic Information (Florida International University, host: [Dr. Selcuk Uluagac](http://web.eng.fiu.edu/selcuk/), [Cyber-Physical Systems Security Lab](https://csl.fiu.edu/))
+* March 2016, Malware Traffic Detection using Tamper Resistant Features, [Army Research Laboratory](https://www.arl.army.mil/www/default.cfm) (host: Dr. Ananthram Swami)
+* March 2016, Mapping Sample Scenarios to Operational Models in Cyber Environments, A DoD Multidisciplinary University Research Initiative (MURI) Project (George Mason University, host:[Dr. Sushil Jajodia](http://csis.gmu.edu/jajodia/)), 
+
+
+### Internships
+
+* 2015(Summer), Research Associate, Vencore Labs, New Jersey (Managers: Dr. Ritu Chadha and [Dr. Rauf Izmailov](https://scholar.google.com/citations?user=eA2qnCYAAAAJ&hl=en))
+* 2017(Summer), Software Engineer, VMWare CTO Office, Greater Boston Area (Manegers: Ronn Mann and [Josh Simons](https://octo.vmware.com/author/josh_simons/))
+
 
 ---
+
+<!---
+Posters missing, Reviewlari mutlaka ekle. 
+-->
+
 
 ### Publications
 
