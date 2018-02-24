@@ -59,6 +59,12 @@ I am involved in Cyber-Security Collaborative Research Alliance ([CSec CRA](http
 
 ---
 
+### Teaching
+
+* CMPSC 311 System Programming (with Prof. Patrick McDaniel) (Fall 2016)
+* CMPSC 443 Introduction to Computer Security (with Prof. Patrick McDaniel) (Spring 2017)
+* CSE 598 Security and Privacy of Machine Learning (with Prof. Patrick McDaniel and Nicolas Papernot) (Fall 2016)
+
 ### Professional Activities
 
 * 2017, Program Committee Member for CCS Workshop on Internet-of-Things Security and Privacy (IoT S&P)
@@ -85,6 +91,7 @@ I am involved in Cyber-Security Collaborative Research Alliance ([CSec CRA](http
 
 <!---
 Posters missing, Reviewlari mutlaka ekle. 
+Hocaya yardim edilen dersleri yazalim, CMPSC 311 System Programming (with Prof. Patrick McDaniel), CMPSC 443 Introduction to Computer Security (with Prof. Patrick McDaniel), CSE 598 Security and Privacy of Machine Learning (with Prof. Patrick McDaniel, and Nicolas Papernot)
 -->
 
 
