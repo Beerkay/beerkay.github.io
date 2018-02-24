@@ -59,11 +59,11 @@ I am involved in Cyber-Security Collaborative Research Alliance ([CSec CRA](http
 
 ---
 
-### Teaching
+### Teaching Experience
 
-* CMPSC 311 System Programming (with Prof. Patrick McDaniel) (Fall 2016)
-* CMPSC 443 Introduction to Computer Security (with Prof. Patrick McDaniel) (Spring 2017)
-* CSE 598 Security and Privacy of Machine Learning (with Prof. Patrick McDaniel and Nicolas Papernot) (Fall 2016)
+* CMPSC 311-System Programming (with Prof. Patrick McDaniel) (Fall 2016)
+* CMPSC 443-Introduction to Computer Security (with Prof. Patrick McDaniel) (Spring 2017)
+* CSE 598-Security and Privacy of Machine Learning (with Prof. Patrick McDaniel and Nicolas Papernot) (Fall 2016)
 
 ### Professional Activities
 
