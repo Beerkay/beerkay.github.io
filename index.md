@@ -33,7 +33,6 @@ Our paper is accepted to AsiaCCS'18: [Detection under Privileged Information](ht
 
 #### Machine Learning in Adversarial Settings
 <img align="left" src="{{ site.base }}/img/adversarial/dnn-sm.png" style="border-radius: 15px" hspace="15"> One of the limitations of machine learning in practice is that they are subject to adversarial samples. Adversarial samples are carefully modified inputs crafted to dictate a selected output. In the context of classification, adversarial samples are crafted so as to force a target model to classify them in a class different from their legitimate class. In this work, we focus on Deep Neural Networks (DNNs) for adversarial sample generation and attacker's capabilities to evade systems built on DNNs.
-
 Check out our publication on adversarial machine learning: [The Limitations of Deep Learning in Adversarial Settings](https://arxiv.org/pdf/1511.07528.pdf) and [Practical Black-Box Attacks against Machine Learning](https://arxiv.org/pdf/1602.02697.pdf).
 
 #### Patient-Driven Privacy Control 
