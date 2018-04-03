@@ -47,7 +47,7 @@ In our [CSET 2011](https://beerkay.github.io/papers/Celik11_CSET.pdf) work my co
 
 
 #### Science of Security
-I am involved in Cyber-Security Collaborative Research Alliance ([CSec CRA](http://cra.psu.edu/)) with the Army Research Laboratory, Penn State, Carnegie Mellon, UC Riverside, UC Davis, and Indiana University. Our mandate is to develop a new science of security. As part of this effort, I've worked on the foundation for representing of operational and environmental knowledge. (See our work on operational models [here](http://wwwusers.di.uniroma1.it/~novella/myhome/Home_Page_di_Novella_Bartolini/milcom_2016.pdf). Our goal is to reason about both current and future states of a cyber-operation to make optimal decisions.
+I am involved in Cyber-Security Collaborative Research Alliance ([CSec CRA](http://cra.psu.edu/)) with the Army Research Laboratory, Penn State, Carnegie Mellon, UC Riverside, UC Davis, and Indiana University. Our mandate is to develop a new science of security. As part of this effort, I've worked on the foundation for representing of operational and environmental knowledge. [See our work on operational models](http://wwwusers.di.uniroma1.it/~novella/myhome/Home_Page_di_Novella_Bartolini/milcom_2016.pdf). Our goal is to reason about both current and future states of a cyber-operation to make optimal decisions.
 
 ---
 
