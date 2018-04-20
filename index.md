@@ -18,22 +18,27 @@ During my Msc. studies, I worked with [Prof. George Kesidis](http://www.cse.psu.
 - [Extending Detection with Privileged Information via Generalized Distillation](https://beerkay.github.io/) is accepted to IEEE S&P'18 Deep Learning Security (DLS) Workshop.
 - [Mission-oriented Security Model, Incorporating Security Risk, Cost and Payout](https://beerkay.github.io/) is accepted to SECURECOMM'18.
 - [IoTBench: A micro-benchmark suite to assess the effectiveness of tools designed for IoT apps](https://github.com/IoTBench/test-suite) is now online.
+
 ---
 
 ### Projects
 
 I've had the opportunity to work on a number of interesting research projects during my Msc. and PhD. studies. Here is a summary of some of my efforts. 
 
+
 #### Sensitive Information Tracking in Commodity IoT
 <img align="left" src="{{ site.base }}/img/saint/saint.png" style="border-radius: 15px" hspace="15"> We present SainT, a static taint analysis tool for IoT applications. SainT operates in three phases; (a) translation of platform-specific IoT source code into an intermediate representation (IR), (b) identifying sensitive sources and sinks, and (c) performing static analysis to identify sensitive data flows. We evaluate SainT on 230 SmartThings market apps and find 138 (60%) include sensitive data flows. In addition, we demonstrate SainT on IoTBench, a novel open-source test suite containing 19 apps with 27 unique data leaks. Through this effort, we introduce a rigorously grounded framework for evaluating the use of sensitive information in IoT apps---and therein provide developers, markets, and consumers a means of identifying potential threats to security and privacy.
+
 
 #### Detection under Privileged Information
 <img align="left" src="{{ site.base }}/img/privileged/forensic-detection.png" style="border-radius: 15px" hspace="15"> For over a quarter century, security-relevant detection has been driven by models learned from input features collected from real or simulated environments. An artifact (e.g., network event, potential malware sample, suspicious email) is deemed malicious or non-malicious based on its similarity to the learned model at run-time. However, the training of the models has been historically limited to only those features available at run time. This talk covers an alternate model construction approach that trains models using forensic "privileged" information--features available at training time but not at runtime--to improve the accuracy and resilience of detection systems. Such techniques open the door to systems that can integrate forensic data directly into detection models, and therein provide a means to fully exploit the information available about past security-relevant events.
 
 Our paper is accepted to AsiaCCS'18: [Detection under Privileged Information](https://arxiv.org/pdf/1603.09638v4.pdf). Read more about formulation and implementation in our [technical report](http://www.cse.psu.edu/~zbc102/files/svm_plus_technical_report_15.pdf), and feature cultivation in privileged-augmented detection [Feature Cultivation in Privileged Information-augmented Detection (invited paper)](https://beerkay.github.io/papers/Celik17_CODASPY_IWSPA.pdf). 
 
+
 #### Machine Learning in Adversarial Settings
 <img align="left" src="{{ site.base }}/img/adversarial/dnn-sm.png" style="border-radius: 15px" hspace="15"> One of the limitations of machine learning in practice is that they are subject to adversarial samples. Adversarial samples are carefully modified inputs crafted to dictate a selected output. In the context of classification, adversarial samples are crafted so as to force a target model to classify them in a class different from their legitimate class. In this work, we focus on Deep Neural Networks (DNNs) for adversarial sample generation and attacker's capabilities to evade systems built on DNNs. Check out our publication on adversarial machine learning: [The Limitations of Deep Learning in Adversarial Settings](https://arxiv.org/pdf/1511.07528.pdf) and [Practical Black-Box Attacks against Machine Learning](https://arxiv.org/pdf/1602.02697.pdf).
+
 
 #### Patient-Driven Privacy Control 
 <img align="left" src="{{ site.base }}/img/patient-privacy/problem.png" style="border-radius: 15px" hspace="15"> Patients are asked to disclose personal information such as genetic markers, lifestyle habits, and clinical history. This data is then used by statistical models to predict personalized treatments. However, due to privacy concerns, patients often desire to withhold sensitive information. This self-censorship can impede proper diagnosis and treatment, which may lead to serious health complications and even death. In this work, we present privacy distillation, a mechanism which allows patients to control the type and amount of information they wish to disclose to the healthcare providers for use in statistical models. We validate privacy distillation using a corpus of patients prescribed to warfarin for a personalized dosage. We use a deep neural network to implement privacy distillation for training and making dose predictions. 
