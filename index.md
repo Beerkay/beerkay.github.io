@@ -28,7 +28,7 @@ I've had the opportunity to work on a number of interesting research projects du
 
 #### Sensitive Information Tracking in Commodity IoT
 <img align="left" src="{{ site.base }}/img/saint/saint.png" style="border-radius: 15px" hspace="15"> We present SainT, a static taint analysis tool for IoT applications. SainT operates in three phases; (a) translation of platform-specific IoT source code into an intermediate representation (IR), (b) identifying sensitive sources and sinks, and (c) performing static analysis to identify sensitive data flows. We evaluate SainT on 230 SmartThings market apps and find 138 (60%) include sensitive data flows. In addition, we demonstrate SainT on IoTBench, a novel open-source test suite containing 19 apps with 27 unique data leaks. Through this effort, we introduce a rigorously grounded framework for evaluating the use of sensitive information in IoT apps---and therein provide developers, markets, and consumers a means of identifying potential threats to security and privacy.
-Read more about [this work](https://arxiv.org/pdf/1802.08307.pdf) 
+Read more about [this work](https://arxiv.org/pdf/1802.08307.pdf).
 
 
 #### Detection under Privileged Information
