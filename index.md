@@ -15,7 +15,7 @@ During my Msc. studies, I worked with [Prof. George Kesidis](http://www.cse.psu.
 ### News 
 - [Soteria: Automated IoT Safety and Security Analysis](https://beerkay.github.io/) is accepted to USENIX ATC'18 (will be available soon).
 - [Detection under Privileged Information](https://arxiv.org/abs/1603.09638) is accepted to ASIACCS'18.
-- [Extending Detection with Privileged Information via Generalized Distillation](https://beerkay.github.io/) is accepted to IEEE S&P'18 Deep Learning Security (DLS) Workshop (will be available soon)..
+- [Extending Detection with Privileged Information via Generalized Distillation](https://beerkay.github.io/) is accepted to IEEE S&P'18 Deep Learning Security (DLS) Workshop (will be available soon).
 - [Mission-oriented Security Model, Incorporating Security Risk, Cost and Payout](https://beerkay.github.io/) is accepted to SECURECOMM'18 (will be available soon).
 - [IoTBench: A micro-benchmark suite to assess the effectiveness of tools designed for IoT apps](https://github.com/IoTBench/test-suite) is now online.
 
