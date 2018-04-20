@@ -12,11 +12,12 @@ During my Msc. studies, I worked with [Prof. George Kesidis](http://www.cse.psu.
 
 ---
 
-### News
-- [IoTBench: A micro-benchmark suite to assess the effectiveness of tools designed for IoT apps](https://github.com/IoTBench/test-suite) is online.
+### News 
+- [Soteria: Automated IoT Safety and Security Analysis](https://beerkay.github.io/) is accepted to USENIX ATC'18.
 - [Detection under Privileged Information](https://arxiv.org/abs/1603.09638) is accepted to ASIACCS'18.
 - [Extending Detection with Privileged Information via Generalized Distillation](https://beerkay.github.io/) is accepted to IEEE S&P'18 Deep Learning Security (DLS) Workshop.
-
+- [Mission-oriented Security Model, Incorporating Security Risk, Cost and Payout](https://beerkay.github.io/) is accepted to SECURECOMM'18.
+- [IoTBench: A micro-benchmark suite to assess the effectiveness of tools designed for IoT apps](https://github.com/IoTBench/test-suite) is now online.
 ---
 
 ### Projects
@@ -61,7 +62,7 @@ I am involved in Cyber-Security Collaborative Research Alliance ([CSec CRA](http
 * 2017, Program Committee Member for CCS Workshop on Internet-of-Things Security and Privacy (IoT S&P)
 * 2017, Publicity Chair for IEEE Conference on Communications and Network Security (CNS) Workshop on Cyber-Physical Systems Security (CPS-Sec)
 * 2016, Technical Program Committee for MILCOM'16 (Track 3: Cyber Security and Trusted Computing)
-* Reviewer: Neural Processing Letters (2017), ACM Computing Surveys (2017), IEEE S&P Magazine (2016), NDSS (2016), Journal of Network and Computer Applications (JNCA) (2016), Computers-Open Access Journal (2016)
+* Reviewer: USENIX Security (2018), Neural Processing Letters (2017), ACM Computing Surveys (2017), IEEE S&P Magazine (2016), NDSS (2016), Journal of Network and Computer Applications (JNCA) (2016), Computers-Open Access Journal (2016)
 
 ### Invited Talks
 * March 2018 --- Automated IoT Privacy and Security Analysis, [Army Research Laboratory](https://www.arl.army.mil/www/default.cfm) (host: Dr. Ed Colbert)
@@ -72,7 +73,8 @@ I am involved in Cyber-Security Collaborative Research Alliance ([CSec CRA](http
 * March 2016, Mapping Sample Scenarios to Operational Models in Cyber Environments, A DoD Multidisciplinary University Research Initiative (MURI) Project (George Mason University, host: [Dr. Sushil Jajodia](http://csis.gmu.edu/jajodia/)), 
 
 ### Awards
-* Sensitive information Tracking in Commodity IoT (Best demo award, 2018), [Florida Institute for Cybersecurity Research (FICS) Research Annual Conference on Cybersecurity](http://fics.institute.ufl.edu/poster-demo-winners-at-the-fics-annual-conference-on-cybersecurity/)
+* 2018, Sensitive Information Tracking in Commodity IoT (Best demo award), [Florida Institute for Cybersecurity Research (FICS) Research Annual Conference on Cybersecurity](http://fics.institute.ufl.edu/poster-demo-winners-at-the-fics-annual-conference-on-cybersecurity/)
+* 2015, Student Travel Grant, Military Communications Conference (MILCOM)
 
 ### Internships
 * 2015 (Summer), Research Associate, Vencore Labs, New Jersey (Managers: Dr. Ritu Chadha and [Dr. Rauf Izmailov](https://scholar.google.com/citations?user=eA2qnCYAAAAJ&hl=en))
