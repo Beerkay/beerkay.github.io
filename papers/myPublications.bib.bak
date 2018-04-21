@@ -24,9 +24,8 @@
 @InProceedings{celik2016mapping,
   Title                    = {Mapping Sample Scenarios to Operational Models},
   Author                   = {Celik, Z. Berkay and Hu, Nan and Li, Yun and Papernot, Nicolas and McDaniel, Patrick and Rowe, Jeff and Walls, RobertJ. and Levitt, Karl and Bartolini, Novella and {La Porta}, Thomas and Chadha, Ritu},
-  Booktitle                = {Internatonal Conference for Military Communications (MILCOM)},
-  Year                     = {2016},
-  Organization             = {IEEE}
+  Booktitle                = {IEEE Internatonal Conference for Military Communications (MILCOM)},
+  Year                     = {2016}
 }
 
 @Misc{celik2015proof,
@@ -66,6 +65,15 @@
   Url                      = {https://beerkay.github.io/papers/Celik17_JDMS.pdf}
 }
 
+@InProceedings{berkayPrivilegedASIACCS18,
+  Title                    = {Detection under Privileged Information},
+  Author                   = {Z. Berkay Celik and Patrick McDaniel and Rauf Izmailov and Nicolas Papernot and Ryan Sheatsley and Raquel Alvarez and Ananthram Swami},
+  Booktitle                = {ACM Asia Conference on Computer and Communications Security (ASIACCS)},
+  Year                     = {2018},
+
+  Url                      = {https://arxiv.org/pdf/1603.09638.pdf}
+}
+
 @InProceedings{BerkaySoteriaUSENIXATC2018,
   Title                    = {Soteria: Automated IoT Safety and Security Analysis},
   Author                   = {Z. Berkay Celik and Patrick McDaniel and Gang Tan},
@@ -102,7 +110,7 @@
 @InProceedings{celik2011salting,
   Title                    = {Salting Public Traces with Attack Traffic to Test Flow Classifiers},
   Author                   = {Celik, Z. Berkay and Raghuram, Jayaram and Kesidis, George and Miller, David J},
-  Booktitle                = {In USENIX Cyber Security and Experimentation (CSET) Workshop},
+  Booktitle                = {USENIX Cyber Security and Experimentation (CSET) Workshop},
   Year                     = {2011},
 
   Url                      = {https://beerkay.github.io/papers/Celik11_CSET.pdf}
@@ -111,9 +119,8 @@
 @InProceedings{celik2015malware,
   Title                    = {Malware Traffic Detection using Tamper Resistant Features},
   Author                   = {Celik, Z. Berkay and Walls, Robert J and McDaniel, Patrick and Swami, Ananthram},
-  Booktitle                = {Internatonal Conference for Military Communications (MILCOM)},
+  Booktitle                = {IEEE Internatonal Conference for Military Communications (MILCOM)},
   Year                     = {2015},
-  Organization             = {IEEE},
 
   Url                      = {https://beerkay.github.io/papers/Celik15_Milcom.pdf}
 }
@@ -122,15 +129,14 @@
   Title                    = {Mission-oriented Security Model, Incorporating Security Risk, Cost and Payout},
   Author                   = {Sayed M. Saghaian N. E. and Tom La Porta and Trent Jaeger and Z. Berkay Celik and Patrick McDaniel},
   Booktitle                = {International Conference on Security and Privacy in Communication Systems (SecureComm)},
-  Year                     = {2018},
-  Organization             = {Springer}
+  Year                     = {2018}
 }
 
 @InProceedings{nanberkay,
   Title                    = {Action-Driven Operation Model with Evaluation of Risk and Executability (ADOM-ERE)},
   Author                   = {Hu, Nan and Bartolini, Novella, and La Porta, Tom and Celik, Z. Berkay and McDaniel, Patrick},
   Booktitle                = {In submission},
-  Year                     = {2017},
+  Year                     = {2018},
 
   Owner                    = {berkay},
   Timestamp                = {2016.09.02}
@@ -139,12 +145,11 @@
 @Article{mcdaniel2016machine,
   Title                    = {Machine Learning in Adversarial Settings},
   Author                   = {McDaniel, Patrick and Papernot, Nicolas and Celik, Z. Berkay},
-  Journal                  = {Security \& Privacy Magazine},
+  Journal                  = {IEEE Security \& Privacy Magazine},
   Year                     = {2016},
   Number                   = {3},
   Volume                   = {14},
 
-  Publisher                = {IEEE},
   Url                      = {http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=7478523&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D7478523}
 }
 
