@@ -113,12 +113,11 @@ Posters missing, Reviewlari mutlaka ekle.
 
 Awards:
 Sensitive information Tracking in Commodity IoT, best demo award, Florida Institute for Cybersecurity Research (FICS) Research Annual Conference on Cybersecurity
+{% include pubs-3.html %}
 -->
 
 
 ### Publications
 <script src="https://bibbase.org/show?bib=https%3A%2F%2Fraw.githubusercontent.com%2FBeerkay%2Fbeerkay.github.io%2Fmaster%2Fpapers%2FmyPublications.bib&jsonp=1"></script>
 
-<!---
-{% include pubs-3.html %}
--->
+
