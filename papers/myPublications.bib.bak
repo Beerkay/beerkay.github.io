@@ -15,7 +15,7 @@
   Title                    = {Sensitive Information Tracking in Commodity IoT},
 
   Author                   = {Z. Berkay Celik and Leonardo Babun and Amit K. Sikder and Hidayet Aksu and Gang Tan and Patrick McDaniel and A. Selcuk Uluagac},
-  HowPublished             = {\url{https://arxiv.org/abs/1802.08307}},
+  HowPublished             = {https://arxiv.org/abs/1802.08307},
   Year                     = {2018},
 
   Eprint                   = {arXiv:1802.08307}
@@ -25,18 +25,20 @@
   Title                    = {Mapping Sample Scenarios to Operational Models},
   Author                   = {Celik, Z. Berkay and Hu, Nan and Li, Yun and Papernot, Nicolas and McDaniel, Patrick and Rowe, Jeff and Walls, RobertJ. and Levitt, Karl and Bartolini, Novella and {La Porta}, Thomas and Chadha, Ritu},
   Booktitle                = {IEEE Internatonal Conference for Military Communications (MILCOM)},
-  Year                     = {2016}
+  Year                     = {2016},
+
+  Url                      = {http://www.patrickmcdaniel.org/pubs/milcom16b.pdf}
 }
 
-@Misc{celik2015proof,
+@TechReport{celik2015proof,
   Title                    = {Proof and Implementation of Algorithmic Realization of Learning Using Privileged Information (LUPI) Paradigm: SVM+},
-
   Author                   = {Celik, Z. Berkay and Izmailov, Rauf and McDaniel, Patrick},
+  Institution              = {Penn State University},
   Year                     = {2015},
+  Number                   = {NAS-TR-0187-2015},
 
   Journal                  = {Department of Computer Science and Engineering, Pennsylvania State University, University Park, PA, USA},
-  Number                   = {NAS-TR-0187-2015},
-  Publisher                = {http://www.cse.psu.edu/\~{}zbc102/files/svm\_plus\_technical\_report\_15.pdf},
+  Publisher                = {SIIS Lab},
   Url                      = {http://www.cse.psu.edu/~zbc102/files/svm_plus_technical_report_15.pdf}
 }
 
@@ -87,14 +89,15 @@
   Timestamp                = {2018.04.19}
 }
 
-@Conference{berkayIWSPA17,
+@InProceedings{berkayIWSPA17,
   Title                    = {Feature Cultivation in Privileged Information-augmented Detection},
   Author                   = {Celik, Z. Berkay and McDaniel, Patrick, and Izmailov, Rauf},
   Booktitle                = {International Workshop on Security And Privacy Analytics (Codaspy, IWSPA) (Invited Paper)},
   Year                     = {2017},
 
   Owner                    = {berkay},
-  Timestamp                = {2017.01.28}
+  Timestamp                = {2017.01.28},
+  Url                      = {http://www.patrickmcdaniel.org/pubs/iwspa17.pdf}
 }
 
 @InProceedings{celik2013detection,
