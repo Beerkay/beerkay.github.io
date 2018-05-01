@@ -120,4 +120,13 @@ include pubs-3.html
 ### Publications
 <script src="https://bibbase.org/show?bib=https%3A%2F%2Fraw.githubusercontent.com%2FBeerkay%2Fbeerkay.github.io%2Fmaster%2Fpapers%2FmyPublications.bib&jsonp=1"></script>
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-56069371-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-56069371-2');
+</script>
 
