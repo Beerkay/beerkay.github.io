@@ -14,7 +14,8 @@ During my Msc. studies, I worked with [Prof. George Kesidis](http://www.cse.psu.
 
 ### News 
 - [Soteria: Automated IoT Safety and Security Analysis](https://beerkay.github.io/) is accepted to USENIX ATC'18 (will be available soon).
-- [Detection under Privileged Information](https://arxiv.org/abs/1603.09638) is accepted to ASIACCS'18.
+- [Sensitive Information Tracking in Commodity IoT](https://arxiv.org/pdf/1802.08307.pdf) is accepted to USENIX Security'18.
+- [Detection under Privileged Information](https://arxiv.org/abs/1603.09638) is accepted to AsiaCCS'18.
 - [Extending Detection with Privileged Information via Generalized Distillation](https://beerkay.github.io/) is accepted to IEEE S&P'18 Deep Learning Security (DLS) Workshop (will be available soon).
 - [Mission-oriented Security Model, Incorporating Security Risk, Cost and Payout](https://beerkay.github.io/) is accepted to SECURECOMM'18 (will be available soon).
 - [IoTBench: A micro-benchmark suite to assess the effectiveness of tools designed for IoT apps](https://github.com/IoTBench/test-suite) is now online.
@@ -79,8 +80,9 @@ I am involved in Cyber-Security Collaborative Research Alliance ([CSec CRA](http
 * March 2016, Mapping Sample Scenarios to Operational Models in Cyber Environments, A DoD Multidisciplinary University Research Initiative (MURI) Project (George Mason University, host: [Dr. Sushil Jajodia](http://csis.gmu.edu/jajodia/)), 
 
 ### Awards
+* 2018, Student Travel Award, 13th ACM ASIA Conference on Information, Computer and Communications Security (ACM ASIACCS 2018) 
 * 2018, Sensitive Information Tracking in Commodity IoT (Best demo award), [Florida Institute for Cybersecurity Research (FICS) Research Annual Conference on Cybersecurity](http://fics.institute.ufl.edu/poster-demo-winners-at-the-fics-annual-conference-on-cybersecurity/)
-* 2015, Student Travel Grant, Military Communications Conference (MILCOM)
+* 2015, Student Travel Award, 34th Military Communications Conference (MILCOM)
 
 ### Internships
 * 2015 (Summer), Research Associate, Vencore Labs, New Jersey (Managers: Dr. Ritu Chadha and [Dr. Rauf Izmailov](https://scholar.google.com/citations?user=eA2qnCYAAAAJ&hl=en))
