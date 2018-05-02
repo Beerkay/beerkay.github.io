@@ -81,8 +81,9 @@ I am involved in Cyber-Security Collaborative Research Alliance ([CSec CRA](http
 
 ### Awards
 * 2018, Student Travel Award, 13th ACM ASIA Conference on Information, Computer and Communications Security (ACM ASIACCS 2018) 
-* 2018, Sensitive Information Tracking in Commodity IoT (Best demo award), [Florida Institute for Cybersecurity Research (FICS) Research Annual Conference on Cybersecurity](http://fics.institute.ufl.edu/poster-demo-winners-at-the-fics-annual-conference-on-cybersecurity/)
+* 2018, Best demo award, Sensitive Information Tracking in Commodity IoT, [Florida Institute for Cybersecurity Research (FICS) Research Annual Conference on Cybersecurity](http://fics.institute.ufl.edu/poster-demo-winners-at-the-fics-annual-conference-on-cybersecurity/)
 * 2015, Student Travel Award, 34th Military Communications Conference (MILCOM)
+* 2015 and 2017, PSU Summer Tuition Assistance Program (STAP) Fellowship
 
 ### Internships
 * 2015 (Summer), Research Associate, Vencore Labs, New Jersey (Managers: Dr. Ritu Chadha and [Dr. Rauf Izmailov](https://scholar.google.com/citations?user=eA2qnCYAAAAJ&hl=en))
