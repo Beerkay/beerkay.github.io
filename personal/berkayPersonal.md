@@ -1,5 +1,5 @@
 ---
-layout: default_minimal_2col
+layout: default_minimal
 title: Home
 notitle: true
 ---
