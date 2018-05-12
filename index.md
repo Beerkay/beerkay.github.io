@@ -90,10 +90,8 @@ I am involved in Cyber-Security Collaborative Research Alliance ([CSec CRA](http
 ### Internships
 * 2015 (Summer), Research Associate, Vencore Labs, New Jersey (Managers: Dr. Ritu Chadha and [Dr. Rauf Izmailov](https://scholar.google.com/citations?user=eA2qnCYAAAAJ&hl=en))
 * 2017 (Summer), Software Engineer, VMWare CTO Office, Greater Boston Area (Managers: Ronn Mann and [Josh Simons](https://octo.vmware.com/author/josh_simons/))
+
 ---
-
-
-
 
 <!---
 Reviwer for Neural Information Processing Systems (NIPS) 2018
