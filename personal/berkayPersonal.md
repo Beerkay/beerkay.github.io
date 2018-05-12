@@ -6,14 +6,14 @@ notitle: true
 
 ### Personal
 
-# Sailing is my passion, whether it's racing or cruising. I hold professinal licence in sailing in my country (equivalent to [ASA 106](https://asa.com/certifications/), Advanced Coastal Cruising). I recently had a chance sailing on Charles River, and Raritan Bay, and being at [Sail Boston'17](https://www.sailboston.com/). 
+Sailing is my passion, whether it's racing or cruising. I hold professinal licence in sailing in my country (equivalent to [ASA 106](https://asa.com/certifications/), Advanced Coastal Cruising). I recently had a chance sailing on Charles River, and Raritan Bay, and being at [Sail Boston'17](https://www.sailboston.com/). 
 
-<p align="center">
+<div style="text-align:center" markdown="1">
 ![alt-text-1](/personal/images/sailCambridge.jpg "Charles River-Cambridge") ![alt-text-2](/personal/images/orsa2.png "Orsa-Istanbul") ![alt-text-3](/personal/images/sailMIT.jpg "MIT-Cambridge")
-</p>
+</div>
 
-# I follow college sports closely. I am a huge fan of [Nittany Lions](http://www.gopsusports.com/), particularly when it comes to football and basketball.
+I follow college sports closely. I am a huge fan of [Nittany Lions](http://www.gopsusports.com/), particularly when it comes to football and basketball.
 
-<p align="center">
+<div style="text-align:center" markdown="1">
 ![alt-text-1](/personal/images/psu-game.jpg "Charles River-Cambridge")
-</p>
+</div>
