@@ -71,7 +71,9 @@ I am involved in Cyber-Security Collaborative Research Alliance ([CSec CRA](http
 * 2016, Technical Program Committee for MILCOM'16 (Track 3: Cyber Security and Trusted Computing)
 * Reviewer: USENIX Security (2018), Neural Processing Letters (2017), ACM Computing Surveys (2017), IEEE S&P Magazine (2016), NDSS (2016), Journal of Network and Computer Applications (JNCA) (2016), Computers-Open Access Journal (2016)
 
+
 ### Invited Talks
+* April 2018 --- Recent Research on IoT Privacy and Security, [CSE 597: Wireless and Mobile Security, Penn State University](http://www.cse.psu.edu/~sxz16/) (host: Senchun Zhu)
 * March 2018 --- Automated IoT Privacy and Security Analysis, [Army Research Laboratory](https://www.arl.army.mil/www/default.cfm) (host: Dr. Ed Colbert)
 * September 2017 --- SainT: Sensitive Information Tracking for IoT Applications, [Great Lakes Security Day 2017](https://www.rit.edu/cybersecurity/great-lakes-security-day-2017) (Rochester Institute of Technology, host: [Dr. Matthew Wright](https://sites.google.com/site/matthewkwright/) and [Dr. Shanchieh Jay Yang](https://people.rit.edu/sjyeec/))
 * December 2016 --- Recent Research Topics in Security and Networking (Istanbul Technical University, host: [Dr. Sema Oktug](http://web.itu.edu.tr/~oktug/), [Computer Networks Research Laboratory](http://www.bb.itu.edu.tr/en/research/computer-networks-research-laboratory))
@@ -88,10 +90,21 @@ I am involved in Cyber-Security Collaborative Research Alliance ([CSec CRA](http
 ### Internships
 * 2015 (Summer), Research Associate, Vencore Labs, New Jersey (Managers: Dr. Ritu Chadha and [Dr. Rauf Izmailov](https://scholar.google.com/citations?user=eA2qnCYAAAAJ&hl=en))
 * 2017 (Summer), Software Engineer, VMWare CTO Office, Greater Boston Area (Managers: Ronn Mann and [Josh Simons](https://octo.vmware.com/author/josh_simons/))
-
 ---
 
+
+
+
 <!---
+Reviwer for Neural Information Processing Systems (NIPS) 2018
+
+### Personal
+[Click to know more about me](https://octo.vmware.com/author/josh_simons/)
+http://www.cs.virginia.edu/~robins/TimeManagementTalk.html
+
+https://beerkay.github.io/personal/Berkay-Personal.html
+%Life
+
 #### Policy-based Secure Data Exchange 
 <img align="left" src="{{ site.base }}/img/curie/curie.png" style="border-radius: 15px" hspace="15"> Data sharing among partners---users, organizations, companies---is crucial for the advancement of data analytics in many domains. Sharing through secure computation and differential privacy allows these partners to perform private computations on their sensitive data in controlled ways. However, in reality, there exist complex relationships among members. Politics, regulations, interest, trust, data demands and needs are one of the many reasons. Thus, there is a need for a mechanism to meet these conflicting relationships on data sharing. This paper presents Curie, an approach to exchange data among members whose membership has complex relationships. The CPL policy language that allows members to define the specifications of data exchange requirements is introduced. Members (partners) assert who and what to exchange through their local policies and negotiate a global sharing agreement. The agreement is implemented in a multi-party computation that guarantees sharing among members will comply with the policy as negotiated. The use of Curie is validated through an example of a health care application built on recently introduced secure multi-party computation and differential privacy frameworks, and policy and performance trade-offs are explored.
 

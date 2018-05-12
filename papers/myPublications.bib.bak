@@ -2,7 +2,7 @@
 % Encoding: MacRoman
 
 
-@InProceedings{abbas2017PAC,
+@InProceedings{berkay2017SecurePrivatePAC,
   Title                    = {Achieving Secure and Differentially Private Computations in Multiparty Settings},
   Author                   = {Abbas Acar and Z. Berkay Celik and Hidayet Aksu and A. Selcuk Uluagac and Patrick McDaniel},
   Booktitle                = {IEEE Symposium on Privacy-Aware Computing (PAC)},
@@ -11,7 +11,7 @@
   Url                      = {https://arxiv.org/pdf/1707.01871.pdf}
 }
 
-@InProceedings{saint-taint-analysis,
+@InProceedings{berkay2018SaintTaintAnalysisUsenixSecurity,
   Title                    = {Sensitive Information Tracking in Commodity IoT},
   Author                   = {Z. Berkay Celik and Leonardo Babun and Amit K. Sikder and Hidayet Aksu and Gang Tan and Patrick McDaniel and A. Selcuk Uluagac},
   Booktitle                = {USENIX Security Symposium},
@@ -23,7 +23,7 @@
   Owner                    = {berkay}
 }
 
-@InProceedings{celik2016mapping,
+@InProceedings{celik2016mappingOmodel,
   Title                    = {Mapping Sample Scenarios to Operational Models},
   Author                   = {Celik, Z. Berkay and Hu, Nan and Li, Yun and Papernot, Nicolas and McDaniel, Patrick and Rowe, Jeff and Walls, RobertJ. and Levitt, Karl and Bartolini, Novella and {La Porta}, Thomas and Chadha, Ritu},
   Booktitle                = {IEEE Internatonal Conference for Military Communications (MILCOM)},
@@ -32,7 +32,7 @@
   Url                      = {http://www.patrickmcdaniel.org/pubs/milcom16b.pdf}
 }
 
-@TechReport{celik2015proof,
+@TechReport{celik2015proofTR,
   Title                    = {Proof and Implementation of Algorithmic Realization of Learning Using Privileged Information (LUPI) Paradigm: SVM+},
   Author                   = {Celik, Z. Berkay and Izmailov, Rauf and McDaniel, Patrick},
   Institution              = {Penn State University},
@@ -44,7 +44,7 @@
   Url                      = {http://www.cse.psu.edu/~zbc102/files/svm_plus_technical_report_15.pdf}
 }
 
-@InProceedings{celik2017PatientPrivacy,
+@InProceedings{celik2017PatientPrivacyPAC,
   Title                    = {Patient-Driven Privacy Control through Generalized Distillation},
   Author                   = {Celik, Z. Berkay and Lopez-Paz, David, and McDaniel, Patrick and Izmailov, Rauf},
   Booktitle                = {IEEE Symposium on Privacy-Aware Computing (PAC)},
@@ -53,14 +53,14 @@
   Url                      = {https://arxiv.org/pdf/1611.08648v2.pdf}
 }
 
-@InProceedings{berkayDistillationDLS18,
+@InProceedings{berkay2018DistillationSPDLS,
   Title                    = {Extending Detection with Privileged Information via Generalized Distillation},
   Author                   = {Z. Berkay Celik and Patrick McDaniel},
   Booktitle                = {IEEE Security \& Privacy Workshop on Deep Learning and Security (IEEE S\&P DLS)},
   Year                     = {2018}
 }
 
-@Article{berkayMalwareModelling,
+@Article{berkay2017MalwareModellingJDMS,
   Title                    = {Malware Modeling and Experimentation through Parameterized Behavior},
   Author                   = {Celik, Z. Berkay and McDaniel, Patrick and Bowen, Thomas},
   Journal                  = {Journal of Defense Modeling and Simulation (JDMS)},
@@ -69,7 +69,7 @@
   Url                      = {https://beerkay.github.io/papers/Celik17_JDMS.pdf}
 }
 
-@InProceedings{berkayPrivilegedASIACCS18,
+@InProceedings{berkay2018PrivilegedASIACCS,
   Title                    = {Detection under Privileged Information},
   Author                   = {Z. Berkay Celik and Patrick McDaniel and Rauf Izmailov and Nicolas Papernot and Ryan Sheatsley and Raquel Alvarez and Ananthram Swami},
   Booktitle                = {ACM Asia Conference on Computer and Communications Security (ASIACCS)},
@@ -78,7 +78,7 @@
   Url                      = {https://arxiv.org/pdf/1603.09638.pdf}
 }
 
-@InProceedings{BerkaySoteriaUSENIXATC2018,
+@InProceedings{Berkay2018SoteriaUSENIXATC,
   Title                    = {Soteria: Automated IoT Safety and Security Analysis},
   Author                   = {Z. Berkay Celik and Patrick McDaniel and Gang Tan},
   Booktitle                = {USENIX Annual Technical Conference (USENIX ATC)},
@@ -91,7 +91,7 @@
   Timestamp                = {2018.04.19}
 }
 
-@InProceedings{berkayIWSPA17,
+@InProceedings{berkay2017PrivilegedCultivationIWSPA,
   Title                    = {Feature Cultivation in Privileged Information-augmented Detection},
   Author                   = {Celik, Z. Berkay and McDaniel, Patrick, and Izmailov, Rauf},
   Booktitle                = {International Workshop on Security And Privacy Analytics (Codaspy, IWSPA) (Invited Paper)},
@@ -102,7 +102,7 @@
   Url                      = {http://www.patrickmcdaniel.org/pubs/iwspa17.pdf}
 }
 
-@InProceedings{celik2013detection,
+@InProceedings{celik2013fastFluxISCC,
   Title                    = {Detection of Fast-flux Networks using Various DNS Feature Sets},
   Author                   = {Celik, Z. Berkay and Oktug, Sema},
   Booktitle                = {IEEE Computers and Communications Symposium (ISCC)},
@@ -111,7 +111,7 @@
   Url                      = {https://beerkay.github.io/papers/Celik13_ISCC.pdf}
 }
 
-@InProceedings{celik2011salting,
+@InProceedings{celik2011saltingCSET,
   Title                    = {Salting Public Traces with Attack Traffic to Test Flow Classifiers},
   Author                   = {Celik, Z. Berkay and Raghuram, Jayaram and Kesidis, George and Miller, David J},
   Booktitle                = {USENIX Cyber Security and Experimentation (CSET) Workshop},
@@ -120,7 +120,7 @@
   Url                      = {https://beerkay.github.io/papers/Celik11_CSET.pdf}
 }
 
-@InProceedings{celik2015malware,
+@InProceedings{celik2015malwareMILCOM,
   Title                    = {Malware Traffic Detection using Tamper Resistant Features},
   Author                   = {Celik, Z. Berkay and Walls, Robert J and McDaniel, Patrick and Swami, Ananthram},
   Booktitle                = {IEEE Internatonal Conference for Military Communications (MILCOM)},
@@ -129,7 +129,7 @@
   Url                      = {https://beerkay.github.io/papers/Celik15_Milcom.pdf}
 }
 
-@Unpublished{nanberkay,
+@Unpublished{berkay2018OModel,
   Title                    = {Action-Driven Operation Model with Evaluation of Risk and Executability (ADOM-ERE)},
   Author                   = {Hu, Nan and Bartolini, Novella, and La Porta, Tom and Celik, Z. Berkay and McDaniel, Patrick},
   Note                     = {In Submission},
@@ -140,7 +140,7 @@
   Timestamp                = {2016.09.02}
 }
 
-@Article{mcdaniel2016machine,
+@Article{mcdaniel2016adversarialSPMagazine,
   Title                    = {Machine Learning in Adversarial Settings},
   Author                   = {McDaniel, Patrick and Papernot, Nicolas and Celik, Z. Berkay},
   Journal                  = {IEEE Security \& Privacy Magazine},
@@ -151,7 +151,7 @@
   Url                      = {http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=7478523&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D7478523}
 }
 
-@InProceedings{papernot2017practical,
+@InProceedings{papernot2017practicalASIACCS,
   Title                    = {Practical Black-Box Attacks against Deep Learning Systems using Adversarial Examples},
   Author                   = {Papernot, Nicolas and McDaniel, Patrick and Goodfellow, Ian and Jha, Somesh and Celik, Z. Berkay and Swami, Ananthram},
   Booktitle                = {ACM Asia Conference on Computer and Communications Security (ASIACCS)},
@@ -160,7 +160,7 @@
   Url                      = {https://arxiv.org/pdf/1602.02697v2.pdf}
 }
 
-@InProceedings{papernot2016limitations,
+@InProceedings{papernot2016limitationsEuroSP,
   Title                    = {The limitations of Deep Learning in Adversarial Settings},
   Author                   = {Papernot, Nicolas and McDaniel, Patrick and Jha, Somesh and Fredrikson, Matt and Celik, Z. Berkay and Swami, Ananthram},
   Booktitle                = {IEEE European Symposium on Security and Privacy (EuroS\&P)},
@@ -169,7 +169,7 @@
   Url                      = {https://arxiv.org/pdf/1511.07528v1.pdf}
 }
 
-@InProceedings{OModelSecureComm18,
+@InProceedings{berkay2018OmodelSecureComm,
   Title                    = {Mission-oriented Security Model, Incorporating Security Risk, Cost and Payout},
   Author                   = {Sayed Saghaian and Tom La Porta and Trent Jaeger and Z. Berkay Celik and Patrick McDaniel},
   Booktitle                = {International Conference on Security and Privacy in Communication Systems (SecureComm)},
