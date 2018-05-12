@@ -15,5 +15,5 @@ Sailing is my passion, whether it's racing or cruising. I hold professinal licen
 I follow college sports closely. I am a huge fan of [Nittany Lions](http://www.gopsusports.com/), particularly when it comes to football and basketball.
 
 <div style="text-align:center" markdown="1">
-![alt-text-1](/personal/images/psu-game.jpg "Charles River-Cambridge")
+![alt-text-1](/personal/images/psu-game.jpg "McDaniel-Celik")
 </div>
