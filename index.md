@@ -60,9 +60,10 @@ I am involved in Cyber-Security Collaborative Research Alliance ([CSec CRA](http
 ---
 
 ### Teaching Experience
-* CMPSC 311--System Programming (with Prof. Patrick McDaniel) (Fall 2016)
-* CMPSC 443--Introduction to Computer Security (with Prof. Patrick McDaniel) (Spring 2017)
-* CSE 598--S&P of Machine Learning (with Prof. Patrick McDaniel and Nicolas Papernot) (Fall 2016)
+* CMPSC 311:System Programming (with Prof. Patrick McDaniel) (Fall 2016)
+* CMPSC 443:Introduction to Computer Security (with Prof. Patrick McDaniel) (Spring 2017)
+* CSE 597:Security and Privacy of Machine Learning (with Prof. Patrick McDaniel and Nicolas Papernot) (Fall 2016)
+* CSE 597:Advanced Topics in the Security and Privacy of Machine Learning (with Prof. Patrick McDaniel and Nicolas Papernot) (Spring 2017)
 
 ### Professional Activities
 * 2018, Program Committee Member for IEEE Symposium on Privacy-Aware Computing (IEEE PAC) 
@@ -72,19 +73,23 @@ I am involved in Cyber-Security Collaborative Research Alliance ([CSec CRA](http
 * Reviewer: USENIX Security (2018), Neural Processing Letters (2017), ACM Computing Surveys (2017), IEEE S&P Magazine (2016), NDSS (2016), Journal of Network and Computer Applications (JNCA) (2016), Computers-Open Access Journal (2016)
 
 
-### Invited Talks
-* April 2018 --- Recent Research on IoT Privacy and Security, [CSE 597: Wireless and Mobile Security, Penn State University](http://www.cse.psu.edu/~sxz16/) (host: Senchun Zhu)
+### Invited Talks/Presentations
+* April 2018 --- Recent Research on IoT Privacy and Security, [Penn State University](http://www.cse.psu.edu/~sxz16/) (host: Dr. Senchun Zhu, CSE 597: Wireless and Mobile Security class)
 * March 2018 --- Automated IoT Privacy and Security Analysis, [Army Research Laboratory](https://www.arl.army.mil/www/default.cfm) (host: Dr. Ed Colbert)
-* September 2017 --- SainT: Sensitive Information Tracking for IoT Applications, [Great Lakes Security Day 2017](https://www.rit.edu/cybersecurity/great-lakes-security-day-2017) (Rochester Institute of Technology, host: [Dr. Matthew Wright](https://sites.google.com/site/matthewkwright/) and [Dr. Shanchieh Jay Yang](https://people.rit.edu/sjyeec/))
-* December 2016 --- Recent Research Topics in Security and Networking (Istanbul Technical University, host: [Dr. Sema Oktug](http://web.itu.edu.tr/~oktug/), [Computer Networks Research Laboratory](http://www.bb.itu.edu.tr/en/research/computer-networks-research-laboratory))
-* December 2016 --- Extending Detection with Forensic Information (Florida International University, host: [Dr. Selcuk Uluagac](http://web.eng.fiu.edu/selcuk/), [Cyber-Physical Systems Security Lab](https://csl.fiu.edu/))
+* September 2017 --- SainT: Sensitive Information Tracking for IoT Applications, [Great Lakes Security Day 2017, RIT](https://www.rit.edu/cybersecurity/great-lakes-security-day-2017) (host: [Dr. Matthew Wright](https://sites.google.com/site/matthewkwright/))
+* August 2017 --- Deep Learning for Analyzing VMware Software, [VmWare Cambridge](https://www.vmware.com/) (VmWare Intern Presentation) 
+* July 2017 --- Convolutional Neural Networks for Secure Code, [VmWare Cambridge](https://www.vmware.com/) (VmWare CTO Office Presentation) 
+* December 2016 --- Recent Research Topics in Security and Privacy (Istanbul Technical University](http://www.bb.itu.edu) (host: [Dr. Sema Oktug](http://web.itu.edu.tr/~oktug/)
+* December 2016 --- Detection under Privileged Information [Florida International University]https://csl.fiu.edu/) (host: [Dr. Selcuk Uluagac](http://web.eng.fiu.edu/selcuk/)
 * March 2016, Malware Traffic Detection using Tamper Resistant Features, [Army Research Laboratory](https://www.arl.army.mil/www/default.cfm) (host: Dr. Ananthram Swami)
-* March 2016, Mapping Sample Scenarios to Operational Models in Cyber Environments, A DoD Multidisciplinary University Research Initiative (MURI) Project (George Mason University, host: [Dr. Sushil Jajodia](http://csis.gmu.edu/jajodia/)), 
+* March 2016, Mapping Sample Scenarios to Operational Models in Cyber Environments,[George Mason University](https://www2.gmu.edu/) (host: [Dr. Sushil Jajodia](http://csis.gmu.edu/jajodia/))
+* August 2015, Detection under Privileged Information, [Vencore Labs](https://www.vencorelabs.com/)(Intern presentation)
+
 
 ### Awards
-* 2018, Student Travel Award, 13th ACM ASIA Conference on Information, Computer and Communications Security (ACM ASIACCS 2018) 
+* 2018, Student Travel Award, ACM ASIA Conference on Information, Computer and Communications Security (ACM ASIACCS 2018) 
 * 2018, Best demo award, Sensitive Information Tracking in Commodity IoT, [Florida Institute for Cybersecurity Research (FICS) Research Annual Conference on Cybersecurity](http://fics.institute.ufl.edu/poster-demo-winners-at-the-fics-annual-conference-on-cybersecurity/)
-* 2015, Student Travel Award, 34th Military Communications Conference (MILCOM)
+* 2015, Student Travel Award,  Military Communications Conference (MILCOM)
 * 2015 and 2017, PSU Summer Tuition Assistance Program (STAP) Fellowship
 
 ### Internships
@@ -100,9 +105,6 @@ Reviwer for Neural Information Processing Systems (NIPS) 2018
 [Click to know more about me](https://octo.vmware.com/author/josh_simons/)
 http://www.cs.virginia.edu/~robins/TimeManagementTalk.html
 
-https://beerkay.github.io/personal/Berkay-Personal.html
-%Life
-
 #### Policy-based Secure Data Exchange 
 <img align="left" src="{{ site.base }}/img/curie/curie.png" style="border-radius: 15px" hspace="15"> Data sharing among partners---users, organizations, companies---is crucial for the advancement of data analytics in many domains. Sharing through secure computation and differential privacy allows these partners to perform private computations on their sensitive data in controlled ways. However, in reality, there exist complex relationships among members. Politics, regulations, interest, trust, data demands and needs are one of the many reasons. Thus, there is a need for a mechanism to meet these conflicting relationships on data sharing. This paper presents Curie, an approach to exchange data among members whose membership has complex relationships. The CPL policy language that allows members to define the specifications of data exchange requirements is introduced. Members (partners) assert who and what to exchange through their local policies and negotiate a global sharing agreement. The agreement is implemented in a multi-party computation that guarantees sharing among members will comply with the policy as negotiated. The use of Curie is validated through an example of a health care application built on recently introduced secure multi-party computation and differential privacy frameworks, and policy and performance trade-offs are explored.
 
@@ -116,18 +118,22 @@ During my Msc. studies, I worked with [Prof. George Kesidis](http://www.cse.psu.
 
 
 I also worked under the direction of [Prof. Sema Oktug](http://web.itu.edu.tr/~oktug/) at [Istanbul Technical University](http://www.itu.edu.tr/en/) focusing on practical network security problems (e.g., fast-flux networks).
-
 -->
 
 <!---
-Posters missing, Reviewlari mutlaka ekle. 
+Posters missing, Reviewlari mutlaka ekle.
+### Posters
+## DLS
+## CRA
+## VENCORE LABS
+## VMWARE
+
 --
+* 2018--NIPS
 * 2017, Program Committee Member for IEEE Symposium on Privacy-Aware Computing (PAC)
 * Reviewer, Usenix Security (2018)
 
-Awards:
-Sensitive information Tracking in Commodity IoT, best demo award, Florida Institute for Cybersecurity Research (FICS) Research Annual Conference on Cybersecurity
-include pubs-3.html
+
 -->
 
 
