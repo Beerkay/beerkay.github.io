@@ -4,11 +4,6 @@ title: Home
 notitle: true
 ---
 
-div {
-   word-wrap: break-word;
-   width: 200px;
-}
-
 ### About Me
 
 I am a research assistant in Department of Electrical Engineering and Computer Science at the Pennsylvania State University working with [Prof. Patrick McDaniel](http://www.patrickmcdaniel.org/) and a member of the [Systems and Internet Infrastructure Security Laboratory (SIIS)](http://siis.cse.psu.edu/). 
