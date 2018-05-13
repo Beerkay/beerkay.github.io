@@ -4,6 +4,11 @@ title: Home
 notitle: true
 ---
 
+div {
+   word-wrap: break-word;
+   width: 200px;
+}
+
 ### About Me
 
 I am a research assistant in Department of Electrical Engineering and Computer Science at the Pennsylvania State University working with [Prof. Patrick McDaniel](http://www.patrickmcdaniel.org/) and a member of the [Systems and Internet Infrastructure Security Laboratory (SIIS)](http://siis.cse.psu.edu/). 
@@ -79,7 +84,7 @@ I am involved in Cyber-Security Collaborative Research Alliance ([CSec CRA](http
 * September 2017: SainT: Sensitive Information Tracking for IoT Applications, [Great Lakes Security Day 2017, RIT](https://www.rit.edu/cybersecurity/great-lakes-security-day-2017) (host: [Dr. Matthew Wright](https://sites.google.com/site/matthewkwright/))
 * August 2017: Deep Learning for Analyzing VMware Software, [VMware Cambridge Office](https://www.vmware.com/) (VMware Intern Presentation) 
 * July 2017: Convolutional Neural Networks for Secure Code, [VMware Cambridge Office](https://www.vmware.com/) (VMware CTO Office Presentation) 
-* December 2016: Recent Research Topics in Security and Privacy [Istanbul Technical University](http://www.bb.itu.edu) (host: [Dr. Sema Oktug](http://web.itu.edu.tr/~oktug/)
+* December 2016: Recent Research Topics in Security and Privacy, [Istanbul Technical University](http://www.bb.itu.edu) (host: [Dr. Sema Oktug](http://web.itu.edu.tr/~oktug/)
 * December 2016:Detection under Privileged Information, [Florida International University](https://csl.fiu.edu/) (host: [Dr. Selcuk Uluagac](http://web.eng.fiu.edu/selcuk/)
 * March 2016: Malware Traffic Detection using Tamper Resistant Features, [Army Research Laboratory](https://www.arl.army.mil/www/default.cfm) (host: Dr. Ananthram Swami)
 * March 2016: Mapping Sample Scenarios to Operational Models in Cyber Environments, [George Mason University](https://www2.gmu.edu/) (host: [Dr. Sushil Jajodia](http://csis.gmu.edu/jajodia/))
