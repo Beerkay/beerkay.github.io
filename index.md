@@ -1,3 +1,9 @@
+---
+layout: default_minimal_2col
+title: Home
+notitle: true
+---
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -50,11 +56,6 @@ body {
 </body>
 </html>
 
----
-layout: default_minimal_2col
-title: Home
-notitle: true
----
 
 ### About Me
 
