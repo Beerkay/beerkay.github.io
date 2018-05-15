@@ -49,12 +49,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           <h2>{{ page.title }}</h2>
           {% endif %}
 
-<head>
-    <link rel="import" href="/pages/topmenu.html">
-</head>
-
   
           <table >
+          <tr>
+            {% include topmenu.html %}
+          </tr>
           <tr>
             {% include sidebar.html %}
           </tr>
