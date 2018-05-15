@@ -36,7 +36,14 @@
           <h2>{{ page.title }}</h2>
           {% endif %}
 
-          {{ content }}
+          <table >
+          <tr>
+            {% include topmenu.html %}
+          </tr>
+         
+          <td colspan="2"> {{ content }}</td>
+          </tr>
+          </table>
 
           <div class="footer">
             <p>
