@@ -11,6 +11,16 @@
   Url                      = {https://arxiv.org/pdf/1707.01871.pdf}
 }
 
+@Misc{BerkayCurieArxiv,
+  Title                    = {Curie: Policy-based Secure Data Exchange},
+
+  Author                   = {Z. Berkay Celik and Hidayet Aksu and Abbas Acar and Ryan Sheatsley and A. Selcuk Uluagac and Patrick McDaniel},
+  Year                     = {2017},
+
+  Eprint                   = {arXiv:1702.08342},
+  Url                      = {https://arxiv.org/pdf/1702.08342.pdf}
+}
+
 @InProceedings{berkay2018SaintTaintAnalysisUsenixSecurity,
   Title                    = {Sensitive Information Tracking in Commodity IoT},
   Author                   = {Z. Berkay Celik and Leonardo Babun and Amit K. Sikder and Hidayet Aksu and Gang Tan and Patrick McDaniel and A. Selcuk Uluagac},

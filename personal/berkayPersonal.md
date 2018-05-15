@@ -17,3 +17,8 @@ I follow college sports closely. I am a huge fan of [Nittany Lions](http://www.g
 <div style="text-align:center" markdown="1">
 ![alt-text-1](/personal/images/psu-game.jpg "McDaniel-Celik")
 </div>
+
+
+<!---
+In my free time, I enjoy reading. In particular, ...
+-->
