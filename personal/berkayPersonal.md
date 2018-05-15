@@ -1,4 +1,4 @@
-
+---
 layout: default_minimal
 title: Home
 notitle: true
