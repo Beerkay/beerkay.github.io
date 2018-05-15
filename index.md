@@ -58,7 +58,7 @@ In our [CSET 2011](https://beerkay.github.io/papers/Celik11_CSET.pdf) work my co
 I am involved in Cyber-Security Collaborative Research Alliance ([CSec CRA](http://cra.psu.edu/)) with the Army Research Laboratory, Penn State, Carnegie Mellon, UC Riverside, UC Davis, and Indiana University. Our mandate is to develop a new science of security. As part of this effort, I've worked on the foundation for representing of operational and environmental knowledge. [See our work on operational models](http://wwwusers.di.uniroma1.it/~novella/myhome/Home_Page_di_Novella_Bartolini/milcom_2016.pdf). Our goal is to reason about both current and future states of a cyber-operation to make optimal decisions.
 
 ---
-
+<!---
 ### Teaching Experience
 * CMPSC 311: System Programming (with Prof. Patrick McDaniel) (Fall 2016)
 * CMPSC 443: Introduction to Computer Security (with Prof. Patrick McDaniel) (Spring 2017)
@@ -98,7 +98,7 @@ I am involved in Cyber-Security Collaborative Research Alliance ([CSec CRA](http
 
 ---
 
-<!---
+
 Reviwer for Neural Information Processing Systems (NIPS) 2018
 
 ### Personal
@@ -134,12 +134,10 @@ Posters missing, Reviewlari mutlaka ekle.
 * Reviewer, Usenix Security (2018)
 
 
--->
-
 
 ### Publications
 <script src="https://bibbase.org/show?bib=https%3A%2F%2Fraw.githubusercontent.com%2FBeerkay%2Fbeerkay.github.io%2Fmaster%2Fpapers%2FmyPublications.bib&jsonp=1"></script>
-
+-->
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-56069371-2"></script>
 <script>
