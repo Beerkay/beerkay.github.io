@@ -186,7 +186,11 @@
   }
   #cssmenu ul {
     width: 100%;
-    display: none;
+    display:block !important;
+  }
+  #cssmenu ul ul{
+    width: 100%;
+    display:none;
   }
   #cssmenu.align-center > ul {
     text-align: left;
@@ -339,11 +343,6 @@
   }
   #cssmenu .submenu-button.submenu-opened:before {
     display: none;
-  }
-}
-@media (min-width: 786px) and (max-width: 803px){
-  #cssmenu ul {
-    display:block !important;
   }
 }
 
