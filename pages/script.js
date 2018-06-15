@@ -42,7 +42,11 @@
         if (settings.format === 'multitoggle') multiTg();
         else cssmenu.addClass('dropdown');
 
-        if (settings.sticky === true) cssmenu.css('position', 'fixed');  
+        if (settings.sticky === true) cssmenu.css('position', 'fixed');
+
+        
+    
+       
 
       });
   };
