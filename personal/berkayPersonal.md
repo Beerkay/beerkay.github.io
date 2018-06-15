@@ -13,7 +13,6 @@ Sailing is my passion, whether it's racing or cruising. I hold professinal saili
 
 ![alt-text-2](/personal/images/orsa2.png "Orsa-Istanbul") 
 
-![alt-text-3](/personal/images/sailMIT.jpg "MIT-Cambridge")
 </div>
 
 I follow college sports closely. I am a huge fan of [Nittany Lions](http://www.gopsusports.com/), particularly when it comes to football and basketball.
@@ -25,4 +24,6 @@ I follow college sports closely. I am a huge fan of [Nittany Lions](http://www.g
 
 <!---
 In my free time, I enjoy reading. In particular, ...
+
+![alt-text-3](/personal/images/sailMIT.jpg "MIT-Cambridge")
 -->
