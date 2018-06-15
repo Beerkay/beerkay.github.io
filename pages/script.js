@@ -43,19 +43,6 @@
         else cssmenu.addClass('dropdown');
 
         if (settings.sticky === true) cssmenu.css('position', 'fixed');
-
-        resizeFix = function() {
-          if ($(document).width() > 768) {
-            cssmenu.find('ul').show();
-          }
-
-          if ($(document).width() <= 768) {
-            cssmenu.find('ul').hide().removeClass('open');
-          }
-        };
-        resizeFix();
-        return $(document).on('resize', resizeFix);
-
       });
   };
 })(jQuery);
