@@ -6,14 +6,14 @@ notitle: true
 
 ### About Me
 
-I am a research assistant in Department of Electrical Engineering and Computer Science at the Pennsylvania State University working with [Prof. Patrick McDaniel](http://www.patrickmcdaniel.org/) and a member of the [Systems and Internet Infrastructure Security Laboratory (SIIS)](http://siis.cse.psu.edu/). 
-
-During my Msc. studies, I worked with [Prof. George Kesidis](http://www.cse.psu.edu/~gik2/) and [Prof. David J. Miller](http://www.ee.psu.edu/directory/FacultyInfo/Miller/MillerProfilePage.aspx). My research was on machine learning and network security.
+I am a research assistant in Department of Electrical Engineering and Computer Science at the Pennsylvania State University working with [Prof. Patrick McDaniel](http://www.patrickmcdaniel.org/) and a member of the [Systems and Internet Infrastructure Security Laboratory (SIIS)](http://siis.cse.psu.edu/). During my Msc. studies, I worked with [Prof. George Kesidis](http://www.cse.psu.edu/~gik2/) and [Prof. David J. Miller](http://www.ee.psu.edu/directory/FacultyInfo/Miller/MillerProfilePage.aspx). My research was on machine learning systems and network security.
+ 
+Generally, I am interested in developing secure systems through program analysis and machine learning. My recent work seeks to improve security, safety and privacy guarantees in commodity IoT. 
 
 ---
 
 ### News 
-- [Soteria: Automated IoT Safety and Security Analysis](https://beerkay.github.io/) is accepted to USENIX ATC'18 (will be available soon).
+- [Soteria: Automated IoT Safety and Security Analysis](https://arxiv.org/pdf/1805.08876.pdf) is accepted to USENIX ATC'18.
 - [Sensitive Information Tracking in Commodity IoT](https://arxiv.org/pdf/1802.08307.pdf) is accepted to USENIX Security'18.
 - [Detection under Privileged Information](https://arxiv.org/abs/1603.09638) is accepted to AsiaCCS'18.
 - [Extending Detection with Privileged Information via Generalized Distillation](https://beerkay.github.io/) is accepted to IEEE S&P'18 Deep Learning Security (DLS) Workshop (will be available soon).
@@ -27,15 +27,16 @@ During my Msc. studies, I worked with [Prof. George Kesidis](http://www.cse.psu.
 I've had the opportunity to work on a number of interesting research projects during my Msc. and PhD. studies. Here is a summary of some of my efforts. 
 
 
-#### Sensitive Information Tracking in Commodity IoT
-<img align="left" src="{{ site.base }}/img/saint/saint.png" style="border-radius: 15px" hspace="15"> We present SainT, a static taint analysis tool for IoT applications. SainT operates in three phases; (a) translation of platform-specific IoT source code into an intermediate representation (IR), (b) identifying sensitive sources and sinks, and (c) performing static analysis to identify sensitive data flows. We evaluate SainT on 230 SmartThings market apps and find 138 (60%) include sensitive data flows. In addition, we demonstrate SainT on IoTBench, a novel open-source test suite containing 19 apps with 27 unique data leaks. Through this effort, we introduce a rigorously grounded framework for evaluating the use of sensitive information in IoT apps---and therein provide developers, markets, and consumers a means of identifying potential threats to security and privacy.
-Read more about [this work](https://arxiv.org/pdf/1802.08307.pdf).
+#### Automated IoT Security, Safety and Privacy Analysis
+<img align="left" src="{{ site.base }}/img/saint/saint.png" style="border-radius: 15px" hspace="15"> First, We implemented Soteria, a static analysis system for validating whether an IoT app or IoT environment (collection of apps working in concert) adheres to identified safety, security, and functional properties. We demonstrated that many apps violate properties when used in isolation and when used together in multi-app environments. Read more about [Soteria](https://arxiv.org/pdf/1805.08876.pdf) Second, we present SainT, a static taint analysis tool for IoT applications. Through this effort, we introduced a rigorously grounded framework for evaluating the use of sensitive information in IoT apps--and therein provide developers, markets, and consumers a means of identifying potential threats to security and privacy. Read more about [Saint](https://arxiv.org/pdf/1802.08307.pdf).
+
+[IoTBench](https://github.com/IoTBench/test-suite) is an IoT-specific test corpus, an open repository for evaluating systems designed for IoT app analyses. IoTBench is under continual development, always welcoming contributions of the new IoT apps. 
 
 
 #### Detection under Privileged Information
 <img align="left" src="{{ site.base }}/img/privileged/forensic-detection.png" style="border-radius: 15px" hspace="15"> For over a quarter century, security-relevant detection has been driven by models learned from input features collected from real or simulated environments. An artifact (e.g., network event, potential malware sample, suspicious email) is deemed malicious or non-malicious based on its similarity to the learned model at run-time. However, the training of the models has been historically limited to only those features available at run time. This talk covers an alternate model construction approach that trains models using forensic "privileged" information--features available at training time but not at runtime--to improve the accuracy and resilience of detection systems. Such techniques open the door to systems that can integrate forensic data directly into detection models, and therein provide a means to fully exploit the information available about past security-relevant events.
 
-Our paper is accepted to AsiaCCS'18: [Detection under Privileged Information](https://arxiv.org/pdf/1603.09638v4.pdf). Read more about formulation and implementation in our [technical report](http://www.cse.psu.edu/~zbc102/files/svm_plus_technical_report_15.pdf), and feature cultivation in privileged-augmented detection [Feature Cultivation in Privileged Information-augmented Detection (invited paper)](https://beerkay.github.io/papers/Celik17_CODASPY_IWSPA.pdf). 
+Our paper is accepted to AsiaCCS'18: [Detection under Privileged Information](https://arxiv.org/pdf/1603.09638v4.pdf). Read more about formulation and implementation in our [technical report](http://www.cse.psu.edu/~zbc102/files/svm_plus_technical_report_15.pdf), and feature cultivation in privileged-augmented detection [Feature Cultivation in Privileged Information-augmented Detection](https://beerkay.github.io/papers/Celik17_CODASPY_IWSPA.pdf). 
 
 
 #### Machine Learning in Adversarial Settings
@@ -43,7 +44,7 @@ Our paper is accepted to AsiaCCS'18: [Detection under Privileged Information](ht
 
 
 #### Patient-Driven Privacy Control 
-<img align="left" src="{{ site.base }}/img/patient-privacy/problem.png" style="border-radius: 15px" hspace="15"> Patients are asked to disclose personal information such as genetic markers, lifestyle habits, and clinical history. This data is then used by statistical models to predict personalized treatments. However, due to privacy concerns, patients often desire to withhold sensitive information. This self-censorship can impede proper diagnosis and treatment, which may lead to serious health complications and even death.  We present privacy distillation, a mechanism which allows patients to control the type and amount of information they wish to disclose to the healthcare providers for use in statistical models. 
+<img align="left" src="{{ site.base }}/img/patient-privacy/problem.png" style="border-radius: 15px" hspace="15"> Patients are asked to disclose personal information such as genetic markers, lifestyle habits, and clinical history. This data is then used by statistical models to predict personalized treatments. However, due to privacy concerns, patients often desire to withhold sensitive information. This self-censorship can impede proper diagnosis and treatment, which may lead to serious health complications. We implemented privacy distillation, a mechanism which allows patients to control the type and amount of information they wish to disclose to the healthcare providers for use in statistical models. 
 
 This paper is accepted to IEEE Privacy-aware computing (PAC) conference [Patient-Driven Privacy Control through Generalized Distillation](https://arxiv.org/pdf/1611.08648v1.pdf), 2016. The use of patient data made us develop new algorithms for [Achieving Secure and Differentially Private Computations in Multiparty Settings](https://arxiv.org/pdf/1702.08342.pdf). This paper is also accepted to PAC conference.
 
