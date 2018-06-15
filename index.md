@@ -13,11 +13,11 @@ Generally, I am interested in developing secure systems through program analysis
 ---
 
 ### News 
-- [Soteria: Automated IoT Safety and Security Analysis](https://arxiv.org/pdf/1805.08876.pdf) is accepted to USENIX ATC'18.
-- [Sensitive Information Tracking in Commodity IoT](https://arxiv.org/pdf/1802.08307.pdf) is accepted to USENIX Security'18.
-- [Detection under Privileged Information](https://arxiv.org/abs/1603.09638) is accepted to AsiaCCS'18.
-- [Extending Detection with Privileged Information via Generalized Distillation](https://beerkay.github.io/) is accepted to IEEE S&P'18 Deep Learning Security (DLS) Workshop (will be available soon).
-- [Mission-oriented Security Model, Incorporating Security Risk, Cost and Payout](https://beerkay.github.io/) is accepted to SECURECOMM'18 (will be available soon).
+- [Soteria: Automated IoT Safety and Security Analysis](https://arxiv.org/pdf/1805.08876.pdf) is accepted to USENIX ATC'18
+- [Sensitive Information Tracking in Commodity IoT](https://arxiv.org/pdf/1802.08307.pdf) is accepted to USENIX Security'18
+- [Detection under Privileged Information](https://arxiv.org/abs/1603.09638) is accepted to AsiaCCS'18
+- [Extending Detection with Privileged Information via Generalized Distillation](https://beerkay.github.io/) is accepted to IEEE S&P'18 Deep Learning Security (DLS) Workshop (will be available soon)
+- [Mission-oriented Security Model, Incorporating Security Risk, Cost and Payout](https://beerkay.github.io/) is accepted to SECURECOMM'18 (will be available soon)
 - [IoTBench: A micro-benchmark suite to assess the effectiveness of tools designed for IoT apps](https://github.com/IoTBench/test-suite) is now online.
 
 ---
@@ -28,7 +28,7 @@ I've had the opportunity to work on a number of interesting research projects du
 
 
 #### Automated IoT Security, Safety and Privacy Analysis
-<img align="left" src="{{ site.base }}/img/saint/saint.png" style="border-radius: 15px" hspace="15"> First, We implemented Soteria, a static analysis system for validating whether an IoT app or IoT environment (collection of apps working in concert) adheres to identified safety, security, and functional properties. We demonstrated that many apps violate properties when used in isolation and when used together in multi-app environments. Read more about [Soteria](https://arxiv.org/pdf/1805.08876.pdf) Second, we present SainT, a static taint analysis tool for IoT applications. Through this effort, we introduced a rigorously grounded framework for evaluating the use of sensitive information in IoT apps--and therein provide developers, markets, and consumers a means of identifying potential threats to security and privacy. Read more about [Saint](https://arxiv.org/pdf/1802.08307.pdf).
+<img align="left" src="{{ site.base }}/img/saint/saint.png" style="border-radius: 15px" hspace="15"> First, we implemented Soteria, a static analysis system for validating whether an IoT app or IoT environment (collection of apps working in concert) adheres to identified safety, security, and functional properties. We demonstrated that many apps violate properties when used in isolation and when used together in multi-app environments. Read more about [Soteria](https://arxiv.org/pdf/1805.08876.pdf). Second, we present SainT, a static taint analysis tool for IoT applications. Through this effort, we introduced a rigorously grounded framework for evaluating the use of sensitive information in IoT apps--and therein provide developers, markets, and consumers a means of identifying potential threats to security and privacy. Read more about [Saint](https://arxiv.org/pdf/1802.08307.pdf).
 
 [IoTBench](https://github.com/IoTBench/test-suite) is an IoT-specific test corpus, an open repository for evaluating systems designed for IoT app analyses. IoTBench is under continual development, always welcoming contributions of the new IoT apps. 
 
