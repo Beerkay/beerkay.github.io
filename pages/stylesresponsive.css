@@ -1,6 +1,23 @@
 @charset "UTF-8";
+p, blockquote, pre, dl, dt, dd, ol, ul, li, hr,
+fieldset, form, label, legend,
+article, aside, hgroup, menu, nav,
+summary, hgroup {
+  margin: 0;
+  padding: 5pt;
+  border: 0;
+}
 
+a:active,
+a:hover {
+  outline: 0;
+}
 
+@-webkit-viewport { width: device-width; }
+@-moz-viewport { width: device-width; }
+@-ms-viewport { width: device-width; }
+@-o-viewport { width: device-width; }
+@viewport { width: device-width; }
 
 /* ------------------------------------------
   NAVIGATION STYLES
