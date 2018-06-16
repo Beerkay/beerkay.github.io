@@ -10,7 +10,7 @@ p, blockquote, pre, dl, dt, dd, ol, ul, li, hr,
 fieldset, form, label, legend, th, td,
 article, aside, figure, footer, header, hgroup, menu, nav, section,
 summary, hgroup {
-  margin:0 0 20px;
+  margin:0 0 10px;
   padding: 0;
   border: 0;
 }
@@ -39,7 +39,7 @@ body {
   background: #fff;
   min-height: 5000px;
   font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
-  padding:50px;
+  padding:25px;
   font-weight:300;
 }
 
