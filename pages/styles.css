@@ -74,7 +74,7 @@
 #cssmenu ul ul li a {font-size:13px;}
 }
 
-@media only screen and ( max-width: 1024px ) {
+@media only screen and ( max-width: 250px ) {
 #cssmenu > ul > li > a {font-size:9.8px; font-size: 1.27vw; padding-left:12px; padding-right:12px; padding-left:1vw; padding-right:1vw;}
 #cssmenu li:hover > ul > li {height: 25px;}
 #cssmenu ul ul li a {font-size:9.8px; font-size: 1.27vw; height:25px;}
