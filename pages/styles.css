@@ -80,7 +80,7 @@
 #cssmenu ul ul li a {font-size:9.8px; font-size: 1.27vw; height:25px;}
 }
 
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 250px) {
 #cssmenu ul {display: block !important;}
 #cssmenu ul ul ul {display: none !important;}
 }
