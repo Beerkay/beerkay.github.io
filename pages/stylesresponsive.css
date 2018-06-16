@@ -1,59 +1,5 @@
 @charset "UTF-8";
 
-/* ------------------------------------------
-  RESET
---------------------------------------------- */
-
-body, div,
-p, blockquote, pre, dl, dt, dd, ol, ul, li, hr,
-fieldset, form, label, legend, th, td,
-article, aside, figure, footer, header, hgroup, menu, nav, section,
-summary, hgroup {
-  margin:0 0 5px;
-  padding: 0;
-  border: 0;
-}
-
-h1, h2, h3, h4, h5, h6 {
-  color:#222;
-  margin:0 0 20px;
-}
-
-a:active,
-a:hover {
-  outline: 0;
-}
-
-@-webkit-viewport { width: device-width; }
-@-moz-viewport { width: device-width; }
-@-ms-viewport { width: device-width; }
-@-o-viewport { width: device-width; }
-@viewport { width: device-width; }
-
-
-/* ------------------------------------------
-  BASE DEMO STYLES
---------------------------------------------- */
-
-body {
-  -webkit-text-size-adjust: 100%;
-  -ms-text-size-adjust: 100%;
-  text-size-adjust: 100%;
-  color: #37302a;
-  background: #fff;
-  min-height: 5000px;
-  font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
-  padding:10px;
-  font-weight:300;
-}
-
-
-section {
-  border-bottom: 1px solid #999;
-  float: left;
-  width: 100%;
-  height: 800px;
-}
 
 
 /* ------------------------------------------
