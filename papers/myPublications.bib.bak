@@ -98,7 +98,8 @@
   Month                    = {July},
 
   Owner                    = {berkay},
-  Timestamp                = {2018.04.19}
+  Timestamp                = {2018.04.19},
+  Url                      = {https://arxiv.org/pdf/1805.08876.pdf}
 }
 
 @InProceedings{berkay2017PrivilegedCultivationIWSPA,
