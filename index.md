@@ -18,8 +18,8 @@ Generally, I am interested in developing secure systems through program analysis
 - [Extending Detection with Privileged Information via Generalized Distillation](https://beerkay.github.io/) is accepted to IEEE S&P'18 Deep Learning Security (DLS) Workshop (will be available soon)
 - [Mission-oriented Security Model, Incorporating Security Risk, Cost and Payout](https://beerkay.github.io/) is accepted to SECURECOMM'18 (will be available soon)
 - [IoTBench: A micro-benchmark suite to assess the effectiveness of tools designed for IoT apps](https://github.com/IoTBench/IoTBench-test-suite) is now online.
----
 
+---
 ### Projects
 I've had the opportunity to work on a number of interesting research projects during my Msc. and PhD. studies. Here is a summary of some of my efforts. 
 
