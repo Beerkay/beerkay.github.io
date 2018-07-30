@@ -29,7 +29,6 @@
                     alt="Awesome" id="logo">
             </a>-->
           </div>
-
           {% comment %}Liquid is sort of terrible! I think "!= true" is the
           only way to do negation?{% endcomment %}
           {% if page.notitle != true %}
@@ -38,7 +37,7 @@
 
           <table >
           <tr>
-            {% include topmenu.html %}
+            {% include sidebar.html %}
           </tr>
          
           <td colspan="2"> {{ content }}</td>
