@@ -1,15 +1,12 @@
----
 layout: default_minimal_2col
 title: Home
 notitle: true
----
 
 ### About Me
 I am a research assistant in Department of Electrical Engineering and Computer Science at the Pennsylvania State University working with [Prof. Patrick McDaniel](http://www.patrickmcdaniel.org/) and a member of the [Systems and Internet Infrastructure Security Laboratory (SIIS)](http://siis.cse.psu.edu/). During my Msc. studies, I worked with [Prof. George Kesidis](http://www.cse.psu.edu/~gik2/) and [Prof. David J. Miller](http://www.ee.psu.edu/directory/FacultyInfo/Miller/MillerProfilePage.aspx). My research was on machine learning systems and network security. Previously I have worked at VMware evaluating the security of VMware source code, Vencore Labs building machine learning systems under privileged information, and Istanbul Technical University doing research on feature engineering for malware detection.
  
 Generally, I am interested in developing secure systems through program analysis and machine learning. My recent work seeks to improve security, safety and privacy guarantees in commodity IoT. 
 
----
 ### News 
 - I will give a lightning talk on Program Analysis of IoT Applications at [USENIX HotSec'18](https://www.usenix.org/conference/hotsec18)
 - [Soteria: Automated IoT Safety and Security Analysis](https://arxiv.org/pdf/1805.08876.pdf) is accepted to USENIX ATC'18
