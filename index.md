@@ -20,51 +20,51 @@ Generally, I am interested in developing secure systems through program analysis
 ---
 
 ### Publications (Selected)
-[Soteria: Automated IoT Safety and Security Analysis](https://www.usenix.org/system/files/conference/atc18/atc18-celik.pdf)
-**Z. Berkay Celik**, Patrick McDaniel and Gang Tan
-Proceedings of the USENIX Annual Technical Conference (USENIX ATC), 2018
-Acceptance Rate: 19% 
+[Soteria: Automated IoT Safety and Security Analysis](https://www.usenix.org/system/files/conference/atc18/atc18-celik.pdf)<br />
+**Z. Berkay Celik**, Patrick McDaniel and Gang Tan<br />
+Proceedings of the USENIX Annual Technical Conference (USENIX ATC), 2018<br />
+Acceptance Rate: 19% <br />
 [Slides](https://www.usenix.org/sites/default/files/conference/protected-files/atc18_slides_celik.pdf)
 
-[Sensitive Information Tracking in Commodity IoT](https://arxiv.org/pdf/1802.08307.pdf)
-**Z. Berkay Celik**,  Leonardo Babun, Amit K. Sikder, Hidayet Aksu, Gang Tan, Patrick McDaniel and Selcuk Uluagac
-Proceedings of the USENIX Security Symposium (USENIX Security), 2018
+[Sensitive Information Tracking in Commodity IoT](https://arxiv.org/pdf/1802.08307.pdf)<br />
+**Z. Berkay Celik**,  Leonardo Babun, Amit K. Sikder, Hidayet Aksu, Gang Tan, Patrick McDaniel and Selcuk Uluagac<br />
+Proceedings of the USENIX Security Symposium (USENIX Security), 2018<br />
 Acceptance Rate: 18%
 
-[Detection under Privileged Information](https://arxiv.org/pdf/1603.09638.pdf)
-**Z. Berkay Celik**,  Patrick McDaniel, Rauf Izmailov, Ryan Sheatsley, Nicolas Papernot, Ryan Sheatsley, Raquel Alvarez and Ananthram Swami
-Proceedings of the Asia Conference on Computer and Communications Security (ASIACCS), 2018
+[Detection under Privileged Information](https://arxiv.org/pdf/1603.09638.pdf)<br />
+**Z. Berkay Celik**,  Patrick McDaniel, Rauf Izmailov, Ryan Sheatsley, Nicolas Papernot, Ryan Sheatsley, Raquel Alvarez and Ananthram Swami<br />
+Proceedings of the Asia Conference on Computer and Communications Security (ASIACCS), 2018<br />
 Acceptance Rate: 20%
 
-[Malware Modeling and Experimentation through Parameterized Behavior](https://beerkay.github.io/papers/Celik17_JDMS.pdf)
-**Z. Berkay Celik**,  Patrick McDaniel, Patrick McDaniel, and Thomas Bowen
+[Malware Modeling and Experimentation through Parameterized Behavior](https://beerkay.github.io/papers/Celik17_JDMS.pdf)<br />
+**Z. Berkay Celik**,  Patrick McDaniel, Patrick McDaniel, and Thomas Bowen<br />
 In Journal of Defense Modeling and Simulation (JDMS), 2018
 
-[Extending Detection with Privileged Information via Generalized Distillation](https://arxiv.org/pdf/1603.09638.pdf)
-**Z. Berkay Celik** and Patrick McDaniel
-IEEE Workshop on Deep Learning and Security (colocated with IEEE S\&P), 2018
+[Extending Detection with Privileged Information via Generalized Distillation](https://arxiv.org/pdf/1603.09638.pdf)<br />
+**Z. Berkay Celik** and Patrick McDaniel<br />
+IEEE Workshop on Deep Learning and Security (colocated with IEEE S\&P), 2018<br />
 Acceptance Rate: 27%
 
-[Patient-Driven Privacy Control through Generalized Distillation](https://arxiv.org/pdf/1611.08648.pdf)
-**Z. Berkay Celik**, David Lopez-Paz, and Patrick McDaniel
+[Patient-Driven Privacy Control through Generalized Distillation](https://arxiv.org/pdf/1611.08648.pdf)<br />
+**Z. Berkay Celik**, David Lopez-Paz, and Patrick McDaniel<br />
 Proceedings of the  IEEE Privacy-aware Computing (PAC), 2017
 
-[Practical Black-Box Attacks against Machine Learning](https://arxiv.org/pdf/1602.02697.pdf)
-Nicolas Papernot, Patrick McDaniel, Ian Goodfellow, Somesh Jha, **Z. Berkay Celik**, and Ananthram Swami
+[Practical Black-Box Attacks against Machine Learning](https://arxiv.org/pdf/1602.02697.pdf)<br />
+Nicolas Papernot, Patrick McDaniel, Ian Goodfellow, Somesh Jha, **Z. Berkay Celik**, and Ananthram Swami<br />
 Proceedings of the  Asia Conference on Computer, and Communications Security (ASIACCS), 2017
 Acceptance Rate: 20\%
 
-[Achieving Secure and Differentially Private Computations in Multiparty Settings](https://arxiv.org/pdf/1707.01871.pdf)
-Abbas Acar, **Z. Berkay Celik**,  Hidayet Aksu, A. Selcuk Uluagac, and Patrick McDaniel
+[Achieving Secure and Differentially Private Computations in Multiparty Settings](https://arxiv.org/pdf/1707.01871.pdf)<br />
+Abbas Acar, **Z. Berkay Celik**,  Hidayet Aksu, A. Selcuk Uluagac, and Patrick McDaniel<br />
 Proceedings of the IEEE Privacy-aware Computing (PAC), 2017
 
-[Machine Learning in Adversarial Settings](https://arxiv.org/pdf/1611.08648.pdf)
-Patrick McDaniel, Nicolas Papernot, and **Z. Berkay Celik**
+[Machine Learning in Adversarial Settings](https://arxiv.org/pdf/1611.08648.pdf)<br />
+Patrick McDaniel, Nicolas Papernot, and **Z. Berkay Celik**<br />
 IEEE Security \& Privacy Magazine (May/June), 2016
 
-[The Limitations of Deep Learning in Adversarial Settings](https://arxiv.org/pdf/1511.07528.pdf)
-Nicolas Papernot, Patrick McDaniel, Somesh Jha,  Matt Fredrikson, **Z. Berkay Celik**, and Ananthram Swami
-Proceedings of the  European Symposium on Security and Privacy (Euro S\&P), 2016
+[The Limitations of Deep Learning in Adversarial Settings](https://arxiv.org/pdf/1511.07528.pdf)<br />
+Nicolas Papernot, Patrick McDaniel, Somesh Jha,  Matt Fredrikson, **Z. Berkay Celik**, and Ananthram Swami<br />
+Proceedings of the  European Symposium on Security and Privacy (Euro S\&P), 2016<br />
 Acceptance Rate: 17.3%
 
 <!---
