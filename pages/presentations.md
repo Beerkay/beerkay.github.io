@@ -3,7 +3,6 @@ layout: default_minimal
 title: Home
 notitle: true
 ---
-
 ### Invited Talks/Presentations
 * April 2018: Recent Research on IoT Privacy and Security, [Penn State University](http://www.cse.psu.edu/~sxz16/) (host: Dr. Senchun Zhu, CSE 597: Wireless and Mobile Security class)
 * March 2018: Automated IoT Privacy and Security Analysis, [Army Research Laboratory](https://www.arl.army.mil/www/default.cfm) (host: Dr. Ed Colbert)
