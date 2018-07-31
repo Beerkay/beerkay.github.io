@@ -15,7 +15,7 @@ Generally, I am interested in developing secure systems through program analysis
 - [Detection under Privileged Information](https://arxiv.org/abs/1603.09638) is accepted to AsiaCCS'18
 - [Extending Detection with Privileged Information via Generalized Distillation](https://beerkay.github.io/) is accepted to IEEE S&P'18 Deep Learning Security (DLS) Workshop (will be available soon)
 - [Mission-oriented Security Model, Incorporating Security Risk, Cost and Payout](https://beerkay.github.io/) is accepted to SECURECOMM'18 (will be available soon)
-- [IoTBench: A micro-benchmark suite to assess the effectiveness of tools designed for IoT apps](https://github.com/IoTBench/IoTBench-test-suite) is now online.
+- [IoTBench: A micro-benchmark suite to assess the effectiveness of tools for IoT apps](https://github.com/IoTBench/IoTBench-test-suite) is now online.
 
 ---
 
@@ -58,7 +58,7 @@ Acceptance Rate: 20\%
 Abbas Acar, **Z. Berkay Celik**,  Hidayet Aksu, A. Selcuk Uluagac, and Patrick McDaniel<br />
 Proceedings of the IEEE Privacy-aware Computing (PAC), 2017
 
-[Machine Learning in Adversarial Settings](https://arxiv.org/pdf/1611.08648.pdf)<br />
+[Machine Learning in Adversarial Settings](http://www.patrickmcdaniel.org/pubs/ieeespmag16.pdf)<br />
 Patrick McDaniel, Nicolas Papernot, and **Z. Berkay Celik**<br />
 IEEE Security \& Privacy Magazine (May/June), 2016
 
