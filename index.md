@@ -52,7 +52,7 @@ Proceedings of the  IEEE Privacy-aware Computing (PAC), 2017
 [Practical Black-Box Attacks against Machine Learning](https://arxiv.org/pdf/1602.02697.pdf)<br />
 Nicolas Papernot, Patrick McDaniel, Ian Goodfellow, Somesh Jha, **Z. Berkay Celik**, and Ananthram Swami<br />
 Proceedings of the  Asia Conference on Computer, and Communications Security (ASIACCS), 2017<br />
-Acceptance Rate: 20\%
+Acceptance Rate: 20%
 
 [Achieving Secure and Differentially Private Computations in Multiparty Settings](https://arxiv.org/pdf/1707.01871.pdf)<br />
 Abbas Acar, **Z. Berkay Celik**,  Hidayet Aksu, A. Selcuk Uluagac, and Patrick McDaniel<br />
