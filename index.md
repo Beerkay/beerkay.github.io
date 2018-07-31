@@ -19,7 +19,7 @@ Generally, I am interested in developing secure systems through program analysis
 
 ---
 
-###Publications (Selected)
+### Publications (Selected)
 - [Soteria: Automated IoT Safety and Security Analysis](https://www.usenix.org/system/files/conference/atc18/atc18-celik.pdf)
 **Z. Berkay Celik**, Patrick McDaniel and Gang Tan
 Proceedings of the USENIX Annual Technical Conference (USENIX ATC), 2018
