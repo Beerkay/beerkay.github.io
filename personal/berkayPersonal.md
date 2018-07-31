@@ -5,7 +5,7 @@ notitle: true
 ---
 ### Personal 
 
-Sailing is my passion, whether it's racing or cruising. I hold professinal sailing licence in my country (equivalent to [ASA 106](https://asa.com/certifications/), Advanced Coastal Cruising). I recently had a chance to sail on Charles River, Raritan Bay, and being at [Sail Boston'17](https://www.sailboston.com/). 
+Sailing is my passion, whether it’s racing or cruising. I hold a professional sailing license in my country (equivalent to ASA 106, Advanced Coastal Cruising). I recently had a chance to sail on Charles River, Raritan Bay, and being at [Sail Boston'17](https://www.sailboston.com/).
 
 <div style="text-align:center" markdown="1">
 ![alt-text-1](/personal/images/sailCambridge.jpg "Charles River-Cambridge") 
