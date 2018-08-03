@@ -37,7 +37,7 @@ Proceedings of the Asia Conference on Computer and Communications Security (ASIA
 Acceptance Rate: 20%
 
 [Malware Modeling and Experimentation through Parameterized Behavior](https://beerkay.github.io/papers/Celik17_JDMS.pdf)<br />
-**Z. Berkay Celik**,  Patrick McDaniel, Patrick McDaniel, and Thomas Bowen<br />
+**Z. Berkay Celik**, Patrick McDaniel, and Thomas Bowen<br />
 In Journal of Defense Modeling and Simulation (JDMS), 2018
 
 [Extending Detection with Privileged Information via Generalized Distillation](https://arxiv.org/pdf/1603.09638.pdf)<br />
