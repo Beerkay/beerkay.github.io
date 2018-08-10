@@ -10,7 +10,7 @@ Generally, I am interested in developing secure systems through program analysis
 
 ### News 
 - I will give a lightning talk on Automated IoT Safety and Security Analysis at [USENIX Security'18](https://www.usenix.org/conference/usenixsecurity18/activities#lightning)
-- [Mission-oriented Security Model, Incorporating Security Risk, Cost and Payout](http://securecomm.org/full-program/) is received best paper award at SECURECOMM'18
+- [Mission-oriented Security Model, Incorporating Security Risk, Cost and Payout](http://securecomm.org/full-program/) is received best paper award at SecureComm'18
 - I will give a lightning talk on Program Analysis of IoT Applications at [USENIX HotSec'18](https://www.usenix.org/conference/hotsec18)
 - [Soteria: Automated IoT Safety and Security Analysis](https://arxiv.org/pdf/1805.08876.pdf) is accepted to USENIX ATC'18
 - [Sensitive Information Tracking in Commodity IoT](https://arxiv.org/pdf/1802.08307.pdf) is accepted to USENIX Security'18
