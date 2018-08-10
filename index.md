@@ -46,10 +46,10 @@ In Journal of Defense Modeling and Simulation (JDMS), 2018
 IEEE Workshop on Deep Learning and Security (colocated with IEEE S\&P), 2018<br />
 Acceptance Rate: 27%
 
-[Mission-oriented Security Model, Incorporating Security Risk, Cost and Payout](http://securecomm.org/full-program/)
+[Mission-oriented Security Model, Incorporating Security Risk, Cost and Payout](http://securecomm.org/full-program/)<br />
 Sayed Saghaian, Tom La Porta, Trent Jaeger, **Z. Berkay Celik**, Patrick McDaniel<br />
 Proceedings of the Security and Privacy in Communication Networks (SecureComm), 2018<br />
-Best Paper Award
+**[Best Paper Award]**
 
 [Patient-Driven Privacy Control through Generalized Distillation](https://arxiv.org/pdf/1611.08648.pdf)<br />
 **Z. Berkay Celik**, David Lopez-Paz, and Patrick McDaniel<br />
