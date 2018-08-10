@@ -9,12 +9,13 @@ I am a research assistant in Department of Electrical Engineering and Computer S
 Generally, I am interested in developing secure systems through program analysis and machine learning. My recent work seeks to improve security, safety and privacy guarantees in commodity IoT. 
 
 ### News 
+- I will give a lightning talk on Automated IoT Safety and Security Analysis at [USENIX Security'18](https://www.usenix.org/conference/usenixsecurity18/activities#lightning)
+- [Mission-oriented Security Model, Incorporating Security Risk, Cost and Payout](http://securecomm.org/full-program/) is received best paper award at SECURECOMM'18
 - I will give a lightning talk on Program Analysis of IoT Applications at [USENIX HotSec'18](https://www.usenix.org/conference/hotsec18)
 - [Soteria: Automated IoT Safety and Security Analysis](https://arxiv.org/pdf/1805.08876.pdf) is accepted to USENIX ATC'18
 - [Sensitive Information Tracking in Commodity IoT](https://arxiv.org/pdf/1802.08307.pdf) is accepted to USENIX Security'18
 - [Detection under Privileged Information](https://arxiv.org/abs/1603.09638) is accepted to AsiaCCS'18
 - [Extending Detection with Privileged Information via Generalized Distillation](https://beerkay.github.io/) is accepted to IEEE S&P'18 Deep Learning Security (DLS) Workshop (will be available soon)
-- [Mission-oriented Security Model, Incorporating Security Risk, Cost and Payout](https://beerkay.github.io/) is accepted to SECURECOMM'18 (will be available soon)
 - [IoTBench: A micro-benchmark suite to assess the effectiveness of tools for IoT apps](https://github.com/IoTBench/IoTBench-test-suite) is now online.
 
 ---
@@ -45,6 +46,11 @@ In Journal of Defense Modeling and Simulation (JDMS), 2018
 IEEE Workshop on Deep Learning and Security (colocated with IEEE S\&P), 2018<br />
 Acceptance Rate: 27%
 
+[Mission-oriented Security Model, Incorporating Security Risk, Cost and Payout](http://securecomm.org/full-program/)
+Sayed Saghaian, Tom La Porta, Trent Jaeger, **Z. Berkay Celik**, Patrick McDaniel<br />
+Proceedings of the Security and Privacy in Communication Networks (SecureComm), 2018<br />
+Best Paper Award
+
 [Patient-Driven Privacy Control through Generalized Distillation](https://arxiv.org/pdf/1611.08648.pdf)<br />
 **Z. Berkay Celik**, David Lopez-Paz, and Patrick McDaniel<br />
 Proceedings of the  IEEE Privacy-aware Computing (PAC), 2017
@@ -64,7 +70,7 @@ IEEE Security \& Privacy Magazine (May/June), 2016
 
 [The Limitations of Deep Learning in Adversarial Settings](https://arxiv.org/pdf/1511.07528.pdf)<br />
 Nicolas Papernot, Patrick McDaniel, Somesh Jha,  Matt Fredrikson, **Z. Berkay Celik**, and Ananthram Swami<br />
-Proceedings of the  European Symposium on Security and Privacy (Euro S\&P), 2016<br />
+Proceedings of the  European Symposium on Security and Privacy (Euro S&P), 2016<br />
 Acceptance Rate: 17.3%
 
 <!---
