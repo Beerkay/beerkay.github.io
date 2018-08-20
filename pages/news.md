@@ -5,8 +5,8 @@ notitle: true
 ---
 
 ### News
-####2018
-- My talk on [Program Analysis of IoT Applications for Security and Privacy] is awarded **the most amusing** talk by at [USENIX Security HoTSec'18] (https://www.usenix.org/conference/hotsec18/summit-program) by attendees.
+#### 2018
+- My talk on [Program Analysis of IoT Applications for Security and Privacy] is awarded **the most amusing** talk by at [USENIX Security HoTSec'18](https://www.usenix.org/conference/hotsec18/summit-program) by attendees.
 - I will give a lightning talk on Automated IoT Safety and Security Analysis at [USENIX Security'18](https://www.usenix.org/conference/usenixsecurity18/activities#lightning)
 - [Mission-oriented Security Model, Incorporating Security Risk, Cost and Payout](http://securecomm.org/full-program/) is received **best paper** award at SecureComm'18
 - I will give a lightning talk on Program Analysis of IoT Applications for Security and Privacy at [USENIX HotSec'18](https://www.usenix.org/conference/hotsec18)

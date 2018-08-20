@@ -8,15 +8,16 @@ I am a research assistant in Department of Electrical Engineering and Computer S
  
 Generally, I am interested in developing secure systems through program analysis and machine learning. My recent work seeks to improve security, safety and privacy guarantees in commodity IoT. 
 
-### News 
-- My talk on Program Analysis of IoT Applications is awarded **the most amusing** talk by at [USENIX Security HoTSec'18] (https://www.usenix.org/conference/hotsec18/summit-program) by attendees.
+### News [See all news](/pages/news)
+- My talk on Program Analysis of IoT Applications is awarded **the most amusing** talk by at [USENIX Security HoTSec'18](https://www.usenix.org/conference/hotsec18/summit-program) by attendees.
 - [Mission-oriented Security Model, Incorporating Security Risk, Cost and Payout](http://securecomm.org/full-program/) is received **best paper** award at SecureComm'18
 - [IoTBench: A micro-benchmark suite to assess the effectiveness of tools for IoT apps](https://github.com/IoTBench/IoTBench-test-suite) is now online.
 - [Soteria: Automated IoT Safety and Security Analysis](https://arxiv.org/pdf/1805.08876.pdf) is accepted to USENIX ATC'18
 - [Sensitive Information Tracking in Commodity IoT](https://arxiv.org/pdf/1802.08307.pdf) is accepted to USENIX Security'18
 - [Detection under Privileged Information](https://arxiv.org/abs/1603.09638) is accepted to AsiaCCS'18
 - [Extending Detection with Privileged Information via Generalized Distillation](https://beerkay.github.io/) is accepted to IEEE S&P'18 Deep Learning Security (DLS) Workshop (will be available soon)
-[See all news](/pages/news)
+
+
 
 ---
 
