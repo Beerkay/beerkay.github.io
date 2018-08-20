@@ -30,7 +30,8 @@
   Address                  = {Baltimore, MD},
   Month                    = {August},
 
-  Owner                    = {berkay}
+  Owner                    = {berkay},
+  Url                      = {https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-celik.pdf}
 }
 
 @InProceedings{celik2016mappingOmodel,
@@ -99,7 +100,7 @@
 
   Owner                    = {berkay},
   Timestamp                = {2018.04.19},
-  Url                      = {https://arxiv.org/pdf/1805.08876.pdf}
+  Url                      = {https://www.usenix.org/system/files/conference/atc18/atc18-celik.pdf}
 }
 
 @InProceedings{berkay2017PrivilegedCultivationIWSPA,
@@ -184,6 +185,8 @@
   Title                    = {Mission-oriented Security Model, Incorporating Security Risk, Cost and Payout},
   Author                   = {Sayed Saghaian and Tom La Porta and Trent Jaeger and Z. Berkay Celik and Patrick McDaniel},
   Booktitle                = {International Conference on Security and Privacy in Communication Systems (SecureComm)},
-  Year                     = {2018}
+  Year                     = {2018},
+
+  Comment                  = {Best Paper Award}
 }
 
