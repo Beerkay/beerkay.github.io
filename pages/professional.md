@@ -5,7 +5,7 @@ notitle: true
 ---
 ### Invited Talks/Presentations
 * August 2018: Automated IoT Safety and Security Analysis, [USENIX Security Lightining Talks](https://www.usenix.org/conference/usenixsecurity18/activities#lightning) 
-* August 2018: Program Analysis of IoT Applications for Security and Privacy at [USENIX Security HotSec'18](https://www.usenix.org/conference/hotsec18)(**The most amusing talk award**)
+* August 2018: Program Analysis of IoT Applications for Security and Privacy at [USENIX Security HotSec'18](https://www.usenix.org/conference/hotsec18) (**The most amusing talk award**)
 * April 2018: Recent Research on IoT Privacy and Security, [Penn State University](http://www.cse.psu.edu/~sxz16/) (host: Dr. Senchun Zhu, CSE 597: Wireless and Mobile Security class)
 * March 2018: Automated IoT Privacy and Security Analysis, [Army Research Laboratory](https://www.arl.army.mil/www/default.cfm) (host: Dr. Ed Colbert)
 * September 2017: SainT: Sensitive Information Tracking for IoT Applications, [Great Lakes Security Day 2017, RIT](https://www.rit.edu/cybersecurity/great-lakes-security-day-2017) (host: [Dr. Matthew Wright](https://sites.google.com/site/matthewkwright/))
