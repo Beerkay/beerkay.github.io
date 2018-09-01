@@ -18,6 +18,7 @@ notitle: true
 * August 2015: Detection under Privileged Information, [Vencore Labs](https://www.vencorelabs.com/)(Intern presentation)
 
 ### Professional Activities
+* 2018, Program Committee Member for ACM CCS Poster Session
 * 2018, Session Chair for SecureComm (Session on Web Security)
 * 2018, Program Committee Member for IEEE Symposium on Privacy-Aware Computing (IEEE PAC) 
 * 2017, Program Committee Member for CCS Workshop on Internet-of-Things Security and Privacy (IoT S&P)
