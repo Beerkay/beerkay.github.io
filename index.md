@@ -26,7 +26,7 @@ Generally, I am interested in developing secure systems through program analysis
 [Soteria: Automated IoT Safety and Security Analysis](https://www.usenix.org/system/files/conference/atc18/atc18-celik.pdf)<br />
 **Z. Berkay Celik**, Patrick McDaniel and Gang Tan<br />
 Proceedings of the USENIX Annual Technical Conference (USENIX ATC), 2018<br />
-Acceptance Rate: 19% <br /> [[Slides]](https://www.usenix.org/sites/default/files/conference/protected-files/atc18_slides_celik.pdf) [[Slides for Usenix HotSec'18]](https://www.usenix.org/sites/default/files/conference/protected-files/hotsec18_slides_celik.pdf)
+Acceptance Rate: 19% [[Slides]](https://www.usenix.org/sites/default/files/conference/protected-files/atc18_slides_celik.pdf) [[Slides for Usenix HotSec'18]](https://www.usenix.org/sites/default/files/conference/protected-files/hotsec18_slides_celik.pdf)
 
 [Sensitive Information Tracking in Commodity IoT](https://arxiv.org/pdf/1802.08307.pdf)<br />
 **Z. Berkay Celik**,  Leonardo Babun, Amit K. Sikder, Hidayet Aksu, Gang Tan, Patrick McDaniel and Selcuk Uluagac<br />
