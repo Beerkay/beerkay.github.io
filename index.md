@@ -4,13 +4,13 @@ title: Home
 notitle: true
 ---
 ### About Me
-I am a research assistant in Department of Electrical Engineering and Computer Science at the Pennsylvania State University working with [Prof. Patrick McDaniel](http://www.patrickmcdaniel.org/) and a member of the [Systems and Internet Infrastructure Security Laboratory (SIIS)](http://siis.cse.psu.edu/). During my Msc. studies, I worked with [Prof. George Kesidis](http://www.cse.psu.edu/~gik2/) and [Prof. David J. Miller](http://www.ee.psu.edu/directory/FacultyInfo/Miller/MillerProfilePage.aspx). My research was on machine learning systems and network security. Previously I have worked at [VMware](https://www.vmware.com/) evaluating the security of VMware source code, [Vencore Labs](https://www.perspectalabs.com/) building machine learning systems under privileged information, and [Istanbul Technical University](http://www.itu.edu.tr/en/) doing research on feature engineering for malware detection.
+I am a research assistant in Department of Electrical Engineering and Computer Science at the Pennsylvania State University working with [Prof. Patrick McDaniel](http://www.patrickmcdaniel.org/) and lead graduate student of the [Systems and Internet Infrastructure Security Laboratory (SIIS)](http://siis.cse.psu.edu/). During my Msc. studies, I worked with [Prof. George Kesidis](http://www.cse.psu.edu/~gik2/) and [Prof. David J. Miller](http://www.ee.psu.edu/directory/FacultyInfo/Miller/MillerProfilePage.aspx). My research was on machine learning systems and network security. Previously I have worked at [VMware](https://www.vmware.com/) evaluating the security of VMware source code, [Vencore Labs](https://www.perspectalabs.com/) building machine learning systems under privileged information, and [Istanbul Technical University](http://www.itu.edu.tr/en/) doing research on feature engineering for malware detection.
  
 Generally, I am interested in developing secure systems through program analysis and machine learning. My recent work seeks to improve security, safety and privacy guarantees in commodity IoT. 
 
 ### News
 - My colleague, Xiaolei Wang, and I created [a list of IoT papers for security and privacy](https://github.com/Beerkay/IoTResearch/blob/master/README.md) that we have recently read and found interesting. 
-- My talk on Program Analysis of IoT Applications for Security and Privacy is awarded **the most amusing** talk at [USENIX Security HoTSec'18](https://www.usenix.org/conference/hotsec18/summit-program)
+- My talk on [Program Analysis of IoT Applications for Security and Privacy](https://www.usenix.org/sites/default/files/conference/protected-files/hotsec18_slides_celik.pdf) is awarded **the most amusing** talk at [USENIX Security HoTSec'18](https://www.usenix.org/conference/hotsec18/summit-program)
 - [Mission-oriented Security Model, Incorporating Security Risk, Cost and Payout](http://securecomm.org/full-program/) is received **best paper** award at SecureComm'18
 - [IoTBench: A micro-benchmark suite to assess the effectiveness of tools for IoT apps](https://github.com/IoTBench/IoTBench-test-suite) is now online.
 - [Soteria: Automated IoT Safety and Security Analysis](https://arxiv.org/pdf/1805.08876.pdf) is accepted to USENIX ATC'18
@@ -27,12 +27,13 @@ Generally, I am interested in developing secure systems through program analysis
 **Z. Berkay Celik**, Patrick McDaniel and Gang Tan<br />
 Proceedings of the USENIX Annual Technical Conference (USENIX ATC), 2018<br />
 Acceptance Rate: 19% <br />
-[[Slides]](https://www.usenix.org/sites/default/files/conference/protected-files/atc18_slides_celik.pdf)
+[[Slides]](https://www.usenix.org/sites/default/files/conference/protected-files/atc18_slides_celik.pdf) [[Slides for Usenix HotSec'18]](https://www.usenix.org/sites/default/files/conference/protected-files/hotsec18_slides_celik.pdf)
 
 [Sensitive Information Tracking in Commodity IoT](https://arxiv.org/pdf/1802.08307.pdf)<br />
 **Z. Berkay Celik**,  Leonardo Babun, Amit K. Sikder, Hidayet Aksu, Gang Tan, Patrick McDaniel and Selcuk Uluagac<br />
 Proceedings of the USENIX Security Symposium (USENIX Security), 2018<br />
 Acceptance Rate: 18%
+[[Slides]](https://www.usenix.org/sites/default/files/conference/protected-files/security18_slides_celik.pdf)
 
 [Detection under Privileged Information](https://arxiv.org/pdf/1603.09638.pdf)<br />
 **Z. Berkay Celik**,  Patrick McDaniel, Rauf Izmailov, Ryan Sheatsley, Nicolas Papernot, Ryan Sheatsley, Raquel Alvarez and Ananthram Swami<br />
