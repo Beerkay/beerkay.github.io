@@ -33,7 +33,7 @@ Acceptance Rate: 19% <br />
 **Z. Berkay Celik**,  Leonardo Babun, Amit K. Sikder, Hidayet Aksu, Gang Tan, Patrick McDaniel and Selcuk Uluagac<br />
 Proceedings of the USENIX Security Symposium (USENIX Security), 2018<br />
 Acceptance Rate: 18% <br />
-[[Slides]](https://www.usenix.org/sites/default/files/conference/protected-files/security18_slides_celik.pdf)
+[[Slides]](https://www.usenix.org/sites/default/files/conference/protected-files/security18_slides_celik.pdf) [[Talk video]](https://www.youtube.com/watch?v=ggsoDoOBdTo)
 
 [Detection under Privileged Information](https://arxiv.org/pdf/1603.09638.pdf)<br />
 **Z. Berkay Celik**,  Patrick McDaniel, Rauf Izmailov, Ryan Sheatsley, Nicolas Papernot, Ryan Sheatsley, Raquel Alvarez and Ananthram Swami<br />
