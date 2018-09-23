@@ -4,20 +4,20 @@ title: Home
 notitle: true
 ---
 ### About Me
-I am a research assistant in Department of Electrical Engineering and Computer Science at the Pennsylvania State University working with [Prof. Patrick McDaniel](http://www.patrickmcdaniel.org/) and lead graduate student of the [Systems and Internet Infrastructure Security Laboratory (SIIS)](http://siis.cse.psu.edu/). During my Msc. studies, I worked with [Prof. George Kesidis](http://www.cse.psu.edu/~gik2/) and [Prof. David J. Miller](http://www.ee.psu.edu/directory/FacultyInfo/Miller/MillerProfilePage.aspx). My research was on machine learning systems and network security. Previously I have worked at [VMware](https://www.vmware.com/) evaluating the security of VMware source code, [Vencore Labs](https://www.perspectalabs.com/) building machine learning systems under privileged information, and [Istanbul Technical University](http://www.itu.edu.tr/en/) doing research on feature engineering for malware detection.
+I am a research assistant in Department of Electrical Engineering and Computer Science at the Pennsylvania State University working with [Prof. Patrick McDaniel](http://www.patrickmcdaniel.org/) and lead graduate student of the [Systems and Internet Infrastructure Security Laboratory (SIIS)](http://siis.cse.psu.edu/). During my Msc. studies, I worked with [Prof. George Kesidis](http://www.cse.psu.edu/~gik2/) and [Prof. David J. Miller](http://www.ee.psu.edu/directory/FacultyInfo/Miller/MillerProfilePage.aspx). My research was on machine learning systems and network security. Previously I worked at [VMware](https://www.vmware.com/) evaluating the security of VMware source code, [Vencore Labs](https://www.perspectalabs.com/) building machine learning systems under privileged information, and [Istanbul Technical University](http://www.itu.edu.tr/en/) doing research on feature engineering for malware detection.
  
 Generally, I am interested in developing secure systems through program analysis and machine learning. My recent work seeks to improve security, safety and privacy guarantees in commodity IoT. 
 
 ### News
-- Our paper on [Program Analysis of Commodity IoT application for Security and Privacy: Oppourtunities and Challenges](https://arxiv.org/pdf/1809.06962.pdf) is now on arXiv. 
-- My colleague, Xiaolei Wang, and I created [a list of IoT papers for security and privacy](https://github.com/Beerkay/IoTResearch/blob/master/README.md) that we have recently read and found interesting. 
-- My talk on [Program Analysis of IoT Applications for Security and Privacy](https://www.usenix.org/sites/default/files/conference/protected-files/hotsec18_slides_celik.pdf) is awarded **the most amusing** talk at [USENIX Security HoTSec'18](https://www.usenix.org/conference/hotsec18/summit-program)
-- [Mission-oriented Security Model, Incorporating Security Risk, Cost and Payout](http://securecomm.org/full-program/) is received **best paper** award at SecureComm'18
+- Our paper on [Program Analysis of Commodity IoT application for Security and Privacy: Oppourtunities and Challenges](https://arxiv.org/pdf/1809.06962.pdf) is now online at arXiv. 
+- My colleague, Xiaolei Wang, and I created [a collection of papers](https://github.com/Beerkay/IoTResearch/blob/master/README.md) we recommend reading for those interested in studying IoT security and privacy.
+- My talk on [Program Analysis of IoT Applications for Security and Privacy](https://www.usenix.org/sites/default/files/conference/protected-files/hotsec18_slides_celik.pdf) is awarded **the most amusing** talk at [USENIX Security HoTSec'18](https://www.usenix.org/conference/hotsec18/summit-program).
+- [Mission-oriented Security Model, Incorporating Security Risk, Cost and Payout](http://securecomm.org/full-program/) is received **best paper** award at SecureComm'18.
 - [IoTBench: A micro-benchmark suite to assess the effectiveness of tools for IoT apps](https://github.com/IoTBench/IoTBench-test-suite) is now online.
-- [Soteria: Automated IoT Safety and Security Analysis](https://www.usenix.org/system/files/conference/atc18/atc18-celik.pdf) is accepted to USENIX ATC'18
-- [Sensitive Information Tracking in Commodity IoT](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-celik.pdf) is accepted to USENIX Security'18
-- [Detection under Privileged Information](https://arxiv.org/abs/1603.09638) is accepted to AsiaCCS'18
-- [Extending Detection with Privileged Information via Generalized Distillation](https://beerkay.github.io/) is accepted to IEEE S&P'18 Deep Learning Security (DLS) Workshop (will be available soon)
+- [Soteria: Automated IoT Safety and Security Analysis](https://www.usenix.org/system/files/conference/atc18/atc18-celik.pdf) is accepted to USENIX ATC'18.
+- [Sensitive Information Tracking in Commodity IoT](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-celik.pdf) is accepted to USENIX Security'18.
+- [Detection under Privileged Information](https://arxiv.org/abs/1603.09638) is accepted to AsiaCCS'18.
+- [Extending Detection with Privileged Information via Generalized Distillation](https://beerkay.github.io/) is accepted to IEEE S&P'18 Deep Learning Security (DLS) Workshop (will be available soon).
 
 [See all news](/pages/news)
 
