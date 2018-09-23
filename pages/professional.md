@@ -36,16 +36,17 @@ notitle: true
 
 
 ### Professional Activities
-* 2018, NIPS Workshop on Security in Machine Learning
+* 2018, Program Committee Member for NIPS Workshop on Security in Machine Learning
 * 2018, Program Committee Member for ACM CCS Poster/Demo Session
 * 2018, Session Chair for SecureComm (Session on Web Security)
 * 2018, Program Committee Member for IEEE Symposium on Privacy-Aware Computing (IEEE PAC) 
 * 2017, Program Committee Member for CCS Workshop on Internet-of-Things Security and Privacy (IoT S&P)
 * 2017, Publicity Chair for IEEE Conference on Communications and Network Security (CNS) Workshop on Cyber-Physical Systems Security (CPS-Sec)
-* 2016, Technical Program Committee for MILCOM'16 (Track 3: Cyber Security and Trusted Computing)
+* 2016, Technical Program Committee Member for MILCOM'16 (Track 3: Cyber Security and Trusted Computing)
 * Reviewer: GameSec(2018), CCS (2018), NIPS (2018), USENIX Security (2018), Neural Processing Letters (2017), ACM Computing Surveys (2017), IEEE S&P Magazine (2016), NDSS (2016), Journal of Network and Computer Applications (JNCA) (2016), Computers-Open Access Journal (2016)
 
 ### Awards
+* August 2018: The most amusing** talk award at [USENIX Security HoTSec'18](https://www.usenix.org/conference/hotsec18/summit-program)
 * August 2018: Best Paper Award (14th EAI International Conference on Security and Privacy in Communication Networks (SecureComm 2018))
 * May 2018: Student Travel Award (ACM ASIA Conference on Information, Computer and Communications Security (ACM ASIACCS 2018)) 
 * March 2018: Best demo award (Sensitive Information Tracking in Commodity IoT, [Florida Institute for Cybersecurity Research (FICS) Research Annual Conference on Cybersecurity](http://fics.institute.ufl.edu/poster-demo-winners-at-the-fics-annual-conference-on-cybersecurity/))
