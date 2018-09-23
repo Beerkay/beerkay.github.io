@@ -6,6 +6,7 @@ notitle: true
 
 ### News
 ##### 2018
+- Our paper on [Program Analysis of Commodity IoT application for Security and Privacy: Oppourtunities and Challenges](https://arxiv.org/pdf/1809.06962.pdf) is now on arXiv. 
 - My colleague, Xiaolei Wang, and I created [a list of IoT papers for security and privacy](https://github.com/Beerkay/IoTResearch/blob/master/README.md) that we have recently read and found interesting. 
 - My talk on Program Analysis of IoT Applications for Security and Privacy is awarded **the most amusing** talk at [USENIX Security HoTSec'18](https://www.usenix.org/conference/hotsec18/summit-program)
 - I will give a lightning talk on Automated IoT Safety and Security Analysis at [USENIX Security'18](https://www.usenix.org/conference/usenixsecurity18/activities#lightning).
