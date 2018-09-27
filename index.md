@@ -9,11 +9,12 @@ I am a research assistant in Department of Electrical Engineering and Computer S
 Generally, I am interested in developing secure systems through program analysis and machine learning. My recent work seeks to improve security, safety and privacy guarantees in commodity IoT. 
 
 ### News
-- Our paper on [Program Analysis of Commodity IoT application for Security and Privacy: Oppourtunities and Challenges](https://arxiv.org/pdf/1809.06962.pdf) is now online at arXiv. 
+- Our paper on [Program Analysis of Commodity IoT application for Security and Privacy: Oppourtunities and Challenges](https://arxiv.org/pdf/1809.06962.pdf) is now available at arXiv. 
+- I'm serving on the program committee of [NIPS Workshop on Security in Machine Learning](https://secml2018.github.io/).
 - My colleague, Xiaolei Wang, and I created [a collection of papers](https://github.com/Beerkay/IoTResearch/blob/master/README.md) we recommend reading for those interested in studying IoT security and privacy.
+- [IoTBench: A micro-benchmark suite to assess the effectiveness of tools for IoT apps](https://github.com/IoTBench/IoTBench-test-suite) is now online.
 - My talk on [Program Analysis of IoT Applications for Security and Privacy](https://www.usenix.org/sites/default/files/conference/protected-files/hotsec18_slides_celik.pdf) is awarded **the most amusing** talk at [USENIX Security HoTSec'18](https://www.usenix.org/conference/hotsec18/summit-program).
 - [Mission-oriented Security Model, Incorporating Security Risk, Cost and Payout](http://securecomm.org/full-program/) is received **best paper** award at SecureComm'18.
-- [IoTBench: A micro-benchmark suite to assess the effectiveness of tools for IoT apps](https://github.com/IoTBench/IoTBench-test-suite) is now online.
 - [Soteria: Automated IoT Safety and Security Analysis](https://www.usenix.org/system/files/conference/atc18/atc18-celik.pdf) is accepted to USENIX ATC'18.
 - [Sensitive Information Tracking in Commodity IoT](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-celik.pdf) is accepted to USENIX Security'18.
 - [Detection under Privileged Information](https://arxiv.org/abs/1603.09638) is accepted to AsiaCCS'18.
