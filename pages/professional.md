@@ -7,7 +7,7 @@ notitle: true
 ### Invited Talks/Presentations
 
 ##### Automated IoT Security and Privacy Analysis
-* September 2018: Automated IoT Security and Privacy Analysis, Northeastern University (host: [Engin Kirda](http://www.ccs.neu.edu/home/ek/))
+* September 2018: Automated IoT Security and Privacy Analysis, Northeastern University (host: [Dr. Engin Kirda](http://www.ccs.neu.edu/home/ek/))
 * August 2018: Automated IoT Safety and Security Analysis, [USENIX Security Lightning Talks](https://www.usenix.org/conference/usenixsecurity18/activities#lightning) 
 * August 2018: Program Analysis of IoT Applications for Security and Privacy at [USENIX Security HotSec'18](https://www.usenix.org/conference/hotsec18) (**The most amusing talk award**)
 * April 2018: Recent Research on IoT Privacy and Security, Penn State University (host: [Dr. Senchun Zhu](http://www.cse.psu.edu/~sxz16/), CSE 597: Wireless and Mobile Security class)
