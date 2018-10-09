@@ -57,7 +57,7 @@
 
 @InProceedings{celik2017PatientPrivacyPAC,
   Title                    = {Patient-Driven Privacy Control through Generalized Distillation},
-  Author                   = {Celik, Z. Berkay and Lopez-Paz, David, and McDaniel, Patrick and Izmailov, Rauf},
+  Author                   = {Celik, Z. Berkay and Lopez-Paz, David, and McDaniel, Patrick},
   Booktitle                = {IEEE Symposium on Privacy-Aware Computing (PAC)},
   Year                     = {2017},
 
