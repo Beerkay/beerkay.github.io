@@ -9,6 +9,6 @@ notitle: true
 
 ### Teaching Experience
 * [CMPSC 311](http://www.patrickmcdaniel.org/teach.html): System Programming (with Prof. Patrick McDaniel) (Fall 2016)
-* [CMPSC 443](http://www.patrickmcdaniel.org/teach.html): Introduction to Computer Security (with Prof. Patrick McDaniel) (Spring 2017)
+* [CMPSC 443](http://www.patrickmcdaniel.org/teach.html): Introduction to Computer Security (with Prof. Patrick McDaniel) (Spring 2017, Fall 2018)
 * CSE 597: Security and Privacy of Machine Learning (with Prof. Patrick McDaniel and Nicolas Papernot) (Fall 2016)
 * CSE 597: Advanced Topics in the Security and Privacy of Machine Learning (with Prof. Patrick McDaniel and Nicolas Papernot) (Spring 2017)

@@ -7,11 +7,12 @@ notitle: true
 ### Invited Talks/Presentations
 
 ##### Automated IoT Security and Privacy Analysis
+* October 2018: Automated IoT Security and Privacy Analysis, Worcester Polytechnic Institute (host: [Dr. Berk Sunar](https://www.wpi.edu/people/faculty/sunar))
 * September 2018: Automated IoT Security and Privacy Analysis, Northeastern University (host: [Dr. Engin Kirda](http://www.ccs.neu.edu/home/ek/))
 * August 2018: Automated IoT Safety and Security Analysis, [USENIX Security Lightning Talks](https://www.usenix.org/conference/usenixsecurity18/activities#lightning) 
 * August 2018: Program Analysis of IoT Applications for Security and Privacy at [USENIX Security HotSec'18](https://www.usenix.org/conference/hotsec18) (**The most amusing talk award**)
-* April 2018: Recent Research on IoT Privacy and Security, Penn State University (host: [Dr. Senchun Zhu](http://www.cse.psu.edu/~sxz16/), CSE 597: Wireless and Mobile Security class)
-* April 2018: Recent Research on IoT Privacy and Security, Penn State University (CMPSC 443: Computer Security class)
+* April 2018: Recent Research on IoT Security and Privacy, Penn State University (host: [Dr. Senchun Zhu](http://www.cse.psu.edu/~sxz16/), CSE 597: Wireless and Mobile Security class)
+* April 2018: Recent Research on IoT Security and Privacy, Penn State University (CMPSC 443: Computer Security class)
 * March 2018: Automated IoT Privacy and Security Analysis, [Army Research Laboratory](https://www.arl.army.mil/www/default.cfm) (host: Dr. Ed Colbert)
 * September 2017: Sensitive Information Tracking in Commodity IoT, [Great Lakes Security Day 2017, RIT](https://www.rit.edu/cybersecurity/great-lakes-security-day-2017) (host: [Dr. Matthew Wright](https://sites.google.com/site/matthewkwright/))
 * June 2017: Automated IoT Safety and Security Analysis, University of California, Davis 
@@ -21,7 +22,7 @@ notitle: true
 * December 2016: Detection under Privileged Information, [Florida International University](https://csl.fiu.edu/) (host: [Dr. Selcuk Uluagac](http://web.eng.fiu.edu/selcuk/)
 * August 2015: Detection under Privileged Information for Security, Penn State University, [Institute for Networking and Security Research](http://insr.psu.edu/)
 * May 2016: Detection under Privileged Information for Security, Indiana University 
-* August 2015: Detection under Privileged Information, [Vencore Labs](https://www.vencorelabs.com/)(Intern presentation)
+* August 2015: Detection under Privileged Information, [Vencore Labs](https://www.vencorelabs.com/) (Intern presentation)
 
 ##### Security and Privacy of Machine Learning
 * July 2017: Convolutional Neural Networks for Secure Code, [VMware Cambridge Office](https://www.vmware.com/) (VMware CTO Office Presentation) 
@@ -52,7 +53,3 @@ notitle: true
 * March 2018: Best demo award (Sensitive Information Tracking in Commodity IoT, [Florida Institute for Cybersecurity Research (FICS) Research Annual Conference on Cybersecurity](http://fics.institute.ufl.edu/poster-demo-winners-at-the-fics-annual-conference-on-cybersecurity/))
 * July 2015: Student Travel Award (Military Communications Conference (MILCOM))
 * August 2015 and 2017: PSU Summer Tuition Assistance Program (STAP) Fellowship
-
-<!--  
-* 2018, Program Committee Member for Nemesis (Workshop on Recent Advances in Adversarial Machine Learning, co-located with ECML/PKDD 2018)
--->
