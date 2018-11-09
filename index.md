@@ -9,6 +9,7 @@ I am a research assistant in Department of Electrical Engineering and Computer S
 Generally, I am interested in developing secure systems through program analysis and machine learning. My recent work seeks to improve security, safety and privacy guarantees in commodity IoT. 
 
 ### News
+- Our paper [IoTGuard: Dynamic Enforcement of Security and Safety Policy in Commodity IoT](https://beerkay.github.io) is accepted to NDSS'19 (will be available soon.)
 - Our paper on [Program Analysis of Commodity IoT application for Security and Privacy: Oppourtunities and Challenges](https://arxiv.org/pdf/1809.06962.pdf) is now available at arXiv. 
 - I'm serving on the program committee of [NIPS Workshop on Security in Machine Learning](https://secml2018.github.io/).
 - My colleague, Xiaolei Wang, and I created [a collection of papers](https://github.com/Beerkay/IoTResearch/blob/master/README.md) we recommend reading for those interested in studying IoT security and privacy.
@@ -25,6 +26,13 @@ Generally, I am interested in developing secure systems through program analysis
 ---
 
 ### Publications (Selected)
+
+[IoTGuard: Dynamic Enforcement of Security and Safety Policy in Commodity IoT](https://beerkay.github.io)<br />
+**Z. Berkay Celik**, Gang Tan and Patrick McDaniel<br />
+Proceedings of the Network and Distributed System Security Symposium (NDSS), 2019<br />
+Acceptance Rate: 17% <br />
+[will be available soon]
+
 [Soteria: Automated IoT Safety and Security Analysis](https://www.usenix.org/system/files/conference/atc18/atc18-celik.pdf)<br />
 **Z. Berkay Celik**, Patrick McDaniel and Gang Tan<br />
 Proceedings of the USENIX Annual Technical Conference (USENIX ATC), 2018<br />

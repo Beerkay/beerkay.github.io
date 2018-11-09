@@ -6,6 +6,7 @@ notitle: true
 
 ### News
 ##### 2018
+- Our paper [IoTGuard: Dynamic Enforcement of Security and Safety Policy in Commodity IoT](https://beerkay.github.io) is accepted to NDSS'19 (will be available soon.)
 - Our paper on [Program Analysis of Commodity IoT application for Security and Privacy: Oppourtunities and Challenges](https://arxiv.org/pdf/1809.06962.pdf) is now on arXiv. 
 - I'm serving on the program committee of [NIPS Workshop on Security in Machine Learning](https://secml2018.github.io/)
 - My colleague, Xiaolei Wang, and I created [a collection of papers](https://github.com/Beerkay/IoTResearch/blob/master/README.md) we recommend reading for those interested in studying IoT security and privacy.

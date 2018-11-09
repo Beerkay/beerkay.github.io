@@ -133,6 +133,20 @@
   Url                      = {https://beerkay.github.io/papers/Celik11_CSET.pdf}
 }
 
+@InProceedings{Berkay2019IoTGuardNDSS,
+  Title                    = {{IoTGuard}: Dynamic Enforcement of Security and Safety Policy in Commodity {IoT}},
+  Author                   = {Z. Berkay Celik and Gang Tan and Patrick McDaniel},
+  Booktitle                = {Network and Distributed System Security Symposium (NDSS)},
+  Year                     = {2019},
+
+  Address                  = {San Dieo, CA},
+  Month                    = {February},
+
+  Comment                  = {acceptance rate=17%},
+  Owner                    = {berkay},
+  Timestamp                = {2018.10.04}
+}
+
 @InProceedings{celik2015malwareMILCOM,
   Title                    = {Malware Traffic Detection using Tamper Resistant Features},
   Author                   = {Celik, Z. Berkay and Walls, Robert J and McDaniel, Patrick and Swami, Ananthram},

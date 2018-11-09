@@ -37,6 +37,7 @@ notitle: true
 
 
 ### Professional Activities
+* 2019, Program Committee Member for AsiaCCS
 * 2018, Program Committee Member for NIPS Workshop on Security in Machine Learning
 * 2018, Program Committee Member for ACM CCS Poster/Demo Session
 * 2018, Session Chair for SecureComm (Session on Web Security)
