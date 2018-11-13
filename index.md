@@ -10,7 +10,7 @@ Generally, I am interested in developing secure systems through program analysis
 
 ### News
 - Our paper [IoTGuard: Dynamic Enforcement of Security and Safety Policy in Commodity IoT](https://beerkay.github.io) is accepted to NDSS'19 (will be available soon.)
-- Our paper on [Program Analysis of Commodity IoT application for Security and Privacy: Oppourtunities and Challenges](https://arxiv.org/pdf/1809.06962.pdf) is now available at arXiv. 
+- Our paper on [Program Analysis of Commodity IoT application for Security and Privacy: Opportunities and Challenges](https://arxiv.org/pdf/1809.06962.pdf) is now available at arXiv. 
 - I'm serving on the program committee of [NIPS Workshop on Security in Machine Learning](https://secml2018.github.io/).
 - My colleague, Xiaolei Wang, and I created [a collection of papers](https://github.com/Beerkay/IoTResearch/blob/master/README.md) we recommend reading for those interested in studying IoT security and privacy.
 - [IoTBench: A micro-benchmark suite to assess the effectiveness of tools for IoT apps](https://github.com/IoTBench/IoTBench-test-suite) is now online.
@@ -40,13 +40,13 @@ Acceptance Rate: 19% <br />
 [[Slides]](https://www.usenix.org/sites/default/files/conference/protected-files/atc18_slides_celik.pdf) [[Slides for Usenix HotSec'18]](https://www.usenix.org/sites/default/files/conference/protected-files/hotsec18_slides_celik.pdf)
 
 [Sensitive Information Tracking in Commodity IoT](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-celik.pdf)<br />
-**Z. Berkay Celik**,  Leonardo Babun, Amit K. Sikder, Hidayet Aksu, Gang Tan, Patrick McDaniel and Selcuk Uluagac<br />
+**Z. Berkay Celik**, Leonardo Babun, Amit K. Sikder, Hidayet Aksu, Gang Tan, Patrick McDaniel and Selcuk Uluagac<br />
 Proceedings of the USENIX Security Symposium (USENIX Security), 2018<br />
 Acceptance Rate: 18% <br />
 [[Slides]](https://www.usenix.org/sites/default/files/conference/protected-files/security18_slides_celik.pdf) [[Talk video]](https://www.youtube.com/watch?v=ggsoDoOBdTo)
 
 [Detection under Privileged Information](https://arxiv.org/pdf/1603.09638.pdf)<br />
-**Z. Berkay Celik**,  Patrick McDaniel, Rauf Izmailov, Ryan Sheatsley, Nicolas Papernot, Ryan Sheatsley, Raquel Alvarez and Ananthram Swami<br />
+**Z. Berkay Celik**,  Patrick McDaniel, Rauf Izmailov, Nicolas Papernot, Ryan Sheatsley, Raquel Alvarez and Ananthram Swami<br />
 Proceedings of the Asia Conference on Computer and Communications Security (ASIACCS), 2018<br />
 Acceptance Rate: 20%
 
