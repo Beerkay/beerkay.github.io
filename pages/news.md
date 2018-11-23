@@ -7,9 +7,11 @@ notitle: true
 ### News
 ##### 2018
 - Our paper [IoTGuard: Dynamic Enforcement of Security and Safety Policy in Commodity IoT](https://beerkay.github.io) is accepted to NDSS'19 (will be available soon.)
+- I'm serving on the program committee of [AsiaCCS](https://asiaccs2019.blogs.auckland.ac.nz/committee/program-committee/).
 - Our paper on [Program Analysis of Commodity IoT application for Security and Privacy: Oppourtunities and Challenges](https://arxiv.org/pdf/1809.06962.pdf) is now on arXiv. 
 - I'm serving on the program committee of [NIPS Workshop on Security in Machine Learning](https://secml2018.github.io/)
 - My colleague, Xiaolei Wang, and I created [a collection of papers](https://github.com/Beerkay/IoTResearch/blob/master/README.md) we recommend reading for those interested in studying IoT security and privacy.
+- I gave a talk on IoT Security and Privacy at [Worcester Polytechnic University](https://www.wpi.edu/)
 - My talk on Program Analysis of IoT Applications for Security and Privacy is awarded **the most amusing** talk at [USENIX Security HoTSec'18](https://www.usenix.org/conference/hotsec18/summit-program).
 - I will give a lightning talk on Automated IoT Safety and Security Analysis at [USENIX Security'18](https://www.usenix.org/conference/usenixsecurity18/activities#lightning).
 - [Mission-oriented Security Model, Incorporating Security Risk, Cost and Payout](http://securecomm.org/full-program/) is received **best paper** award at SecureComm'18.
