@@ -11,15 +11,15 @@
   Url                      = {https://arxiv.org/pdf/1707.01871.pdf}
 }
 
-@Proceedings{BerkayCurieCODASPY,
+@InProceedings{BerkayCurieCODASPY,
   Title                    = {Curie: Policy-based Secure Data Exchange},
+  Author                   = {Z. Berkay Celik and Abbas Acar Hidayet Aksu and Abbas Acar and Ryan Sheatsley and A. Selcuk Uluagac and Patrick McDaniel},
+  Booktitle                = {ACM Conference on Data and Applications Security (CODASPY)},
   Year                     = {2019},
 
   Address                  = {Dallas, TX},
   Month                    = {March},
 
-  Author                   = {Z. Berkay Celik and Abbas Acar Hidayet Aksu and Abbas Acar and Ryan Sheatsley and A. Selcuk Uluagac and Patrick McDaniel},
-  Booktitle                = {ACM Conference on Data and Applications Security (CODASPY)},
   Eprint                   = {arXiv:1702.08342},
   Url                      = {https://arxiv.org/pdf/1702.08342.pdf}
 }
