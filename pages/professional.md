@@ -7,6 +7,7 @@ notitle: true
 ### Invited Talks/Presentations
 
 ##### Automated IoT Security and Privacy Analysis
+* November 2018: Automated IoT Security and Privacy Analysis, University of Florida (host: [Dr. Kevin Butler](https://cise.ufl.edu/~butler/) and [Dr. Patrick Traynor](https://www.cise.ufl.edu/~traynor/))
 * October 2018: Automated IoT Security and Privacy Analysis, Worcester Polytechnic Institute (host: [Dr. Berk Sunar](https://www.wpi.edu/people/faculty/sunar))
 * September 2018: Automated IoT Security and Privacy Analysis, Northeastern University (host: [Dr. Engin Kirda](http://www.ccs.neu.edu/home/ek/))
 * August 2018: Automated IoT Safety and Security Analysis, [USENIX Security Lightning Talks](https://www.usenix.org/conference/usenixsecurity18/activities#lightning) 
@@ -18,8 +19,8 @@ notitle: true
 * June 2017: Automated IoT Safety and Security Analysis, University of California, Davis 
 
 ##### Generating Machine Learning Models under Privileged Information
-* December 2016: Recent Research Topics in Security and Privacy, [Istanbul Technical University](http://www.bb.itu.edu) (host: [Dr. Sema Oktug](http://web.itu.edu.tr/~oktug/)
-* December 2016: Detection under Privileged Information, [Florida International University](https://csl.fiu.edu/) (host: [Dr. Selcuk Uluagac](http://web.eng.fiu.edu/selcuk/)
+* December 2016: Recent Research Topics in Security and Privacy, [Istanbul Technical University](http://www.bb.itu.edu) (host: [Dr. Sema Oktug](http://web.itu.edu.tr/~oktug/))
+* December 2016: Detection under Privileged Information, [Florida International University](https://csl.fiu.edu/) (host: [Dr. Selcuk Uluagac](http://web.eng.fiu.edu/selcuk/))
 * August 2015: Detection under Privileged Information for Security, Penn State University, [Institute for Networking and Security Research](http://insr.psu.edu/)
 * May 2016: Detection under Privileged Information for Security, Indiana University 
 * August 2015: Detection under Privileged Information, [Vencore Labs](https://www.vencorelabs.com/) (Intern presentation)

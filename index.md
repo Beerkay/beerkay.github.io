@@ -6,9 +6,10 @@ notitle: true
 ### About Me
 I am a research assistant in the Department of Electrical Engineering and Computer Science at the Pennsylvania State University working with [Prof. Patrick McDaniel](http://www.patrickmcdaniel.org/) and lead graduate student of the [Systems and Internet Infrastructure Security Laboratory (SIIS)](http://siis.cse.psu.edu/). During my Msc. studies, I worked with [Prof. George Kesidis](http://www.cse.psu.edu/~gik2/) and [Prof. David J. Miller](http://www.ee.psu.edu/directory/FacultyInfo/Miller/MillerProfilePage.aspx). My research was on machine learning systems and network security. Previously I worked at [VMware](https://www.vmware.com/) evaluating the security of VMware software source code, [Vencore Labs](https://www.perspectalabs.com/) building machine learning systems under privileged information, and [Istanbul Technical University](http://www.itu.edu.tr/en/) doing research on feature engineering for malware detection.
  
-Generally, I am interested in developing secure systems through program analysis and machine learning. My recent work seeks to improve security, safety and privacy guarantees in commodity IoT. 
+Generally, I am interested in developing secure systems through program analysis and machine learning. My recent work seeks to improve  safety, security,  and privacy guarantees in commodity IoT. 
 
 ### News
+- Our paper [Curie: Policy-based Secure Data Exchange](https://beerkay.github.io) is accepted to CODASPY'19 (will be available soon.)
 - Our paper [IoTGuard: Dynamic Enforcement of Security and Safety Policy in Commodity IoT](https://beerkay.github.io) is accepted to NDSS'19 (will be available soon)
 - I'm serving on the program committee of [AsiaCCS](https://asiaccs2019.blogs.auckland.ac.nz/)
 - Our paper on [Program Analysis of Commodity IoT application for Security and Privacy: Opportunities and Challenges](https://arxiv.org/pdf/1809.06962.pdf) is now available at arXiv. 
@@ -32,6 +33,12 @@ Generally, I am interested in developing secure systems through program analysis
 **Z. Berkay Celik**, Gang Tan and Patrick McDaniel<br />
 Proceedings of the Network and Distributed System Security Symposium (NDSS), 2019<br />
 Acceptance Rate: 17% <br />
+[will be available soon]
+
+[Curie: Policy-based Secure Data Exchange](https://beerkay.github.io)<br />
+**Z. Berkay Celik**, Abbas Acar, Hidayet Aksu, Ryan Sheatsley, Patrick McDaniel and Selcuk Uluagac<br />
+Proceedings of the ACM Conference on Data and Applications Security (CODASPY), 2019<br />
+Acceptance Rate: 23.5% <br />
 [will be available soon]
 
 [Soteria: Automated IoT Safety and Security Analysis](https://www.usenix.org/system/files/conference/atc18/atc18-celik.pdf)<br />
