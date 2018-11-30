@@ -6,7 +6,10 @@ notitle: true
 ### About Me
 I am a research assistant in the Department of Electrical Engineering and Computer Science at the Pennsylvania State University working with [Prof. Patrick McDaniel](http://www.patrickmcdaniel.org/) and lead graduate student of the [Systems and Internet Infrastructure Security Laboratory (SIIS)](http://siis.cse.psu.edu/). During my Msc. studies, I worked with [Prof. George Kesidis](http://www.cse.psu.edu/~gik2/) and [Prof. David J. Miller](http://www.ee.psu.edu/directory/FacultyInfo/Miller/MillerProfilePage.aspx). My research was on machine learning systems and network security. Previously I worked at [VMware](https://www.vmware.com/) evaluating the security of VMware software source code, [Vencore Labs](https://www.perspectalabs.com/) building machine learning systems under privileged information, and [Istanbul Technical University](http://www.itu.edu.tr/en/) doing research on feature engineering for malware detection.
  
-Generally, I am interested in developing secure systems through program analysis and machine learning. My recent work seeks to improve  safety, security,  and privacy guarantees in commodity IoT. 
+Generally, my research investigates the design and evaluation of security for software and systems, specifically on emerging computing platforms and the complex environments in which they operate. Through systems design and program analysis, my research seeks to improve security and privacy guarantees in commodity computer systems. I have developed new analysis tools and algorithms for emerging applications, built robust detection systems against sophisticated malware, designed new attacks for machine learning systems, and demonstrated the effectiveness of approaches on real systems. The system-specific core of my research has led to rewarding collaborations with researchers from program analysis, machine learning, networking, secure computation, and optimization.
+
+My research approach is best illustrated by my extensive work in security of Internet of Things (IoT) implementations---programs that integrate physical processes with digital connectivity. Security particularly as it applies to IoT is in its infancy. Techniques from security and privacy research promise to address broad security goals, but attacks continue to emerge in IoT systems. Because these goals are not defined and addressed across sensors, physical space, and their interaction with the digital domain, seemingly inconsequential software artifacts put users and environment at risk. For this reason, direct application of existing software security techniques is not always effective. My thesis addresses these challenges, using commodity IoT applications as a starting point to design and develop new formal techniques and systems.
+
 
 ### News
 - Our paper [Curie: Policy-based Secure Data Exchange](https://beerkay.github.io) is accepted to CODASPY'19 (will be available soon.)
@@ -170,6 +173,7 @@ Posters missing, Reviewlari mutlaka ekle.
 * Reviewer, Usenix Security (2018)
 
 
+Generally, I am interested in developing secure systems through program analysis and machine learning. My recent work seeks to improve  safety, security,  and privacy guarantees in commodity IoT. 
 
 ### Publications
 <script src="https://bibbase.org/show?bib=https%3A%2F%2Fraw.githubusercontent.com%2FBeerkay%2Fbeerkay.github.io%2Fmaster%2Fpapers%2FmyPublications.bib&jsonp=1"></script>
