@@ -5,7 +5,7 @@ notitle: true
 ---
 
 ### Research Projects
-I've had the opportunity to work on a number of interesting research projects during my Msc. and PhD. studies. Here is a summary of some of my efforts. 
+I've had the opportunity to work on a number of interesting research projects during my Msc. and PhD. studies. I have developed new analysis tools and algorithms for emerging applications, built robust detection systems against sophisticated malware, designed new attacks for machine learning systems, and demonstrated the effectiveness of approaches on real systems. The system-specific core of my research has led to rewarding collaborations with researchers from program analysis, machine learning, networking, secure computation, and optimization. Here is a summary of some of my efforts. 
 
 #### Automated IoT Security, Safety and Privacy Analysis
 

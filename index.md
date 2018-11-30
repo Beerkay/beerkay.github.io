@@ -174,7 +174,7 @@ Posters missing, Reviewlari mutlaka ekle.
 
 Generally, I am interested in developing secure systems through program analysis and machine learning. My recent work seeks to improve  safety, security,  and privacy guarantees in commodity IoT. 
 
-I have developed new analysis tools and algorithms for emerging applications, built robust detection systems against sophisticated malware, designed new attacks for machine learning systems, and demonstrated the effectiveness of approaches on real systems. The system-specific core of my research has led to rewarding collaborations with researchers from program analysis, machine learning, networking, secure computation, and optimization.
+
 
 
 ### Publications
