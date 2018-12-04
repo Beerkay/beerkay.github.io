@@ -10,8 +10,8 @@ Generally, I am interested in developing secure systems through program analysis
 
 
 ### News
-- Our paper [Curie: Policy-based Secure Data Exchange](https://beerkay.github.io) is accepted to CODASPY'19 (will be available soon.)
-- Our paper [IoTGuard: Dynamic Enforcement of Security and Safety Policy in Commodity IoT](https://beerkay.github.io) is accepted to NDSS'19 (will be available soon)
+- [IoTGuard: Dynamic Enforcement of Security and Safety Policy in Commodity IoT](https://beerkay.github.io) is accepted to NDSS'19 (will be available soon)
+- [Curie: Policy-based Secure Data Exchange](https://beerkay.github.io) is accepted to CODASPY'19 (will be available soon.)
 - I'm serving on the program committee of [AsiaCCS](https://asiaccs2019.blogs.auckland.ac.nz/)
 - Our paper on [Program Analysis of Commodity IoT application for Security and Privacy: Opportunities and Challenges](https://arxiv.org/pdf/1809.06962.pdf) is now available at arXiv. 
 - I'm serving on the program committee of [NIPS Workshop on Security in Machine Learning](https://secml2018.github.io/).
