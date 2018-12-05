@@ -26,6 +26,7 @@ notitle: true
 * August 2015: Detection under Privileged Information, [Vencore Labs](https://www.vencorelabs.com/) (Intern presentation)
 
 ##### Security and Privacy of Machine Learning
+* December 2018: CSE 543 Computer Security, Penn State University (Adversarial Machine Learning lecture) (host: [Dr. Trent Jaeger](http://www.cse.psu.edu/~trj1/))
 * July 2017: Convolutional Neural Networks for Secure Code, [VMware Cambridge Office](https://www.vmware.com/) (VMware CTO Office Presentation) 
 * August 2017: Deep Learning for Analyzing VMware Software, [VMware Cambridge Office](https://www.vmware.com/) (VMware Intern Presentation) 
 * July 2016: College of Engineering Symposium, Penn State University

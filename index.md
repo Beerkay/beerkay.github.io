@@ -12,9 +12,9 @@ Generally, I am interested in developing secure systems through program analysis
 ### News
 - [IoTGuard: Dynamic Enforcement of Security and Safety Policy in Commodity IoT](https://beerkay.github.io) is accepted to NDSS'19 (will be available soon)
 - [Curie: Policy-based Secure Data Exchange](https://beerkay.github.io) is accepted to CODASPY'19 (will be available soon.)
-- I'm serving on the program committee of [AsiaCCS](https://asiaccs2019.blogs.auckland.ac.nz/)
+- I'm serving on the program committee of [AsiaCCS'19](https://asiaccs2019.blogs.auckland.ac.nz/)
 - Our paper on [Program Analysis of Commodity IoT application for Security and Privacy: Opportunities and Challenges](https://arxiv.org/pdf/1809.06962.pdf) is now available at arXiv. 
-- I'm serving on the program committee of [NIPS Workshop on Security in Machine Learning](https://secml2018.github.io/).
+- I'm serving on the program committee of [NIPS Workshop on Security in Machine Learning'18](https://secml2018.github.io/).
 - My colleague, Xiaolei Wang, and I created [a collection of papers](https://github.com/Beerkay/IoTResearch/blob/master/README.md) we recommend reading for those interested in studying IoT security and privacy.
 - [IoTBench: A micro-benchmark suite to assess the effectiveness of tools for IoT apps](https://github.com/IoTBench/IoTBench-test-suite) is now online.
 - My talk on [Program Analysis of IoT Applications for Security and Privacy](https://www.usenix.org/sites/default/files/conference/protected-files/hotsec18_slides_celik.pdf) is awarded **the most amusing** talk at [USENIX Security HoTSec'18](https://www.usenix.org/conference/hotsec18/summit-program).
