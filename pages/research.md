@@ -7,9 +7,9 @@ notitle: true
 ### Research 
 I've had the opportunity to work on a number of interesting research projects during my Msc. and PhD. studies. I have developed new analysis tools and algorithms for emerging applications, built robust detection systems against sophisticated malware, designed new attacks for machine learning systems, and demonstrated the effectiveness of approaches on real systems. The system-specific core of my research has led to rewarding collaborations with researchers from program analysis, machine learning, networking, secure computation, and optimization. Here is a summary of some of my efforts. 
 
-#### Automated IoT Security, Safety and Privacy Analysis
+####  IoT Safety, Security, and Privacy Analysis
 
-<img align="left" src="{{ site.base }}/img/saint/saint.png" style="border-radius: 15px" hspace="15"> In this project, we implemented two systems and a toolset to analyze IoT applications: Soteria, Saint and IoTBench. 
+<img align="left" src="{{ site.base }}/img/saint/saint.png" style="border-radius: 15px" hspace="15"> We have implemented two systems and a toolset to analyze IoT applications: Soteria, Saint and IoTBench. 
 
 [Soteria](https://www.usenix.org/system/files/conference/atc18/atc18-celik.pdf) is a static analysis system for validating whether an IoT app or IoT environment (collection of apps working in concert) adheres to identified safety, security, and functional properties. We demonstrated that many apps violate properties when used in isolation and when used together in multi-app environments. This work was presented in USENIX ATC 2018. 
 
