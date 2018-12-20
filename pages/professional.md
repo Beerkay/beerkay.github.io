@@ -4,6 +4,24 @@ title: Home
 notitle: true
 ---
 
+### Internships
+* 2017 (Summer): Software Engineer, VMware CTO Office, Greater Boston Area (Managers: Ronn Mann and [Josh Simons](https://octo.vmware.com/author/josh_simons/))
+* 2015 (Summer): Research Associate, Vencore Labs, New Jersey (Managers: Dr. Ritu Chadha and [Dr. Rauf Izmailov](https://scholar.google.com/citations?user=eA2qnCYAAAAJ&hl=en))
+
+---
+
+### Teaching Experience
+* [CMPSC 311](http://www.patrickmcdaniel.org/teach.html): System Programming (with Prof. Patrick McDaniel) (Fall 2016)
+* [CMPSC 443](http://www.patrickmcdaniel.org/teach.html): Introduction to Computer Security (with Prof. Patrick McDaniel) (Spring 2017, Fall 2018)
+* CSE 597: Security and Privacy of Machine Learning (with Prof. Patrick McDaniel and Nicolas Papernot) (Fall 2016)
+* CSE 597: Advanced Topics in the Security and Privacy of Machine Learning (with Prof. Patrick McDaniel and Nicolas Papernot) (Spring 2017)
+
+#### Guest lecturer
+* CSE 597: Wireless and Mobile Security (Fall 2017)
+* CSE 543: Computer Security (Fall 2018)
+
+---
+
 ### Invited Talks/Presentations
 
 ##### Automated IoT Security and Privacy Analysis
@@ -37,6 +55,7 @@ notitle: true
 * August 2015: Malware Experimentation in a Testbed Environment, Vencore Labs
 * June 2015: Malware Detection through tamper-proof features, University of California, Riverside 
 
+---
 
 ### Professional Activities
 * 2019, Program Committee Member for AsiaCCS
@@ -48,6 +67,8 @@ notitle: true
 * 2017, Publicity Chair for IEEE Conference on Communications and Network Security (CNS) Workshop on Cyber-Physical Systems Security (CPS-Sec)
 * 2016, Technical Program Committee Member for MILCOM'16 (Track 3: Cyber Security and Trusted Computing)
 * Reviewer: USENIX Security (2019), GameSec(2018), CCS (2018), NIPS (2018), USENIX Security (2018), Neural Processing Letters (2017), ACM Computing Surveys (2017), IEEE S&P Magazine (2016), NDSS (2016), Journal of Network and Computer Applications (JNCA) (2016), Computers-Open Access Journal (2016)
+
+---
 
 ### Awards
 * August 2018: The most amusingtalk award at [USENIX Security HoTSec'18](https://www.usenix.org/conference/hotsec18/summit-program)
