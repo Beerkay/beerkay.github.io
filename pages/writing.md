@@ -6,7 +6,7 @@ notitle: true
 
 #### May 2018
 
-**IoT Security and Privacy Reading List:** From time to time I receive emails asking how to start studying IoT security and privacy. I and my colleague, Xiaolei Wang, have grouped a collection of papers that we recommend reading for those interested in studying IoT security and privacy. If you have any suggestions, please send a pull request through [GitHub](https://github.com/Beerkay/IoTResearch).
+**IoT Security and Privacy Reading List:** From time to time I receive emails asking how to start studying IoT security and privacy. I and my colleague, Xiaolei Wang, have grouped a collection of papers that we recommend reading for those interested in studying IoT security and privacy. If you have any suggestions, please send a [pull request](https://github.com/Beerkay/IoTResearch).
 
 
 ##### First depth study on IoT Security 
