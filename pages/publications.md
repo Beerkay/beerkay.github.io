@@ -1,6 +1,6 @@
 ---
 layout: default_minimal
-title: Home
+title: Publications
 notitle: true
 ---
 ### Publications 
