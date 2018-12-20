@@ -9,7 +9,7 @@ notitle: true
 **IoT Security and Privacy Reading List:** From time to time I receive emails asking how to start studying IoT security and privacy. I and my colleague, Xiaolei Wang, have grouped a collection of papers that we recommend reading for those interested in studying IoT security and privacy. If you have any suggestions, please send a pull request through [GitHub](https://github.com/Beerkay/IoTResearch).
 
 
-##### First depth study on IoT Security (focusing on SmartThings, and motivating the following IoT research)
+##### First depth study on IoT Security 
 - 2016, IEEE S&P, [Security Analysis of Emerging Smart Home Applications](http://iotsecurity.eecs.umich.edu/img/Fernandes_SmartThingsSP16.pdf)
 
 #####  Sensitive Information Flow Tracking
