@@ -10,7 +10,7 @@ I've had the opportunity to work on a number of interesting research projects du
 ####  IoT Safety, Security, and Privacy Analysis
 
 
-<img align="left" src="{{ site.base }}/img/IoTResearch/IoTResearch.png" hspace="15" width="300"> We have implemented three systems, Soteria, IoTGuard, and Saint to analyze IoT implementations and environments for safety, security and privacy, and a toolset for IoT analysis, IoTBench.
+<img align="left" src="{{ site.base }}/img/IoTResearch/IoTResearch.png" hspace="15" vspace="15" width="300"> We have implemented three systems, Soteria, IoTGuard, and Saint to analyze IoT implementations and environments for safety, security and privacy, and a toolset for IoT analysis, IoTBench.
 
 [Soteria](https://www.usenix.org/system/files/conference/atc18/atc18-celik.pdf) is a static analysis system to verify whether an IoT app or IoT environment (collection of apps working in concert) adheres to relevant safety, security, and functional properties. Soteria leverages the structured nature of IoT applications to extract a state model (finite state machine) of the application by analyzing its source code. We demonstrated that many apps violate properties when used in isolation and when used together in multi-app environments. This work was presented in USENIX ATC 2018. 
 
@@ -28,7 +28,7 @@ Lastly, we have introduced [IoTBench](https://github.com/IoTBench/test-suite), a
 [![Sensitive Information Tracking in Commodity IoT](/img/IoTResearch/saintTalk.png)](https://www.youtube.com/watch?v=ggsoDoOBdTo "Sensitive Information Tracking in Commodity IoT")
 
 #### Robust Detection Models under Privileged Information
-<img align="left" src="{{ site.base }}/img/privileged/forensic-detection.png" style="border-radius: 15px" hspace="15">  Training of models has been historically limited to only those features available at runtime. In this study, we ask "how can detection systems integrate intelligence relevant to an attack that is available at training time, yet not available at runtime?" 
+<img align="left" src="{{ site.base }}/img/privileged/privilegedTraining.png" hspace="15" vspace="15" width="300">  Training of models has been historically limited to only those features available at runtime. In this study, we ask "how can detection systems integrate intelligence relevant to an attack that is available at training time, yet not available at runtime?" 
 
 Consider a rootkit detection system for mobile phones. Obtaining a set of features may drain the battery even though they contribute to the detection of a rootkit. Therefore, the users might disable the system because the battery dies very quickly. However, obtaining these features at training time is feasible as we have unlimited resources in a laboratory-based environment. We built an alternate model construction approach that trains models using "privileged" information--features available at training time but not at runtime, yet samples are classified without the need of privileged features at runtime. Turning to rootkit example, the features draining the battery are the privileged features.  We shoed that privileged information
 increases precision and recall over a system with no privileged information, including in systems such as fast-flux bot detection, malware traffic detection,  malware classification, face recognition.
