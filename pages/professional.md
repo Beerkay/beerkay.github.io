@@ -71,7 +71,7 @@ notitle: true
 ---
 
 ### Awards
-* August 2018: The most amusingtalk award at [USENIX Security HoTSec'18](https://www.usenix.org/conference/hotsec18/summit-program)
+* August 2018: The most amusing talk award at [USENIX Security HoTSec'18](https://www.usenix.org/conference/hotsec18/summit-program)
 * August 2018: Best Paper Award (14th EAI International Conference on Security and Privacy in Communication Networks (SecureComm 2018))
 * May 2018: Student Travel Award (ACM ASIA Conference on Information, Computer and Communications Security (ACM ASIACCS 2018)) 
 * March 2018: Best demo award (Sensitive Information Tracking in Commodity IoT, [Florida Institute for Cybersecurity Research (FICS) Research Annual Conference on Cybersecurity](http://fics.institute.ufl.edu/poster-demo-winners-at-the-fics-annual-conference-on-cybersecurity/))
