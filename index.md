@@ -32,13 +32,13 @@ Generally, I am interested in developing secure systems through program analysis
 ### Publications (Selected)
 
 [IoTGuard: Dynamic Enforcement of Security and Safety Policy in Commodity IoT](https://beerkay.github.io)<br />
-**Z. Berkay Celik**, Gang Tan and Patrick McDaniel<br />
+**Z. Berkay Celik**, Gang Tan, and Patrick McDaniel<br />
 Proceedings of the Network and Distributed System Security Symposium (NDSS), 2019<br />
 Acceptance Rate: 17% <br />
 [will be available soon]
 
 [Curie: Policy-based Secure Data Exchange](https://beerkay.github.io)<br />
-**Z. Berkay Celik**, Abbas Acar, Hidayet Aksu, Ryan Sheatsley, Patrick McDaniel and Selcuk Uluagac<br />
+**Z. Berkay Celik**, Abbas Acar, Hidayet Aksu, Ryan Sheatsley, Patrick McDaniel, and Selcuk Uluagac<br />
 Proceedings of the ACM Conference on Data and Applications Security (CODASPY), 2019<br />
 Acceptance Rate: 23.5% <br />
 [will be available soon]
@@ -50,13 +50,13 @@ Acceptance Rate: 19% <br />
 <img src="https://raw.github.com/secure-software-engineering/DroidBench/develop/new.gif"/>[[Slides]](https://www.usenix.org/sites/default/files/conference/protected-files/atc18_slides_celik.pdf) [[Slides for Usenix HotSec'18]](https://www.usenix.org/sites/default/files/conference/protected-files/hotsec18_slides_celik.pdf)
 
 [Sensitive Information Tracking in Commodity IoT](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-celik.pdf)<br />
-**Z. Berkay Celik**, Leonardo Babun, Amit K. Sikder, Hidayet Aksu, Gang Tan, Patrick McDaniel and Selcuk Uluagac<br />
+**Z. Berkay Celik**, Leonardo Babun, Amit K. Sikder, Hidayet Aksu, Gang Tan, Patrick McDaniel, and Selcuk Uluagac<br />
 Proceedings of the USENIX Security Symposium (USENIX Security), 2018<br />
 Acceptance Rate: 18% <br />
 [[Slides]](https://www.usenix.org/sites/default/files/conference/protected-files/security18_slides_celik.pdf) [[Talk video]](https://www.youtube.com/watch?v=ggsoDoOBdTo)
 
 [Detection under Privileged Information](https://arxiv.org/pdf/1603.09638.pdf)<br />
-**Z. Berkay Celik**,  Patrick McDaniel, Rauf Izmailov, Nicolas Papernot, Ryan Sheatsley, Raquel Alvarez and Ananthram Swami<br />
+**Z. Berkay Celik**,  Patrick McDaniel, Rauf Izmailov, Nicolas Papernot, Ryan Sheatsley, Raquel Alvarez, and Ananthram Swami<br />
 Proceedings of the Asia Conference on Computer and Communications Security (ASIACCS), 2018<br />
 Acceptance Rate: 20%
 
@@ -65,12 +65,12 @@ Acceptance Rate: 20%
 In Journal of Defense Modeling and Simulation (JDMS), 2018
 
 [Extending Detection with Privileged Information via Generalized Distillation](https://arxiv.org/pdf/1603.09638.pdf)<br />
-**Z. Berkay Celik** and Patrick McDaniel<br />
+**Z. Berkay Celik**, and Patrick McDaniel<br />
 IEEE Workshop on Deep Learning and Security (colocated with IEEE S&P), 2018<br />
 Acceptance Rate: 27%
 
 [Mission-oriented Security Model, Incorporating Security Risk, Cost and Payout](http://securecomm.org/full-program/)<br />
-Sayed Saghaian, Tom La Porta, Trent Jaeger, **Z. Berkay Celik**, Patrick McDaniel<br />
+Sayed Saghaian, Tom La Porta, Trent Jaeger, **Z. Berkay Celik**, and Patrick McDaniel<br />
 Proceedings of the Security and Privacy in Communication Networks (SecureComm), 2018<br />
 **[Best Paper Award]**
 
