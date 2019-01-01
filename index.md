@@ -96,68 +96,6 @@ Nicolas Papernot, Patrick McDaniel, Somesh Jha,  Matt Fredrikson, **Z. Berkay Ce
 Proceedings of the  European Symposium on Security and Privacy (Euro S&P), 2016<br />
 Acceptance Rate: 17.3%
 
-<!---
-### Teaching Experience
-* CMPSC 311: System Programming (with Prof. Patrick McDaniel) (Fall 2016)
-* CMPSC 443: Introduction to Computer Security (with Prof. Patrick McDaniel) (Spring 2017)
-* CSE 597: Security and Privacy of Machine Learning (with Prof. Patrick McDaniel and Nicolas Papernot) (Fall 2016)
-* CSE 597: Advanced Topics in the Security and Privacy of Machine Learning (with Prof. Patrick McDaniel and Nicolas Papernot) (Spring 2017)
-
-### Professional Activities
-* 2018, Program Committee Member for IEEE Symposium on Privacy-Aware Computing (IEEE PAC) 
-* 2017, Program Committee Member for CCS Workshop on Internet-of-Things Security and Privacy (IoT S&P)
-* 2017, Publicity Chair for IEEE Conference on Communications and Network Security (CNS) Workshop on Cyber-Physical Systems Security (CPS-Sec)
-* 2016, Technical Program Committee for MILCOM'16 (Track 3: Cyber Security and Trusted Computing)
-* Reviewer: USENIX Security (2018), Neural Processing Letters (2017), ACM Computing Surveys (2017), IEEE S&P Magazine (2016), NDSS (2016), Journal of Network and Computer Applications (JNCA) (2016), Computers-Open Access Journal (2016)
-
-
-### Invited Talks/Presentations
-* April 2018: Recent Research on IoT Privacy and Security, [Penn State University](http://www.cse.psu.edu/~sxz16/) (host: Dr. Senchun Zhu, CSE 597: Wireless and Mobile Security class)
-* March 2018: Automated IoT Privacy and Security Analysis, [Army Research Laboratory](https://www.arl.army.mil/www/default.cfm) (host: Dr. Ed Colbert)
-* September 2017: SainT: Sensitive Information Tracking for IoT Applications, [Great Lakes Security Day 2017, RIT](https://www.rit.edu/cybersecurity/great-lakes-security-day-2017) (host: [Dr. Matthew Wright](https://sites.google.com/site/matthewkwright/))
-* August 2017: Deep Learning for Analyzing VMware Software, [VMware Cambridge Office](https://www.vmware.com/) (VMware Intern Presentation) 
-* July 2017: Convolutional Neural Networks for Secure Code, [VMware Cambridge Office](https://www.vmware.com/) (VMware CTO Office Presentation) 
-* December 2016: Recent Research Topics in Security and Privacy, [Istanbul Technical University](http://www.bb.itu.edu) (host: [Dr. Sema Oktug](http://web.itu.edu.tr/~oktug/)
-* December 2016:Detection under Privileged Information, [Florida International University](https://csl.fiu.edu/) (host: [Dr. Selcuk Uluagac](http://web.eng.fiu.edu/selcuk/)
-* March 2016: Malware Traffic Detection using Tamper Resistant Features, [Army Research Laboratory](https://www.arl.army.mil/www/default.cfm) (host: Dr. Ananthram Swami)
-* March 2016: Mapping Sample Scenarios to Operational Models in Cyber Environments, [George Mason University](https://www2.gmu.edu/) (host: [Dr. Sushil Jajodia](http://csis.gmu.edu/jajodia/))
-* August 2015: Detection under Privileged Information, [Vencore Labs](https://www.vencorelabs.com/)(Intern presentation)
-
-
-### Awards
-* August 2018: Student Travel Award (ACM ASIA Conference on Information, Computer and Communications Security (ACM ASIACCS 2018)) 
-* March 2018: Best demo award (Sensitive Information Tracking in Commodity IoT, [Florida Institute for Cybersecurity Research (FICS) Research Annual Conference on Cybersecurity](http://fics.institute.ufl.edu/poster-demo-winners-at-the-fics-annual-conference-on-cybersecurity/))
-* July 2015: Student Travel Award (Military Communications Conference (MILCOM))
-* August 2015 and 2017: PSU Summer Tuition Assistance Program (STAP) Fellowship
-
-### Internships
-* 2017 (Summer): Software Engineer, VMware CTO Office, Greater Boston Area (Managers: Ronn Mann and [Josh Simons](https://octo.vmware.com/author/josh_simons/))
-* 2015 (Summer): Research Associate, Vencore Labs, New Jersey (Managers: Dr. Ritu Chadha and [Dr. Rauf Izmailov](https://scholar.google.com/citations?user=eA2qnCYAAAAJ&hl=en))
-
----
-
-
-Reviwer for Neural Information Processing Systems (NIPS) 2018
-
-### Personal
-[Click to know more about me](https://octo.vmware.com/author/josh_simons/)
-http://www.cs.virginia.edu/~robins/TimeManagementTalk.html
-
-#### Policy-based Secure Data Exchange 
-<img align="left" src="{{ site.base }}/img/curie/curie.png" style="border-radius: 15px" hspace="15"> Data sharing among partners---users, organizations, companies---is crucial for the advancement of data analytics in many domains. Sharing through secure computation and differential privacy allows these partners to perform private computations on their sensitive data in controlled ways. However, in reality, there exist complex relationships among members. Politics, regulations, interest, trust, data demands and needs are one of the many reasons. Thus, there is a need for a mechanism to meet these conflicting relationships on data sharing. This paper presents Curie, an approach to exchange data among members whose membership has complex relationships. The CPL policy language that allows members to define the specifications of data exchange requirements is introduced. Members (partners) assert who and what to exchange through their local policies and negotiate a global sharing agreement. The agreement is implemented in a multi-party computation that guarantees sharing among members will comply with the policy as negotiated. The use of Curie is validated through an example of a health care application built on recently introduced secure multi-party computation and differential privacy frameworks, and policy and performance trade-offs are explored.
-
-This paper is under peer-review: [Curie: Policy-based Secure Data Exchange](https://arxiv.org/pdf/1702.08342.pdf), Z. Berkay Celik, Hidayet Aksu, Abbas Acar,Ryan Sheatsley, A. Selcuk Uluagac and Patrick McDaniel, 2017. We extend the algorithms used in Curie paper and construct algorithms for [Achieving Secure and Differentially Private Computations in Multiparty Settings](https://arxiv.org/pdf/1702.08342.pdf). This paper is accepted to IEEE Privacy-aware computing (PAC) conference.
-
-We also studied the detection of Fast-Flux Service Networks (FFSNs) using DNS (Domain Name System)
-response packets. We have observed that current approaches do not employ a large combination of DNS features to feed into the proposed detection systems. The lack of features leads to high false positive or false negative rates triggered by benign activities including Content Distribution Networks (CDNs). Read more about the study [here](https://beerkay.github.io/papers/Celik13_ISCC.pdf).
-
-
-During my Msc. studies, I worked with [Prof. George Kesidis](http://www.cse.psu.edu/~gik2/) and [Prof. David J. Miller](http://www.ee.psu.edu/directory/FacultyInfo/Miller/MillerProfilePage.aspx) on NSF NeTSE Unsupervised Flow-Based Clustering project (also supported by Cisco Systems URP gift and DHS/NSF EMIST/DETER project). My research there focused on network security and machine learning. 
-
-
-I also worked under the direction of [Prof. Sema Oktug](http://web.itu.edu.tr/~oktug/) at [Istanbul Technical University](http://www.itu.edu.tr/en/) focusing on practical network security problems (e.g., fast-flux networks).
-
--->
 
 <!---
 Posters missing, Reviewlari mutlaka ekle.
@@ -166,20 +104,6 @@ Posters missing, Reviewlari mutlaka ekle.
 ## CRA
 ## VENCORE LABS
 ## VMWARE
-
---
-* 2018--NIPS
-* 2017, Program Committee Member for IEEE Symposium on Privacy-Aware Computing (PAC)
-* Reviewer, Usenix Security (2018)
-
-
-Generally, I am interested in developing secure systems through program analysis and machine learning. My recent work seeks to improve  safety, security,  and privacy guarantees in commodity IoT. 
-
-Generally, [my research](/pages/research) investigates the design and evaluation of security for software and systems, specifically on emerging computing platforms and the complex environments in which they operate. Through systems design and program analysis, my research seeks to improve security and privacy guarantees in commodity computer systems. My research approach is best illustrated by my extensive work in security of Internet of Things (IoT) implementations---programs that integrate physical processes with digital connectivity. Security particularly as it applies to IoT is in its infancy. Techniques from security and privacy research promise to address broad security goals, but attacks continue to emerge in IoT systems. Because these goals are not defined and addressed across sensors, physical space, and their interaction with the digital domain, seemingly inconsequential software artifacts put users and environment at risk. For this reason, direct application of existing software security techniques is not always effective. My thesis addresses these challenges, using commodity IoT applications as a starting point to design and develop new formal techniques and systems.
-
-
-### Publications
-<script src="https://bibbase.org/show?bib=https%3A%2F%2Fraw.githubusercontent.com%2FBeerkay%2Fbeerkay.github.io%2Fmaster%2Fpapers%2FmyPublications.bib&jsonp=1"></script>
 -->
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-56069371-2"></script>
