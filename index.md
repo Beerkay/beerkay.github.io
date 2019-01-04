@@ -6,8 +6,7 @@ notitle: true
 ### About Me
 I am a research assistant in the Department of Electrical Engineering and Computer Science at the Pennsylvania State University working with [Prof. Patrick McDaniel](http://www.patrickmcdaniel.org/) and lead graduate student of the [Systems and Internet Infrastructure Security Lab (SIIS)](http://siis.cse.psu.edu/people.html). During my Msc. studies, I worked with [Prof. George Kesidis](http://www.cse.psu.edu/~gik2/) and [Prof. David J. Miller](http://www.ee.psu.edu/directory/FacultyInfo/Miller/MillerProfilePage.aspx). My research was on machine learning (ML) systems and network security. Previously I worked at [VMware](https://www.vmware.com/) evaluating the security of VMware software source code, [Vencore Labs](https://www.perspectalabs.com/) building ML systems under privileged information, and [Istanbul Technical University](http://www.itu.edu.tr/en/) doing research on feature engineering for malware detection.
 
-
-Generally, I am interested in developing secure systems through program analysis and machine learning. My recent work seeks to improve  safety, security, and privacy guarantees in commodity IoT. 
+My research investigates the design and evaluation of security for software and systems, specifically on emerging computing platforms and the complex environments in which they operate. Through systems design and program analysis, my research seeks to improve security and privacy guarantees in commodity computer systems. My research approach is best illustrated by my extensive work in safety, security and privacy of IoT systems.
 
 
 ### News
@@ -104,6 +103,7 @@ Posters missing, Reviewlari mutlaka ekle.
 ## CRA
 ## VENCORE LABS
 ## VMWARE
+Generally, I am interested in developing secure systems through program analysis and machine learning. My recent work seeks to improve safety, security, and privacy guarantees in IoT systems.
 -->
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-56069371-2"></script>
