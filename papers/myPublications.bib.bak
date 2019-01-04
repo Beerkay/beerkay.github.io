@@ -204,6 +204,7 @@
   Booktitle                = {International Conference on Security and Privacy in Communication Systems (SecureComm)},
   Year                     = {2018},
 
-  Comment                  = {Best Paper Award}
+  Comment                  = {Best Paper Award},
+  Url                      = {http://www.cse.psu.edu/~trj1/papers/securecomm18.pdf}
 }
 
