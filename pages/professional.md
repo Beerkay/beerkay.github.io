@@ -71,6 +71,7 @@ notitle: true
 ---
 
 ### Awards
+* January 2019: Student Travel Award (The Network and Distributed System Security Symposium (NDSS 2019)) 
 * August 2018: The most amusing talk award at [USENIX Security HoTSec'18](https://www.usenix.org/conference/hotsec18/summit-program)
 * August 2018: Best Paper Award (14th EAI International Conference on Security and Privacy in Communication Networks (SecureComm 2018))
 * May 2018: Student Travel Award (ACM ASIA Conference on Information, Computer and Communications Security (ACM ASIACCS 2018)) 

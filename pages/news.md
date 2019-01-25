@@ -6,7 +6,7 @@ notitle: true
 
 ### News
 ##### 2018
--  I gave a talk on IoT Security and Privacy at University of Florida (host: [Dr. Kevin Butler](https://cise.ufl.edu/~butler/) and [Dr. Patrick Traynor](https://www.cise.ufl.edu/~traynor/))
+- I gave a talk on IoT Security and Privacy at University of Florida (host: [Dr. Kevin Butler](https://cise.ufl.edu/~butler/) and [Dr. Patrick Traynor](https://www.cise.ufl.edu/~traynor/))
 - [Curie: Policy-based Secure Data Exchange](https://beerkay.github.io) is accepted to CODASPY'19 (will be available soon.)
 - [IoTGuard: Dynamic Enforcement of Security and Safety Policy in Commodity IoT](https://beerkay.github.io) is accepted to NDSS'19 (will be available soon.)
 - I'm serving on the program committee of [AsiaCCS'19](https://asiaccs2019.blogs.auckland.ac.nz/committee/program-committee/).
