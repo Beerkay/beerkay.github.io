@@ -9,7 +9,7 @@ I've had the opportunity to work on a number of interesting research projects du
 
 ####  IoT Safety, Security, and Privacy Analysis
 
-<img align="left" src="{{ site.base }}/img/IoTResearch/IoTResearch.png" hspace="15" vspace="15" width="300"> We have implemented three systems, Soteria, IoTGuard, and Saint, to analyze IoT implementations and environments for safety, security and privacy, and a toolset for IoT analysis, IoTBench.
+<img align="left" src="{{ site.base }}/img/IoTResearch/IoTResearch.png" hspace="15" vspace="15" width="300"> We have developed three systems, Soteria, IoTGuard, and Saint, to analyze IoT implementations and environments for safety, security and privacy, and a toolset for IoT analysis, IoTBench.
 
 [Soteria](https://www.usenix.org/system/files/conference/atc18/atc18-celik.pdf) is a static analysis system to verify whether an IoT app or IoT environment (collection of apps working in concert) adheres to relevant safety, security, and functional properties. Soteria leverages the structured nature of IoT apps to extract a state model (finite state machine) of the IoT implementation by analyzing its source code. With Soteria, we demonstrated that many apps violate safety and security properties when used in isolation and when used together in multi-app environments. This work was presented in USENIX ATC'18. 
 
