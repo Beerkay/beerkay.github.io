@@ -146,7 +146,8 @@
 
   Comment                  = {acceptance rate=17%},
   Owner                    = {berkay},
-  Timestamp                = {2018.10.04}
+  Timestamp                = {2018.10.04},
+  Url                      = {https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_07A-1_Celik_paper.pdf}
 }
 
 @InProceedings{celik2015malwareMILCOM,

@@ -10,8 +10,8 @@ I am a research assistant in the Department of Electrical Engineering and Comput
 
 
 ### News
-- [IoTGuard: Dynamic Enforcement of Security and Safety Policy in Commodity IoT](https://beerkay.github.io) is accepted to NDSS'19 (will be available soon)
-- [Curie: Policy-based Secure Data Exchange](https://beerkay.github.io) is accepted to CODASPY'19 (will be available soon.)
+- [IoTGuard: Dynamic Enforcement of Security and Safety Policy in Commodity IoT](https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_07A-1_Celik_paper.pdf) is accepted to NDSS'19 (will be available soon)
+- [Curie: Policy-based Secure Data Exchange](https://arxiv.org/pdf/1702.08342.pdf) is accepted to CODASPY'19 (will be available soon.)
 - I'm serving on the program committee of [AsiaCCS'19](https://asiaccs2019.blogs.auckland.ac.nz/)
 - Our paper on [Program Analysis of Commodity IoT application for Security and Privacy: Opportunities and Challenges](https://arxiv.org/pdf/1809.06962.pdf) is now available at arXiv. 
 - I gave a talk on IoT Security and Privacy at Northeastern University (host Dr. Engin Kirda)
@@ -31,17 +31,15 @@ I am a research assistant in the Department of Electrical Engineering and Comput
 
 ### Publications (Selected)
 
-[IoTGuard: Dynamic Enforcement of Security and Safety Policy in Commodity IoT](https://beerkay.github.io)<br />
+[IoTGuard: Dynamic Enforcement of Security and Safety Policy in Commodity IoT](https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_07A-1_Celik_paper.pdf)<br />
 **Z. Berkay Celik**, Gang Tan, and Patrick McDaniel<br />
 Proceedings of the Network and Distributed System Security Symposium (NDSS), 2019<br />
 Acceptance Rate: 17% <br />
-[will be available soon]
 
-[Curie: Policy-based Secure Data Exchange](https://beerkay.github.io)<br />
+[Curie: Policy-based Secure Data Exchange](https://arxiv.org/pdf/1702.08342.pdf)<br />
 **Z. Berkay Celik**, Abbas Acar, Hidayet Aksu, Ryan Sheatsley, Patrick McDaniel, and Selcuk Uluagac<br />
 Proceedings of the ACM Conference on Data and Applications Security (CODASPY), 2019<br />
 Acceptance Rate: 23.5% <br />
-[will be available soon]
 
 [Soteria: Automated IoT Safety and Security Analysis](https://www.usenix.org/system/files/conference/atc18/atc18-celik.pdf)<br />
 **Z. Berkay Celik**, Patrick McDaniel and Gang Tan<br />
