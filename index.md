@@ -10,7 +10,7 @@ I am a research assistant in the Department of Electrical Engineering and Comput
 
 
 ### News
-- I'm serving on the program committee of [Conference on Uncertainty in Artificial Intelligence (UAI)'19](http://auai.org/uai2019/)
+- I'm serving on the program committee of [Conference on Uncertainty in Artificial Intelligence (UAI)'19](http://auai.org/uai2019/).
 - [IoTGuard: Dynamic Enforcement of Security and Safety Policy in Commodity IoT](https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_07A-1_Celik_paper.pdf) is accepted to NDSS'19. 
 - [Curie: Policy-based Secure Data Exchange](https://arxiv.org/pdf/1702.08342.pdf) is accepted to CODASPY'19.
 - I'm serving on the program committee of [AsiaCCS'19](https://asiaccs2019.blogs.auckland.ac.nz/).
