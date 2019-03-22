@@ -37,6 +37,16 @@
   Url                      = {https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-celik.pdf}
 }
 
+@Misc{programAnalysisCelikArxiv,
+  Title                    = {Program Analysis of Commodity IoT Applications for Security and Privacy: Challenges and Opportunities},
+
+  Author                   = {Z. Berkay Celik and Earlence Fernandes and Eric Pauley and Gang Tan and Patrick McDaniel},
+  Year                     = {2018},
+
+  Eprint                   = {arXiv:1809.06962},
+  Url                      = {https://arxiv.org/pdf/1809.06962.pdf}
+}
+
 @InProceedings{celik2016mappingOmodel,
   Title                    = {Mapping Sample Scenarios to Operational Models},
   Author                   = {Celik, Z. Berkay and Hu, Nan and Li, Yun and Papernot, Nicolas and McDaniel, Patrick and Rowe, Jeff and Walls, RobertJ. and Levitt, Karl and Bartolini, Novella and {La Porta}, Thomas and Chadha, Ritu},
