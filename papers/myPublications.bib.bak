@@ -37,7 +37,7 @@
   Url                      = {https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-celik.pdf}
 }
 
-@Misc{programAnalysisCelikArxiv,
+@Misc{CelikIoTprogramAnalysisArxiv,
   Title                    = {Program Analysis of Commodity IoT Applications for Security and Privacy: Challenges and Opportunities},
 
   Author                   = {Z. Berkay Celik and Earlence Fernandes and Eric Pauley and Gang Tan and Patrick McDaniel},
@@ -81,7 +81,9 @@
   Title                    = {Extending Detection with Privileged Information via Generalized Distillation},
   Author                   = {Z. Berkay Celik and Patrick McDaniel},
   Booktitle                = {IEEE Security \& Privacy Workshop on Deep Learning and Security (IEEE S\&P DLS)},
-  Year                     = {2018}
+  Year                     = {2018},
+
+  Url                      = {https://beerkay.github.io/papers/Celik18_IEEE_DLS.pdf}
 }
 
 @Article{berkay2017MalwareModellingJDMS,
