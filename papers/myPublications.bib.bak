@@ -37,10 +37,10 @@
   Url                      = {https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-celik.pdf}
 }
 
-@InProceedings{berkay2019ACMCSUR,
+@Article{berkay2019ACMCSUR,
   Title                    = {Program Analysis of Commodity IoT Applications for Security and Privacy: Opportunities and Challenges},
   Author                   = {Z. Berkay Celik and Earlence Fernandes and Eric Pauley and Gang Tan and Patrick McDaniel},
-  Booktitle                = {ACM Computing Surveys (CSUR)},
+  Journal                  = {ACM Computing Surveys (CSUR)},
   Year                     = {2019},
 
   Comment                  = {Conditionally Accepted},
