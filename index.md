@@ -3,6 +3,11 @@ layout: default_minimal_2col
 title: Home
 notitle: true
 ---
+### Recent News
+I will join the [Department of Computer Science](https://www.cs.purdue.edu/) department at [Purdue University](https://www.purdue.edu/) as an assistant professor in the Fall 2019. 
+
+- If you are interested in joining my research group, please fill the following [form](https://forms.gle/dwXkUCKx2XxWuQW67) and apply to the [CS](https://www.cs.purdue.edu/graduate/admission/steps.html) program.
+
 ### About Me
 I am a research assistant in the Department of Electrical Engineering and Computer Science at the Pennsylvania State University working with [Prof. Patrick McDaniel](http://www.patrickmcdaniel.org/) and lead graduate student of the [Systems and Internet Infrastructure Security Lab (SIIS)](http://siis.cse.psu.edu/people.html). During my Msc. studies, I worked with [Prof. George Kesidis](http://www.cse.psu.edu/~gik2/) and [Prof. David J. Miller](http://www.ee.psu.edu/directory/FacultyInfo/Miller/MillerProfilePage.aspx). My research was on machine learning (ML) systems and network security. Previously I worked at [VMware](https://www.vmware.com/) evaluating the security of VMware software source code, [Vencore Labs](https://www.perspectalabs.com/) building ML systems under privileged information, and [Istanbul Technical University](http://www.itu.edu.tr/en/) doing research on feature engineering for malware detection.
 
