@@ -33,7 +33,7 @@ I am a research assistant in the Department of Electrical Engineering and Comput
 
 ### Publications (Selected)
 
-<img src="https://raw.github.com/secure-software-engineering/DroidBench/develop/new.gif"/>[Program Analysis of Commodity IoT Applications for Security and Privacy: Opportunities and Challenges](https://arxiv.org/pdf/1809.06962.pdf)
+[Program Analysis of Commodity IoT Applications for Security and Privacy: Opportunities and Challenges](https://arxiv.org/pdf/1809.06962.pdf)
 **Z. Berkay Celik**, Earlence Fernandes, Eric Pauley, Gang Tan, and Patrick McDaniel<br />
 In ACM Computing Surveys (CSUR), 2019<br />
 
