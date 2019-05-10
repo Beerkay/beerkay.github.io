@@ -7,7 +7,7 @@ notitle: true
 ### News
 ##### 2019
 - [Verifying IoT Safety and Security in Physical Spaces](https://beerkay.github.io/) is accepted to IEEE Security and Privacy Magazine'19 (will be available soon).
-- [Program Analysis of Commodity IoT Application for Security and Privacy: Opportunities and Challenges](https://arxiv.org/pdf/1809.06962.pdf) is conditionally accepted to ACM Computing Surveys (CSUR'19).
+- [Program Analysis of Commodity IoT Application for Security and Privacy: Opportunities and Challenges](https://arxiv.org/pdf/1809.06962.pdf) is accepted to ACM Computing Surveys (CSUR'19).
 - I'm serving on the program committee of [Conference on Uncertainty in Artificial Intelligence (UAI)'19](http://auai.org/uai2019/).
 - I gave a talk on IoT Security and Privacy at University of Florida (host: [Dr. Kevin Butler](https://cise.ufl.edu/~butler/) and [Dr. Patrick Traynor](https://www.cise.ufl.edu/~traynor/))
 - [IoTGuard: Dynamic Enforcement of Security and Safety Policy in Commodity IoT](https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_07A-1_Celik_paper.pdf) is accepted to NDSS'19. 

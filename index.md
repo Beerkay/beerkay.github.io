@@ -4,7 +4,7 @@ title: Home
 notitle: true
 ---
 ### Recent News
-<img src="https://raw.github.com/secure-software-engineering/DroidBench/develop/new.gif"/> I will join the [Department of Computer Science](https://www.cs.purdue.edu/) at [Purdue University](https://www.purdue.edu/) as an assistant professor beginning Fall 2019.  If you are interested in joining my research group, please fill the following [form](https://forms.gle/dwXkUCKx2XxWuQW67) and apply to the [CS](https://www.cs.purdue.edu/graduate/admission/steps.html) program.
+<img src="https://raw.github.com/secure-software-engineering/DroidBench/develop/new.gif"/> I will join the [Department of Computer Science](https://www.cs.purdue.edu/) at [Purdue University](https://www.purdue.edu/) as an assistant professor beginning Fall 2019. If you are interested in joining my research group, please fill the following [form](https://forms.gle/dwXkUCKx2XxWuQW67) and apply to the [CS](https://www.cs.purdue.edu/graduate/admission/steps.html) program.
 
 ### About Me
 I am a research assistant in the Department of Electrical Engineering and Computer Science at the Pennsylvania State University working with [Prof. Patrick McDaniel](http://www.patrickmcdaniel.org/) and lead graduate student of the [Systems and Internet Infrastructure Security Lab (SIIS)](http://siis.cse.psu.edu/people.html). During my Msc. studies, I worked with [Prof. George Kesidis](http://www.cse.psu.edu/~gik2/) and [Prof. David J. Miller](http://www.ee.psu.edu/directory/FacultyInfo/Miller/MillerProfilePage.aspx). My research was on machine learning (ML) systems and network security. Previously I worked at [VMware](https://www.vmware.com/) evaluating the security of VMware software source code, [Vencore Labs](https://www.perspectalabs.com/) building ML systems under privileged information, and [Istanbul Technical University](http://www.itu.edu.tr/en/) doing research on feature engineering for malware detection.
@@ -14,7 +14,7 @@ I am a research assistant in the Department of Electrical Engineering and Comput
 
 ### News
 - [Verifying IoT Safety and Security in Physical Spaces](https://beerkay.github.io/) is accepted to IEEE Security and Privacy Magazine'19 (will be available soon).
-- [Program Analysis of Commodity IoT Application for Security and Privacy: Opportunities and Challenges](https://arxiv.org/pdf/1809.06962.pdf) is conditionally accepted to ACM Computing Surveys (CSUR'19).
+- [Program Analysis of Commodity IoT Application for Security and Privacy: Opportunities and Challenges](https://arxiv.org/pdf/1809.06962.pdf) is accepted to ACM Computing Surveys (CSUR'19).
 - I'm serving on the program committee of [Conference on Uncertainty in Artificial Intelligence (UAI)'19](http://auai.org/uai2019/).
 - [IoTGuard: Dynamic Enforcement of Security and Safety Policy in Commodity IoT](https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_07A-1_Celik_paper.pdf) is accepted to NDSS'19. 
 - [Curie: Policy-based Secure Data Exchange](https://arxiv.org/pdf/1702.08342.pdf) is accepted to CODASPY'19.
@@ -33,6 +33,10 @@ I am a research assistant in the Department of Electrical Engineering and Comput
 
 ### Publications (Selected)
 
+<img src="https://raw.github.com/secure-software-engineering/DroidBench/develop/new.gif"/>[Program Analysis of Commodity IoT Applications for Security and Privacy: Opportunities and Challenges](https://arxiv.org/pdf/1809.06962.pdf)
+**Z. Berkay Celik**, Earlence Fernandes, Eric Pauley, Gang Tan, and Patrick McDaniel<br />
+In ACM Computing Surveys (CSUR), 2019<br />
+
 [IoTGuard: Dynamic Enforcement of Security and Safety Policy in Commodity IoT](https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_07A-1_Celik_paper.pdf)<br />
 **Z. Berkay Celik**, Gang Tan, and Patrick McDaniel<br />
 Proceedings of the Network and Distributed System Security Symposium (NDSS), 2019<br />
@@ -44,7 +48,7 @@ Proceedings of the ACM Conference on Data and Applications Security (CODASPY), 2
 Acceptance Rate: 23.5% <br />
 
 [Soteria: Automated IoT Safety and Security Analysis](https://www.usenix.org/system/files/conference/atc18/atc18-celik.pdf)<br />
-**Z. Berkay Celik**, Patrick McDaniel and Gang Tan<br />
+**Z. Berkay Celik**, Patrick McDaniel, and Gang Tan<br />
 Proceedings of the USENIX Annual Technical Conference (USENIX ATC), 2018<br />
 Acceptance Rate: 19% <br />
 <img src="https://raw.github.com/secure-software-engineering/DroidBench/develop/new.gif"/>[[Slides]](https://www.usenix.org/sites/default/files/conference/protected-files/atc18_slides_celik.pdf) [[Slides for Usenix HotSec'18]](https://www.usenix.org/sites/default/files/conference/protected-files/hotsec18_slides_celik.pdf)
@@ -98,7 +102,8 @@ Acceptance Rate: 17.3%
 
 
 <!---
-Posters missing, Reviewlari mutlaka ekle.
+Posters missing:
+<a href="/personal/files/Berkay-Celik-Resume.pdf">Curriculum Vitae</a><br/>
 ### Posters
 ## DLS
 ## CRA

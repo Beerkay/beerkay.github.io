@@ -58,6 +58,7 @@ notitle: true
 ---
 
 ### Professional Activities
+* 2019, Program Committee Member for Workshop on Machine Learning for Security and Cryptography (Colocated with IEEE PIMRC)
 * 2019, Program Committee Member for Conference on Uncertainty in Artificial Intelligence (UAI)
 * 2019, Program Committee Member for AsiaCCS
 * 2018, Program Committee Member for NIPS Workshop on Security in Machine Learning
