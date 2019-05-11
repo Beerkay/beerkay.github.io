@@ -5,7 +5,6 @@ notitle: true
 ---
 ### Recent News
 <img src="https://raw.github.com/secure-software-engineering/DroidBench/develop/new.gif"/> I will be joining the [Department of Computer Science](https://www.cs.purdue.edu/) at [Purdue University](https://www.purdue.edu/) as an assistant professor beginning Fall 2019. 
-
 - If you are interested in joining my research group, please fill the following [form](https://forms.gle/dwXkUCKx2XxWuQW67) and apply to the [CS](https://www.cs.purdue.edu/graduate/admission/steps.html) program.
 - <span style="color:red">**To students at Purdue:**</span> There are research opportunities for undergraduate and graduate students interested in security of Internet of Things and Cyber-Physical Systems and security and privacy in Machine Learning Systems. Please email me for details.
 
@@ -36,7 +35,7 @@ I am a research assistant in the Department of Electrical Engineering and Comput
 
 ### Publications (Selected)
 
-[Program Analysis of Commodity IoT Applications for Security and Privacy: Opportunities and Challenges](https://arxiv.org/pdf/1809.06962.pdf)
+[Program Analysis of Commodity IoT Applications for Security and Privacy: Opportunities and Challenges](https://arxiv.org/pdf/1809.06962.pdf)<br />
 **Z. Berkay Celik**, Earlence Fernandes, Eric Pauley, Gang Tan, and Patrick McDaniel<br />
 In ACM Computing Surveys (CSUR), 2019<br />
 
