@@ -13,7 +13,7 @@
 
 @InProceedings{BerkayCurieCODASPY,
   Title                    = {Curie: Policy-based Secure Data Exchange},
-  Author                   = {Z. Berkay Celik and Abbas Acar Hidayet Aksu and Ryan Sheatsley and A. Selcuk Uluagac and Patrick McDaniel},
+  Author                   = {Z. Berkay Celik and Abbas Acar and Hidayet Aksu and Ryan Sheatsley and A. Selcuk Uluagac and Patrick McDaniel},
   Booktitle                = {ACM Conference on Data and Applications Security (CODASPY)},
   Year                     = {2019},
 
