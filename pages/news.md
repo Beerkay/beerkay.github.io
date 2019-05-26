@@ -21,7 +21,7 @@ notitle: true
 - I gave a talk on IoT Security and Privacy at Worcester Polytechnic University (host: [Dr. Berk Sunar](https://www.wpi.edu/people/faculty/sunar))
 - My talk on Program Analysis of IoT implementations for Security and Privacy is awarded **the most amusing** talk at [USENIX Security HoTSec'18](https://www.usenix.org/conference/hotsec18/summit-program).
 - I will give a lightning talk on Automated IoT Safety and Security Analysis at [USENIX Security'18](https://www.usenix.org/conference/usenixsecurity18/activities#lightning).
-- [Mission-oriented Security Model, Incorporating Security Risk, Cost and Payout](http://securecomm.org/full-program/) is received **best paper** award at SecureComm'18.
+- [Mission-oriented Security Model, Incorporating Security Risk, Cost and Payout](http://www.cse.psu.edu/~trj1/papers/securecomm18.pdf) is received **best paper** award at SecureComm'18.
 - I will give a lightning talk on Program Analysis of IoT Applications for Security and Privacy at [USENIX HotSec'18](https://www.usenix.org/conference/hotsec18).
 - [Soteria: Automated IoT Safety and Security Analysis](https://arxiv.org/pdf/1805.08876.pdf) is accepted to USENIX ATC'18.
 - I gave a talk on IoT Security and Privacy at Northeastern University (host [Dr. Engin Kirda](http://www.ccs.neu.edu/home/ek/))
