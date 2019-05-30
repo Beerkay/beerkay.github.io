@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on Academic</title>
-    <link>/authors/</link>
-    <description>Recent content in Authors on Academic</description>
+    <title>Authors on Z. Berkay Celik -- Purdue University Computer Science</title>
+    <link>https://beerkay.github.io/authors/</link>
+    <description>Recent content in Authors on Z. Berkay Celik -- Purdue University Computer Science</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://beerkay.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>/authors/admin/</link>
+      <link>https://beerkay.github.io/authors/admin/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>/authors/admin/</guid>
+      <guid>https://beerkay.github.io/authors/admin/</guid>
       <description>I am a research assistant in the Department of Electrical Engineering and Computer Science at the Pennsylvania State University working with Prof. Patrick McDaniel and lead graduate student of the Systems and Internet Infrastructure Security Lab (SIIS). During my Msc. studies, I worked with Prof. George Kesidis and Prof. David J. Miller. My research was on machine learning (ML) systems and network security. Previously I worked at VMware evaluating the security of VMware software source code, Vencore Labs building ML systems under privileged information, and Istanbul Technical University doing research on feature engineering for malware detection.</description>
     </item>
     
     <item>
       <title>Robert Ford</title>
-      <link>/authors/robert-ford/</link>
+      <link>https://beerkay.github.io/authors/robert-ford/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>/authors/robert-ford/</guid>
+      <guid>https://beerkay.github.io/authors/robert-ford/</guid>
       <description></description>
     </item>
     
