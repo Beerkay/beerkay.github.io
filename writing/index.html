@@ -1,0 +1,686 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 4.3.1">
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Z. Berkay Celik">
+
+  
+  
+  
+    
+  
+  <meta name="description" content="Z. Berkay Celik Purdue University Department of Computer Science">
+
+  
+  <link rel="alternate" hreflang="en-us" href="https://beerkay.github.io/writing/">
+
+  
+
+
+  
+
+  
+  
+  
+  <meta name="theme-color" content="#2962ff">
+  
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.0/css/all.css" integrity="sha384-aOkxzJ5uQz7WBObEZcHvV5JvRW3TUc2rNPA7pe3AwnsUohiw1Vj2Rgx2KSOkF5+h" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+        
+      
+    
+
+    
+
+    
+
+  
+
+  
+  
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Montserrat:400,700|Roboto:400,400italic,700|Roboto+Mono">
+  
+
+  
+  
+  
+  <link rel="stylesheet" href="/css/academic.min.4ccc81dabfd178adc36bb3adca5c0148.css">
+
+  
+
+  
+  
+    <script>
+      window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+      ga('create', 'UA-56069371-2', 'auto');
+      
+      ga('require', 'eventTracker');
+      ga('require', 'outboundLinkTracker');
+      ga('require', 'urlChangeTracker');
+      ga('send', 'pageview');
+    </script>
+    <script async src="//www.google-analytics.com/analytics.js"></script>
+    
+    <script async src="https://cdnjs.cloudflare.com/ajax/libs/autotrack/2.4.1/autotrack.js" integrity="sha512-HUmooslVKj4m6OBu0OgzjXXr+QuFYy/k7eLI5jdeEy/F4RSgMn6XRWRGkFi5IFaFgy7uFTkegp3Z0XnJf3Jq+g==" crossorigin="anonymous"></script>
+    
+  
+  
+
+  
+  <link rel="alternate" href="/writing/index.xml" type="application/rss+xml" title="">
+  <link rel="feed" href="/writing/index.xml" type="application/rss+xml" title="">
+  
+
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="icon" type="image/png" href="/img/icon.png">
+  <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
+
+  <link rel="canonical" href="https://beerkay.github.io/writing/">
+
+  
+  
+  
+  
+    
+  
+  <meta property="twitter:card" content="summary_large_image">
+  
+  <meta property="twitter:site" content="@ZBerkayCelik">
+  <meta property="twitter:creator" content="@ZBerkayCelik">
+  
+  <meta property="og:site_name" content="">
+  <meta property="og:url" content="https://beerkay.github.io/writing/">
+  <meta property="og:title" content=" | ">
+  <meta property="og:description" content="Z. Berkay Celik Purdue University Department of Computer Science"><meta property="og:image" content="https://beerkay.github.io/img/BerkayAtPurduCs.png">
+  <meta property="og:locale" content="en-us">
+  
+  <meta property="og:updated_time" content="2018-04-20T00:00:00&#43;00:00">
+  
+
+  
+
+  
+
+  <title> | </title>
+
+</head>
+<body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+
+<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0" id="navbar-main">
+  <div class="container">
+
+    
+      <a class="navbar-brand" href="/"></a>
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+        <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+    
+    <div class="collapse navbar-collapse" id="navbar">
+
+      
+      
+      <ul class="navbar-nav mr-auto">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#about">
+            
+            <span>Home</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/research">
+            
+            <span>Research</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#publications">
+            
+            <span>Publications</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#teaching">
+            
+            <span>Teaching</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/personal">
+            
+            <span>Activities</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/personal">
+            
+            <span>Writing</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/personal">
+            
+            <span>Personal</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+      
+
+        
+
+        
+
+        
+
+        
+
+      </ul>
+
+    </div>
+  </div>
+</nav>
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+    
+  
+<div class="universal-wrapper pt-3">
+  <h1 itemprop="name"></h1>
+
+  
+
+  
+</div>
+
+
+
+<div class="universal-wrapper">
+  
+  <div class="article-style" itemprop="articleBody">
+
+<h4 id="may-2018">May 2018</h4>
+
+<p><strong>IoT Security and Privacy Reading List:</strong> From time to time I receive emails asking how to start studying IoT security and privacy. I and my colleague, Xiaolei Wang, have grouped a collection of papers that we recommend reading for those interested in IoT security and privacy (including trigger-action platforms and voice-controlled devices). If you have any suggestions, please send a <a href="https://github.com/Beerkay/IoTResearch" target="_blank">pull request</a>.</p>
+
+<h5 id="first-depth-study-on-iot-security">First depth study on IoT Security</h5>
+
+<ul>
+<li>2016, IEEE S&amp;P, <a href="http://iotsecurity.eecs.umich.edu/img/Fernandes_SmartThingsSP16.pdf" target="_blank">Security Analysis of Emerging Smart Home Applications</a></li>
+</ul>
+
+<h5 id="sensitive-information-flow-tracking">Sensitive Information Flow Tracking</h5>
+
+<ul>
+<li>2016, USENIX Security, <a href="https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_fernandes.pdf" target="_blank">FlowFence: Practical Data Protection for Emerging IoT Application Frameworks</a></li>
+<li>2018, USENIX Security, <a href="https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-celik.pdf" target="_blank">Sensitive Information Tracking in Commodity IoT</a></li>
+</ul>
+
+<h5 id="access-control">Access Control</h5>
+
+<ul>
+<li>2017, NDSS, <a href="https://amir.rahmati.com/dl/ndss17/ContexIoT_NDSS17.pdf" target="_blank">ContexIoT: Towards Providing Contextual Integrity to Appified IoT Platforms</a></li>
+<li>2017, USENIX Security, <a href="https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-tian.pdf" target="_blank">SmartAuth: User-Centered Authorization for the Internet of Things</a></li>
+<li>2017, Access Control Models, <a href="http://www.corelab.or.kr/Pubs/sacmat17_fact.pdf" target="_blank">FACT: Functionality-centric Access Control System for IoT Programming Frameworks</a></li>
+<li>2018, USENIX Security, <a href="https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-he.pdf" target="_blank">Rethinking Access Control and Authentication for the Home Internet of Things (IoT)</a></li>
+<li>2018, IEEE SecDev, <a href="https://arxiv.org/pdf/1801.04609" target="_blank">Tyche: Risk-Based Permissions for Smart Home Platforms</a></li>
+</ul>
+
+<h5 id="safety-and-security-violation-identification-and-enforcement">Safety and Security Violation Identification and Enforcement</h5>
+
+<ul>
+<li>2019, NDSS, <a href="https://github.com/Beerkay/IoTResearch" target="_blank">IoTGuard: Dynamic Enforcement of Security and Safety Policy in Commodity IoT</a>(will be available soon)</li>
+<li>2018, USENIX ATC, <a href="https://www.usenix.org/system/files/conference/atc18/atc18-celik.pdf" target="_blank">Soteria: Automated IoT Safety and Security Analysis</a></li>
+<li>2018, CoNEXT, <a href="https://arxiv.org/pdf/1810.09551.pdf" target="_blank">IoTSAN: Fortifying the Safety of IoT Systems</a></li>
+<li>2018, CCS, <a href="https://wding.people.clemson.edu/papers/ccs-2018iotmon.pdf" target="_blank">On the Safety of IoT Device Physical Interaction Control</a></li>
+</ul>
+
+<h5 id="vulnerability-mining">Vulnerability Mining</h5>
+
+<ul>
+<li>2018, NDSS, <a href="http://web.cse.ohio-state.edu/~lin.3021/file/NDSS18b.pdf" target="_blank">IoTFuzzer: Discovering Memory Corruptions in IoT Through App-based Fuzzing</a></li>
+</ul>
+
+<h5 id="forensics">Forensics</h5>
+
+<ul>
+<li>2018, NDSS, <a href="http://seclab.illinois.edu/wp-content/uploads/2017/12/wang2018fear.pdf" target="_blank">Fear and Logging in the Internet of Things</a></li>
+</ul>
+
+<h5 id="iot-malware">IoT Malware</h5>
+
+<ul>
+<li>2018, IEEE S&amp;P, <a href="https://rud.is/dl/ieee-sp-2018/435301a870.pdf" target="_blank">Understanding Linux Malware</a> *</li>
+</ul>
+
+<h5 id="fault-detection-and-evaluation">Fault Detection and Evaluation</h5>
+
+<ul>
+<li>2018, DSN, <a href="https://ieeexplore.ieee.org/document/8416520/" target="_blank">Detecting and Identifying Faulty IoT Devices in Smart Home with Context Extraction</a></li>
+</ul>
+
+<h5 id="privacy-inference-via-sensors-and-defenses">Privacy Inference via Sensors and Defenses</h5>
+
+<ul>
+<li>2018, arXiv, <a href="https://arxiv.org/pdf/1808.02741" target="_blank">Peek-a-Boo: I see your smart home activities even encrypted</a></li>
+<li>2018, arXiv, <a href="https://arxiv.org/pdf/1705.06809.pdf" target="_blank">Closing the Blinds: Four Strategies for Protecting Smart Home Privacy from Network Observers</a></li>
+<li>2018, arXiv, <a href="https://arxiv.org/pdf/1808.07432.pdf" target="_blank">A Developer-Friendly Library for Smart Home IoT Privacy Preserving Traffic Obfuscation</a></li>
+<li>2017, arXiv, <a href="https://arxiv.org/pdf/1708.05044.pdf" target="_blank">Spying on the Smart Home Privacy Attacks and Defenses on Encrypted IoT Traffic</a></li>
+<li>2017, arXiv, <a href="https://faculty.washington.edu/lagesse/publications/HiddenSensorDetection.pdf" target="_blank">Detecting Spies in IoT Systems using Cyber-Physical Correlation</a></li>
+</ul>
+
+<h5 id="attacks-against-voice-control">Attacks against Voice Control</h5>
+
+<ul>
+<li>2018, arXiv, <a href="https://arxiv.org/pdf/1805.01525.pdf" target="_blank">Understanding and Mitigating the Security Risks of Voice-Controlled Third-Party Skills on Amazon Alexa and Google Home</a></li>
+<li>2018, arXiv, <a href="https://arxiv.org/pdf/1808.05665.pdf" target="_blank">Adversarial Attacks Against Automatic Speech Recognition Systems via Psychoacoustic Hiding</a></li>
+<li>2018, arXiv, <a href="https://arxiv.org/pdf/1801.08535.pdf" target="_blank">CommanderSong: A Systematic Approach for Practical Adversarial Voice Recognition</a></li>
+<li>2018, arXiv, <a href="https://arxiv.org/pdf/1808.01947.pdf" target="_blank">Nonsense Attacks on Google Assistant</a></li>
+</ul>
+
+<h5 id="trigger-action-platform-measurement-and-security-analysis">Trigger-action Platform Measurement and Security Analysis</h5>
+
+<ul>
+<li>2016, CHI, <a href="https://par.nsf.gov/servlets/purl/10026427" target="_blank">Trigger-Action Programming in the Wild: An Analysis of 200,000 IFTTT Recipes</a></li>
+<li>2017, WWW, <a href="http://www.andrew.cmu.edu/user/liminjia/research/papers/ifttt-info-flows-www2017.pdf" target="_blank">Some Recipes Can Do More Than Spoil Your Appetite Analyzing the Security and Privacy Risks of IFTTT Recipes</a></li>
+<li>2017, arXiv, <a href="https://arxiv.org/pdf/1808.02741" target="_blank">IFTTT vs. Zapier A Comparative Study of Trigger-Action Programming Frameworks</a></li>
+<li>2017, IMC, <a href="https://conferences.sigcomm.org/imc/2017/papers/imc17-final41.pdf" target="_blank">An Empirical Characterization of IFTTT Ecosystem, Usage, and Performance</a></li>
+<li>2018, NDSS, <a href="http://earlence.com/assets/papers/dtap_ndss18.pdf" target="_blank">Decentralized Action Integrity for Trigger-Action IoT Platforms</a></li>
+</ul>
+
+<h5 id="iot-test-suite">IoT Test Suite</h5>
+
+<ul>
+<li>2018, <a href="https://github.com/IoTBench/IoTBench-test-suite" target="_blank">IoTBench: A micro-benchmark suite to assess the effectiveness of tools designed for IoT apps</a></li>
+</ul>
+
+<h5 id="iot-surveys">IoT Surveys</h5>
+
+<ul>
+<li>2019, arXiv, <a href="https://arxiv.org/pdf/1809.06962.pdf" target="_blank">Program Analysis of Commodity IoT Applications for Security and Privacy: Challenges and Opportunities</a></li>
+<li>2019, IEEE S&amp;P, <a href="https://www.computer.org/csdl/proceedings/sp/2019/6660/00/666001a208-abs.html" target="_blank">SoK: Security Evaluation of Home-Based IoT Deployments</a></li>
+<li>2018, arXiv, <a href="https://arxiv.org/pdf/1805.05853.pdf" target="_blank">IoT Security: An End-to-End View and Case Study</a></li>
+<li>2017, arXiv, <a href="https://arxiv.org/pdf/1807.11023.pdf" target="_blank">A Survey of Machine and Deep Learning Methods for Internet of Things (IoT) Security</a></li>
+<li>2017, arXiv, <a href="https://arxiv.org/pdf/1703.09809.pdf" target="_blank">Understanding IoT Security Through the Data Crystal Ball: Where We Are Now and Where We Are Going to Be</a></li>
+<li>2017, IEEE S&amp;P Magazine, <a href="https://arxiv.org/pdf/1705.08522.pdf" target="_blank">Internet of Things Security Research: A Rehash of Old Ideas or New Intellectual Challenges</a></li>
+<li>2018, BlackHat, <a href="https://i.blackhat.com/us-18/Thu-August-9/us-18-Costin-Zaddach-IoT-Malware-Comprehensive-Survey-Analysis-Framework-and-Case-Studies-wp.pdf" target="_blank">IoT Malware: Comprehensive Survey, Analysis Framework and Case Studies</a></li>
+<li>2018, arXiv, <a href="https://arxiv.org/pdf/1802.02041.pdf" target="_blank">A Survey on Sensor-based Threats to Internet-of-Things (IoT) Devices and Applications</a></li>
+</ul>
+</div>
+  
+
+  
+  
+
+  
+
+</div>
+<div class="container">
+  <footer class="site-footer">
+  
+
+  <p class="powered-by">
+    
+
+    Powered by the
+    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+
+    
+    <span class="float-right" aria-hidden="true">
+      <a href="#" id="back_to_top">
+        <span class="button_icon">
+          <i class="fas fa-chevron-up fa-2x"></i>
+        </span>
+      </a>
+    </span>
+    
+  </p>
+</footer>
+
+</div>
+
+
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+    
+
+    
+    
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
+
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/highlight.min.js" integrity="sha256-aYTdUrn6Ow1DDgh5JTc3aDGnnju48y/1c8s1dgkYPQ8=" crossorigin="anonymous"></script>
+        
+      
+
+      
+      
+    
+
+    
+    
+
+    
+    
+    
+
+    
+    
+    <script>hljs.initHighlightingOnLoad();</script>
+    
+
+    
+
+    
+    
+
+    
+
+    
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <script src="/js/academic.min.8834801a505187ca6c5c1fd80508d016.js"></script>
+
+  </body>
+</html>
+
