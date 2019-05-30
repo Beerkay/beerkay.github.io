@@ -460,7 +460,7 @@
 
 <p><a href="https://www.usenix.org/system/files/conference/atc18/atc18-celik.pdf" target="_blank">Soteria</a> is a static analysis system to verify whether an IoT app or IoT environment (collection of apps working in concert) adheres to relevant safety, security, and functional properties. Soteria leverages the structured nature of IoT apps to extract a state model (finite state machine) of the IoT implementation by analyzing its source code. With Soteria, we demonstrated that many apps violate safety and security properties when used in isolation and when used together in multi-app environments. This work was presented in USENIX ATC&rsquo;18.</p>
 
-<p>In a more recent work, we have developed a second system called <a href="https://beerkay.github.io/" target="_blank">IoTGuard</a>, a dynamic system for policy enforcement on IoT devices. IoTGuard adds extra logic to an application source code to collect the application&rsquo;s information at runtime. It then stores this information in a dynamic model that represents the runtime execution behavior of applications. Lastly, it enforces identified policies on the dynamic model of individual applications or sets of interacting applications. We designed two mechanisms to enforce these policies. The first mechanism blocks the device action(s) that causes the policy violation, and the second mechanism enables users to approve or deny the policy violation through runtime prompts. This work is recently accepted to NDSS&rsquo;19 and will be available online soon. Through Soteria and IoTGuard, we have demonstrated that policy-based validation and enforcement in physical spaces could be effectively realized in IoT and CPS systems.</p>
+<p>In a more recent work, we have developed a second system called <a href="https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_07A-1_Celik_paper.pdf" target="_blank">IoTGuard</a>, a dynamic system for policy enforcement on IoT devices. IoTGuard adds extra logic to an application source code to collect the application&rsquo;s information at runtime. It then stores this information in a dynamic model that represents the runtime execution behavior of applications. Lastly, it enforces identified policies on the dynamic model of individual applications or sets of interacting applications. We designed two mechanisms to enforce these policies. The first mechanism blocks the device action(s) that causes the policy violation, and the second mechanism enables users to approve or deny the policy violation through runtime prompts. This work is recently accepted to NDSS&rsquo;19 and will be available online soon. Through Soteria and IoTGuard, we have demonstrated that policy-based validation and enforcement in physical spaces could be effectively realized in IoT and CPS systems.</p>
 
 <p>The third system is <a href="https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-celik.pdf" target="_blank">Saint</a>, the first static taint tracking tool that finds sensitive data leaks in IoT applications by tracking information flows from taint sources (e.g., device state (door locked/unlocked)) to taint sinks (e.g., Internet and messaging services). Through this effort, we introduced a rigorously grounded framework for evaluating the use of sensitive information in IoT apps–and therein provide developers, markets, and consumers a means of identifying potential threats to security and privacy. This work appeared in USENIX Security Symposium&rsquo;18.</p>
 
@@ -468,9 +468,11 @@
 
 <p>My colleague, Xiaolei Wang and I created <a href="https://github.com/Beerkay/IoTResearch/blob/master/README.md" target="_blank">a collection of papers</a> we recommend reading for those interested in studying Internet of Things security and privacy.</p>
 
-<p>** My Usenix Security&rsquo;18 talk on Sensitive Information Tracking in Commodity IoT **</p>
+<p align="center"> 
+<img src="/img/IoTResearch/saintTalk.png" width="300" height="300" />
+</p>
 
-<p><a href="https://www.youtube.com/watch?v=ggsoDoOBdTo" title="Sensitive Information Tracking in Commodity IoT" target="_blank"><img src="/img/IoTResearch/saintTalk.png" alt="Sensitive Information Tracking in Commodity IoT" /></a></p>
+<p><a href="https://www.youtube.com/watch?v=ggsoDoOBdTo" target="_blank">My Usenix Security&rsquo;18 talk on Sensitive Information Tracking in Commodity IoT</a></p>
 
 <h4 id="machine-learning-in-adversarial-settings">Machine Learning in Adversarial Settings</h4>
 
