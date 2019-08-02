@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
+    <title>Z. Berkay Celik-Purdue CS</title>
     <link>https://beerkay.github.io/authors/admin/</link>
-    <description>Recent content on </description>
+    <description>Recent content on Z. Berkay Celik-Purdue CS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
@@ -62,7 +62,7 @@
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>https://beerkay.github.io/authors/admin/</guid>
-      <description>I am a research assistant in the Department of Electrical Engineering and Computer Science at the Pennsylvania State University working with Prof. Patrick McDaniel and lead graduate student of the Systems and Internet Infrastructure Security Lab (SIIS). During my Msc. studies, I worked with Prof. George Kesidis and Prof. David J. Miller. My research was on machine learning (ML) systems and network security. Previously I worked at VMware evaluating the security of VMware software source code, Vencore Labs building ML systems under privileged information, and Istanbul Technical University doing research on feature engineering for malware detection.</description>
+      <description>I am an Assistant Professor in the Department of Computer Science at Purdue University. I earned my Ph.D. in Computer Science and Engineering from the Pennsylvania State University in 2019. My research investigates the design and evaluation of security for software and systems, specifically on emerging computing platforms and the complex environments in which they operate. Through systems design and program analysis, my research seeks to improve security and privacy guarantees in commodity computer systems.</description>
     </item>
     
   </channel>
