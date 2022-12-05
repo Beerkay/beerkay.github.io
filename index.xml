@@ -12,760 +12,378 @@
     
     
     <item>
-      <title>Example Page 1</title>
-      <link>https://beerkay.github.io/courses/example/example1/</link>
-      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <title>Research</title>
+      <link>https://beerkay.github.io/research/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://beerkay.github.io/courses/example/example1/</guid>
-      <description>
-
-&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
-
-&lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
-
-&lt;h2 id=&#34;tip-2&#34;&gt;Tip 2&lt;/h2&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+      <guid>https://beerkay.github.io/research/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve had the opportunity to work on a number of interesting research projects during my Msc. and PhD. studies. I have developed new analysis tools and algorithms for emerging applications, built robust detection systems against sophisticated malware, designed new attacks for machine learning systems, and demonstrated the effectiveness of approaches on real systems. The system-specific core of my research has led to rewarding collaborations with researchers from program analysis, machine learning, networking, secure computation, and optimization. Here is a summary of some of my efforts.&lt;/p&gt;
+&lt;h4 id=&#34;iot-safety-security-and-privacy-analysis&#34;&gt;IoT Safety, Security, and Privacy Analysis&lt;/h4&gt;
+&lt;p&gt;We have developed three systems, Soteria, IoTGuard, and Saint, to analyze IoT implementations and environments for safety, security and privacy, and a toolset for IoT analysis, IoTBench.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.usenix.org/system/files/conference/atc18/atc18-celik.pdf&#34;&gt;Soteria&lt;/a&gt; is a static analysis system to verify whether an IoT app or IoT environment (collection of apps working in concert) adheres to relevant safety, security, and functional properties. Soteria leverages the structured nature of IoT apps to extract a state model (finite state machine) of the IoT implementation by analyzing its source code. With Soteria, we demonstrated that many apps violate safety and security properties when used in isolation and when used together in multi-app environments. This work was presented in USENIX ATC&#39;18.&lt;/p&gt;
+&lt;p&gt;In a more recent work, we have developed a second system called &lt;a href=&#34;https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_07A-1_Celik_paper.pdf&#34;&gt;IoTGuard&lt;/a&gt;, a dynamic system for policy enforcement on IoT devices. IoTGuard adds extra logic to an application source code to collect the application&amp;rsquo;s information at runtime. It then stores this information in a dynamic model that represents the runtime execution behavior of applications. Lastly, it enforces identified policies on the dynamic model of individual applications or sets of interacting applications. We designed two mechanisms to enforce these policies. The first mechanism blocks the device action(s) that causes the policy violation, and the second mechanism enables users to approve or deny the policy violation through runtime prompts. This work is recently accepted to NDSS&#39;19 and will be available online soon. Through Soteria and IoTGuard, we have demonstrated that policy-based validation and enforcement in physical spaces could be effectively realized in IoT and CPS systems.&lt;/p&gt;
+&lt;p&gt;The third system is &lt;a href=&#34;https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-celik.pdf&#34;&gt;Saint&lt;/a&gt;, the first static taint tracking tool that finds sensitive data leaks in IoT applications by tracking information flows from taint sources (e.g., device state (door locked/unlocked)) to taint sinks (e.g., Internet and messaging services). Through this effort, we introduced a rigorously grounded framework for evaluating the use of sensitive information in IoT apps–and therein provide developers, markets, and consumers a means of identifying potential threats to security and privacy. This work appeared in USENIX Security Symposium&#39;18.&lt;/p&gt;
+&lt;p&gt;Lastly, we have introduced &lt;a href=&#34;https://github.com/IoTBench/test-suite&#34;&gt;IoTBench&lt;/a&gt;, an IoT-specific test corpus for evaluating systems designed for IoT app analyses. IoTBench is under continual development and always welcoming contributions.&lt;/p&gt;
+&lt;p&gt;My colleague, Xiaolei Wang and I created &lt;a href=&#34;https://github.com/Beerkay/IoTResearch/blob/master/README.md&#34;&gt;a collection of papers&lt;/a&gt; we recommend reading for those interested in studying Internet of Things security and privacy.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;h4 id=&#34;machine-learning-in-adversarial-settings&#34;&gt;Machine Learning in Adversarial Settings&lt;/h4&gt;
+&lt;p&gt;My collaborators and I investigated how existing training of Machine Learning (ML) models makes them vulnerable to adversarial samples (adversary-crafted inputs that result in misclassification). In our paper, &lt;a href=&#34;https://arxiv.org/pdf/1511.07528.pdf&#34;&gt;The Limitations of Deep Learning in Adversarial Settings&lt;/a&gt;, we formalized the range of threat models on deep learning models and  developed a novel class of adversarial sample generation algorithms based on a precise understanding of the mapping between inputs and outputs of a deep neural network. In later work, &lt;a href=&#34;https://arxiv.org/pdf/1602.02697.pdf&#34;&gt;Practical Black-Box Attacks against Machine Learning&lt;/a&gt;,  my collaborators and I showed that the transferability of adversarial examples across models enables powerful black-box attacks: the adversary may use an auxiliary model to attack a victim model without access to model parameters.&lt;/p&gt;
+&lt;h4 id=&#34;robust-detection-models-under-privileged-information&#34;&gt;Robust Detection Models under Privileged Information&lt;/h4&gt;
+&lt;p&gt;Training of models has been historically limited to only those features available at runtime. In this effort, we ask &amp;ldquo;how can detection systems integrate intelligence relevant to an attack that is available at training time, yet not available at runtime?&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;Consider a rootkit detection system for mobile phones. Obtaining a set of features may drain the battery even though they contribute to the detection of a rootkit. Therefore, the users might disable the system because the battery dies very quickly. However, obtaining these features at training time is feasible as we have unlimited resources in a laboratory-based environment. We built an alternate model construction approach that trains models using &amp;ldquo;privileged&amp;rdquo; information&amp;ndash;features available at training time but not at runtime, yet samples are classified without the need of privileged features at runtime. Turning to rootkit example, the features draining the battery are the privileged features.  We showed that privileged information
+increases precision and recall over a system with no privileged information, including in systems such as fast-flux bot detection, malware traffic detection,  malware classification, face recognition.&lt;/p&gt;
+&lt;p&gt;Our paper is accepted to ACM AsiaCCS&#39;18: &lt;a href=&#34;https://arxiv.org/pdf/1603.09638v4.pdf&#34;&gt;Detection under Privileged Information&lt;/a&gt;. Read more about its formulation and implementation in our &lt;a href=&#34;https://pdfs.semanticscholar.org/3637/5317aa86bea74df9505006377ca6e2ff3488.pdf&#34;&gt;technical report&lt;/a&gt;, and &lt;a href=&#34;https://beerkay.github.io/papers/Celik17_CODASPY_IWSPA.pdf&#34;&gt;Feature Cultivation in Privileged Information-augmented Detection&lt;/a&gt; (invited paper in CODASPY IWSPA workshop).&lt;/p&gt;
+&lt;h4 id=&#34;data-security-and-privacy&#34;&gt;Data Security and Privacy&lt;/h4&gt;
+&lt;p&gt;Users are asked to disclose personal information such as genetic markers, lifestyle habits, and clinical history that is used by statistical models to make accurate predictions in a wide array of applications, including medicine, law, forensics, and social networks.However, due to privacy concerns, users often desire to withhold sensitive information. This self-censorship can impede proper predictions. For instance, in health care models, it may lead to serious health complications. We have developed privacy distillation, a mechanism which allows users to control the type and amount of information they wish to disclose to the providers for use in statistical models. We evaluated privacy distillation in a healthcare model for warfarin dose prediction and found that with sufficient privacy-relevant information privacy distillation retains accuracy almost as good as having all patient data. The capacity afforded by this approach allows us to make accurate predictions in a wide array of applications requiring private inputs.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://arxiv.org/pdf/1611.08648v1.pdf&#34;&gt;Patient-Driven Privacy Control through Generalized Distillation&lt;/a&gt; is accepted to IEEE Privacy-aware computing (PAC) conference, 2016. The use of privacy-sensitive patient data made us develop new algorithms for &lt;a href=&#34;https://arxiv.org/pdf/1707.01871.pdf&#34;&gt;Achieving Secure and Differentially Private Computations in Multiparty Settings&lt;/a&gt;. This paper is also accepted to PAC&#39;16. Lastly, we have developed algorithms that allow members to define data exchange policies in a privacy-preserving collaborative machine learning to dictate their data needs. Our paper &lt;a href=&#34;https://arxiv.org/pdf/1702.08342.pdf&#34;&gt;Curie: Policy-based Secure Data Exchange&lt;/a&gt; is accepted to ACM Conference on Data and Application Security and Privacy (CODASPY), 2019.&lt;/p&gt;
+&lt;h4 id=&#34;network-security&#34;&gt;Network Security&lt;/h4&gt;
+&lt;p&gt;In this effort, we developed a framework that uses tamper-proof features to distinguish malware traffic from traffic generated by legitimate applications. Further, we characterize the evolution of malware evasion techniques over time by examining the behavior of 16 malware families. In particular, we highlight the difficulty of detecting malware that use traffic-shaping techniques to mimic legitimate traffic and demonstrated the challenges in malware detection through traffic analysis. Read more about our study &lt;a href=&#34;https://beerkay.github.io/papers/Celik15_Milcom.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;In our &lt;a href=&#34;https://beerkay.github.io/papers/Celik11_CSET.pdf&#34;&gt;USENIX CSET&lt;/a&gt; and &lt;a href=&#34;https://beerkay.github.io/papers/Celik17_JDMS.pdf&#34;&gt;JDMS&lt;/a&gt; works, my co-authors and I also take a closer look at the experimentation artifacts of malware detection. For instance, we showed that malware detection systems produce unrealistically optimistic results that arise when they mix benign traffic in a domain with attack activity recorded in another domain and designed several statistical sampling algorithms for the problem.&lt;/p&gt;
+&lt;h4 id=&#34;science-of-security&#34;&gt;Science of Security&lt;/h4&gt;
+&lt;p&gt;I am involved in Cyber-Security Collaborative Research Alliance (&lt;a href=&#34;http://cra.psu.edu/&#34;&gt;CSec CRA&lt;/a&gt;) with the Army Research Laboratory, Penn State, Carnegie Mellon, UC Riverside, UC Davis, and Indiana University. Our mandate is to develop a new science of security. As part of this effort, I&amp;rsquo;ve worked on the foundation for representing of operational models for cybersecurity. I developed algorithms &lt;a href=&#34;http://wwwusers.di.uniroma1.it/~novella/myhome/Home_Page_di_Novella_Bartolini/milcom_2016.pdf&#34;&gt;to make optimal decisions in a cyber environment by modeling the current and future states of a cyber-operation&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Example Page 2</title>
-      <link>https://beerkay.github.io/courses/example/example2/</link>
-      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <title>Activities</title>
+      <link>https://beerkay.github.io/activities/</link>
+      <pubDate>Fri, 20 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://beerkay.github.io/courses/example/example2/</guid>
-      <description>
-
-&lt;p&gt;Here are some more tips for getting started with Academic:&lt;/p&gt;
-
-&lt;h2 id=&#34;tip-3&#34;&gt;Tip 3&lt;/h2&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
-
-&lt;h2 id=&#34;tip-4&#34;&gt;Tip 4&lt;/h2&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+      <guid>https://beerkay.github.io/activities/</guid>
+      <description>&lt;h3 id=&#34;chairco-chair&#34;&gt;Chair/Co-Chair&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;2023, Program Co-chair, Symposium on Vehicle Security and Privacy (VehicleSec 2023) (co-located with NDSS)&lt;/li&gt;
+&lt;li&gt;2022, AutoSec (Automotive and Autonomous Vehicle Security) Workshop (co-located with NDSS)&lt;/li&gt;
+&lt;li&gt;2022, Workshop Co-Chair, IEEE Conference on Communications and Network Security (CNS)&lt;/li&gt;
+&lt;li&gt;2018, SecureComm Conference (Web Security Session Chair)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;technical-program-committee&#34;&gt;Technical Program Committee&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;2023, 2022, NDSS&lt;/li&gt;
+&lt;li&gt;2023, IEEE Symposium on Security and Privacy&lt;/li&gt;
+&lt;li&gt;2023, Security and Privacy in Wireless and Mobile Networks (WiSec)&lt;/li&gt;
+&lt;li&gt;2023, 2022, 2021, USENIX Security&lt;/li&gt;
+&lt;li&gt;2023, Secure and Trustworthy Machine Learning (SATML)&lt;/li&gt;
+&lt;li&gt;2022, 2019, CCS Workshop on the Internet of Things Security and Privacy (IoT S&amp;amp;P)&lt;/li&gt;
+&lt;li&gt;2022, IEEE SmartGridComm (Security and Privacy track)&lt;/li&gt;
+&lt;li&gt;2022, IEEE Secure Development Conference (SecDev)&lt;/li&gt;
+&lt;li&gt;2022, Workshop on Internet of Safe Things (co-located with IEEE S&amp;amp;P)&lt;/li&gt;
+&lt;li&gt;2021, CCS (Hardware, Side Channels, and Cyber-Physical Systems Track)&lt;/li&gt;
+&lt;li&gt;2021, ACSAC&lt;/li&gt;
+&lt;li&gt;2021, Workshop on Internet of Safe Things (co-located with IEEE S&amp;amp;P)&lt;/li&gt;
+&lt;li&gt;2021, European Symposium on Research in Computer Security (ESORICS)&lt;/li&gt;
+&lt;li&gt;2020, SecureComm&lt;/li&gt;
+&lt;li&gt;2020, Workshop on Trustworthy ML (co-located with ICLR)&lt;/li&gt;
+&lt;li&gt;2020, European Symposium on Research in Computer Security (ESORICS)&lt;/li&gt;
+&lt;li&gt;2020, 2019, Uncertainty in Artificial Intelligence (UAI)&lt;/li&gt;
+&lt;li&gt;2020, IEEE Computer Security Foundations Symposium (CSF)&lt;/li&gt;
+&lt;li&gt;2019, CCS Workshop on the Internet of Things Security and Privacy (IoT S&amp;amp;P)&lt;/li&gt;
+&lt;li&gt;2019, MILCOM 2019 (Track 3 - Cyber Security and Trusted Computing)&lt;/li&gt;
+&lt;li&gt;2019, Workshop on ML for Security and Cryptography (co-located with IEEE PIMRC)&lt;/li&gt;
+&lt;li&gt;2019, ASIA Conference on Computer and Communications Security (ASIACCS)&lt;/li&gt;
+&lt;li&gt;2018, NIPS Workshop on Security in Machine Learning&lt;/li&gt;
+&lt;li&gt;2018, CCS Poster/Demonstration Session&lt;/li&gt;
+&lt;li&gt;2018, Privacy-Aware Computing Symposium (IEEE PAC)&lt;/li&gt;
+&lt;li&gt;2017, Internet of Things Security and Privacy Workshop (IoT S&amp;amp;P) (co-located with CCS)&lt;/li&gt;
+&lt;li&gt;2017, Cyber-Physical Systems Security Workshop (CPS-Sec) (co-located with CNS)&lt;/li&gt;
+&lt;li&gt;2016, Conference for Military Communications (MILCOM)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;journal-and-external-reviewer&#34;&gt;Journal and External Reviewer&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;2022, 2019, IEEE Transactions on Mobile Computing&lt;/li&gt;
+&lt;li&gt;2022, 2018, 2017, ACM Computing Surveys (CSUR)&lt;/li&gt;
+&lt;li&gt;2022, INFOCOM (External Reviewer on Fuzzing and Explainable AI)&lt;/li&gt;
+&lt;li&gt;2022, IEEE Transactions on Software Engineering&lt;/li&gt;
+&lt;li&gt;2020, 2019, IEEE Transactions on Dependable and Secure Computing&lt;/li&gt;
+&lt;li&gt;2019, IEEE Security &amp;amp; Privacy Magazine&lt;/li&gt;
+&lt;li&gt;2019, ACM Transactions on Internet of Things&lt;/li&gt;
+&lt;li&gt;2019, IEEE Transactions on Neural Networks and Learning Systems&lt;/li&gt;
+&lt;li&gt;2019, 2018, USENIX Security Symposium&lt;/li&gt;
+&lt;li&gt;2019, 2018, 2017, IEEE Symposium on Security and Privacy (S&amp;amp;P)&lt;/li&gt;
+&lt;li&gt;2018, ACM Conference on Computer and Communications Security (CCS)&lt;/li&gt;
+&lt;li&gt;2018, Conference on Decision and Game Theory for Security (GameSec)&lt;/li&gt;
+&lt;li&gt;2018, Neural Information Processing Systems (NIPS)&lt;/li&gt;
+&lt;li&gt;2017, IEEE Security and Privacy Magazine&lt;/li&gt;
+&lt;li&gt;2017, Neural Processing Letters&lt;/li&gt;
+&lt;li&gt;2017, IEEE Transactions on Information Forensics and Security&lt;/li&gt;
+&lt;li&gt;2016, Computers Open Access Journal&lt;/li&gt;
+&lt;li&gt;2016, Journal of Network and Computer Applications (JNCA)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
 </description>
     </item>
     
     <item>
-      <title>Example Talk</title>
-      <link>https://beerkay.github.io/talk/example/</link>
+      <title>Students</title>
+      <link>https://beerkay.github.io/students/</link>
+      <pubDate>Fri, 20 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://beerkay.github.io/students/</guid>
+      <description>&lt;h3 id=&#34;current-students&#34;&gt;Current Students&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://habiba-farrukh.github.io/&#34;&gt;Habiba Farrukh&lt;/a&gt; (PhD)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ozgurozmen.github.io&#34;&gt;M. Ozgur Ozmen&lt;/a&gt; (PhD)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://scholar.google.com.eg/citations?user=rdIzDcEAAAAJ&amp;amp;hl=en&#34;&gt;Reham Aburas&lt;/a&gt; (PhD)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arjunaru97.netlify.app/&#34;&gt;Arjun Arunasalam&lt;/a&gt; (PhD)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://raymond-muller.netlify.app/&#34;&gt;Raymond Muller&lt;/a&gt; (PhD)&lt;/li&gt;
+&lt;li&gt;PhD co-advising:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://ruoyu.bio/&#34;&gt;Ruoyu Song&lt;/a&gt; (PhD) (co-advised by Antonio Bianchi)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://khaled-alsharif.github.io/&#34;&gt;Khaled Serag&lt;/a&gt; (PhD) (co-advised by Dongyan Xu)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://kimhyungsub.github.io/&#34;&gt;Hyungsub Kim&lt;/a&gt; (PhD) (co-advised by Dongyan Xu and Antonio Bianchi)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Msc Students: Jackson Bizjak, Ben Chen, Chandrika Mukherjee, Rwitam Bandyopadhyay&lt;/li&gt;
+&lt;li&gt;Undergraduate Student Researchers: Jason Perry, Varun Gannavarapu, Xueyuan Cao&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;past-students&#34;&gt;Past Students&lt;/h3&gt;
+&lt;h4 id=&#34;supervised-msc-students&#34;&gt;Supervised Msc Students&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://yslin013.github.io/&#34;&gt;Yi-Shan Lin&lt;/a&gt; (Msc)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://mastermjr.com&#34;&gt;Michael Reeves&lt;/a&gt; [Thesis: Investigating Escape Vulnerabilities in Container Runtimes] &amp;ndash; now at Sandia Labs&lt;/li&gt;
+&lt;li&gt;Siddharth Divi [Thesis: Unifying Distillation with Personalization in Federated Learning] &amp;ndash; now at Amazon&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://basavesh.github.io&#34;&gt;Basavesh Shivakumar&lt;/a&gt; (Msc) &amp;ndash; Now PhD at MPI-SP&lt;/li&gt;
+&lt;li&gt;Akhil Sai Bandarupalli (Msc) &amp;ndash; Now PhD at Purdue CS&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://zhanfuyang.com/&#34;&gt;Zhanfu Yang&lt;/a&gt; (Msc) &amp;ndash; Now PhD at Stevens Institute of Technology&lt;/li&gt;
+&lt;li&gt;Eliz Tekcan (Msc), graduated Fall 22 &amp;ndash; now at Vestel&lt;/li&gt;
+&lt;li&gt;Abhinav Gupta (Msc), graduated Fall 22 &amp;ndash; now at Facebook&lt;/li&gt;
+&lt;li&gt;Abhishek Shah (Msc), graduated Fall 22 &amp;ndash; now at Amazon&lt;/li&gt;
+&lt;li&gt;Aniket Nare (Msc), graduated Fall 22 &amp;ndash; now at Amazon&lt;/li&gt;
+&lt;li&gt;Gaurav Jadhav, 2022&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;undergraduate-researchers&#34;&gt;Undergraduate Researchers&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://haozheee.github.io/&#34;&gt;Haozhe Zhou&lt;/a&gt; &amp;ndash; now PhD at CMU&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://andrewcchu.github.io&#34;&gt;Andrew Chu&lt;/a&gt; &amp;ndash; now PhD at UChicago&lt;/li&gt;
+&lt;li&gt;William Carter Bell (Junior, Data Science)&lt;/li&gt;
+&lt;li&gt;Anirudh Giridhar (Junior, Purdue Computer Science minor in Mathematics and Statistics)&lt;/li&gt;
+&lt;li&gt;Kaushik Ramachandran (Senior, Computer Science)&lt;/li&gt;
+&lt;li&gt;Yizhen (Yuen) Yuan, (Junior, Purdue CS)&lt;/li&gt;
+&lt;li&gt;Ishan Kaul (Senior, Purdue Computer Science)&lt;/li&gt;
+&lt;li&gt;Sidhartha Agrawal (Sophomore, Purdue Computer Science minor in Mathematics)&lt;/li&gt;
+&lt;li&gt;Yuxuan Yang (Junior, Purdue Computer Science minor in Mathematics and Economics)&lt;/li&gt;
+&lt;li&gt;Rafael Zhu (Freshman, Purdue Computer Science)&lt;/li&gt;
+&lt;li&gt;Nail Tarcan Gul (Senior, Purdue Computer Science)&lt;/li&gt;
+&lt;li&gt;Furkan Goksel (GoBoiler Internship Program, Senior, Computer Science, Middle East Technical University)&lt;/li&gt;
+&lt;li&gt;Kerem Ors (GoBoiler Internship Program, Msc, Computer Science, Sabanci University)&lt;/li&gt;
+&lt;li&gt;Yigit Varli (Summer Intern, Senior, Computer Science, Middle East Technical University)&lt;/li&gt;
+&lt;li&gt;Bharat Chandra (Senior, Vellore Institute of Technology, Online)&lt;/li&gt;
+&lt;li&gt;Anirudh Gupta and Mohit Thakur (Junior, Computer Science, IIT Delhi, Online)&lt;/li&gt;
+&lt;li&gt;Berk Aydogmus (Senior, Computer Science, Middle East Technical University, Online)&lt;/li&gt;
+&lt;li&gt;Yahya Sungur (Senior, Computer Science, Middle East Technical University, Online)&lt;/li&gt;
+&lt;li&gt;Burak Ucar (Senior, Computer Science, Middle East Technical University, Online)&lt;/li&gt;
+&lt;li&gt;Berkin Kerim Konar (Senior, Computer Science, Middle East Technical University, Online)&lt;/li&gt;
+&lt;li&gt;Kerem Serttas, (Senior, Computer Science, Middle East Technical University, Online)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://beerkay.github.io/fullteaching/</link>
+      <pubDate>Fri, 20 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://beerkay.github.io/fullteaching/</guid>
+      <description>&lt;h5 id=&#34;cs-426-computer-security-undergraduate-syllabuscs426cs426pdf-spring-23&#34;&gt;CS 426: Computer Security (Undergraduate) &lt;a href=&#34;https://beerkay.github.io/cs426/CS426.pdf&#34;&gt;[Syllabus]&lt;/a&gt; [Spring 23]&lt;/h5&gt;
+&lt;p&gt;This introductory undergraduate course focuses on the principles and foundations of building secure computer systems, security best practices, and security failures in existing and emerging computer networks and systems. The course covers four key topic areas: basics of cryptography and crypto protocols, network security, systems security, and privacy. Students successfully completing this class will be able to understand and assess security threats, become familiar with security engineering best practices, write better software, protocols, and systems, and have rudimentary skills in security research.&lt;/p&gt;
+&lt;h5 id=&#34;cs-529-security-analytics-graduate-syllabuscs529contentsyllabuscs529pdf-fall-22-fall-21-fall-20-fall-19&#34;&gt;CS 529: Security Analytics (Graduate) &lt;a href=&#34;https://beerkay.github.io/cs529/content/syllabus/CS529.pdf&#34;&gt;[Syllabus]&lt;/a&gt; [Fall 22] [Fall 21] [Fall 20] [Fall 19]&lt;/h5&gt;
+&lt;p&gt;This graduate-level course will provide students with materials to discuss the intersection of two ubiquitous concepts: Security and Machine Learning. The course is structured in two parts: (1) Machine Learning for Security and (2) Security of Machine Learning Systems. The focus of the first part will be on building a principled understanding of key learning algorithms and techniques, and their applications within the security domain, as well as general questions related to analyzing and handling datasets. The first part will provide students with the necessary background to understand the second half of the course. The second part covers recently discovered security implications of deploying machine learning algorithms in the physical realm. Students will learn about attacks against computer systems leveraging machine learning algorithms, as well as defense techniques to mitigate such attacks during learning and inference.&lt;/p&gt;
+&lt;h5 id=&#34;cs-590-iotcps-security-graduate-syllabuscs592s22cs592iotcpspdf-spring-22-spring-20&#34;&gt;CS 590: IoT/CPS Security (Graduate) &lt;a href=&#34;https://beerkay.github.io/cs592S22/CS592IoTCPS.pdf&#34;&gt;[Syllabus]&lt;/a&gt; [Spring 22] [Spring 20]&lt;/h5&gt;
+&lt;p&gt;In this course, we will study the latest research in the design of Internet of Things (IoT) and Cyber-Physical Systems (CPS) and methods for securing them. The course will provide foundations of safety and security of IoT/CPS and covers the topics of policy verification, approaches for designing safe and secure systems, techniques for detecting problems in conventional IoT/CPS design and repairing such problems. Example topics include the security of voice-controlled devices, IoT applications, edge computing, industrial control systems, and autonomous vehicles.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Reading List</title>
+      <link>https://beerkay.github.io/writing/</link>
+      <pubDate>Fri, 20 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://beerkay.github.io/writing/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;IoT Security and Privacy:&lt;/strong&gt; From time to time I receive emails asking how to start studying IoT security and privacy. I and my colleague, Xiaolei Wang, have grouped a collection of papers that we recommend reading for those interested in IoT security and privacy (including trigger-action platforms and voice-controlled devices). If you have any suggestions, please send a &lt;a href=&#34;https://github.com/Beerkay/IoTResearch&#34;&gt;pull request&lt;/a&gt;.&lt;/p&gt;
+&lt;h5 id=&#34;first-depth-study-on-iot-security&#34;&gt;First depth study on IoT Security&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;2016, IEEE S&amp;amp;P, &lt;a href=&#34;http://iotsecurity.eecs.umich.edu/img/Fernandes_SmartThingsSP16.pdf&#34;&gt;Security Analysis of Emerging Smart Home Applications&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;sensitive-information-flow-tracking&#34;&gt;Sensitive Information Flow Tracking&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;2016, USENIX Security, &lt;a href=&#34;https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_fernandes.pdf&#34;&gt;FlowFence: Practical Data Protection for Emerging IoT Application Frameworks&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;2018, USENIX Security, &lt;a href=&#34;https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-celik.pdf&#34;&gt;Sensitive Information Tracking in Commodity IoT&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;access-control&#34;&gt;Access Control&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;2017, NDSS, &lt;a href=&#34;https://amir.rahmati.com/dl/ndss17/ContexIoT_NDSS17.pdf&#34;&gt;ContexIoT: Towards Providing Contextual Integrity to Appified IoT Platforms&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;2017, USENIX Security, &lt;a href=&#34;https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-tian.pdf&#34;&gt;SmartAuth: User-Centered Authorization for the Internet of Things&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;2017, Access Control Models, &lt;a href=&#34;http://www.corelab.or.kr/Pubs/sacmat17_fact.pdf&#34;&gt;FACT: Functionality-centric Access Control System for IoT Programming Frameworks&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;2018, USENIX Security, &lt;a href=&#34;https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-he.pdf&#34;&gt;Rethinking Access Control and Authentication for the Home Internet of Things (IoT)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;2018, IEEE SecDev, &lt;a href=&#34;https://arxiv.org/pdf/1801.04609&#34;&gt;Tyche: Risk-Based Permissions for Smart Home Platforms&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;safety-and-security-violation-identification-and-enforcement&#34;&gt;Safety and Security Violation Identification and Enforcement&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;2019, NDSS, &lt;a href=&#34;https://github.com/Beerkay/IoTResearch&#34;&gt;IoTGuard: Dynamic Enforcement of Security and Safety Policy in Commodity IoT&lt;/a&gt;(will be available soon)&lt;/li&gt;
+&lt;li&gt;2018, USENIX ATC, &lt;a href=&#34;https://www.usenix.org/system/files/conference/atc18/atc18-celik.pdf&#34;&gt;Soteria: Automated IoT Safety and Security Analysis&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;2018, CoNEXT, &lt;a href=&#34;https://arxiv.org/pdf/1810.09551.pdf&#34;&gt;IoTSAN: Fortifying the Safety of IoT Systems&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;2018, CCS, &lt;a href=&#34;https://wding.people.clemson.edu/papers/ccs-2018iotmon.pdf&#34;&gt;On the Safety of IoT Device Physical Interaction Control&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;vulnerability-mining&#34;&gt;Vulnerability Mining&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;2018, NDSS, &lt;a href=&#34;http://web.cse.ohio-state.edu/~lin.3021/file/NDSS18b.pdf&#34;&gt;IoTFuzzer: Discovering Memory Corruptions in IoT Through App-based Fuzzing&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;forensics&#34;&gt;Forensics&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;2018, NDSS, &lt;a href=&#34;http://seclab.illinois.edu/wp-content/uploads/2017/12/wang2018fear.pdf&#34;&gt;Fear and Logging in the Internet of Things&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;iot-malware&#34;&gt;IoT Malware&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;2018, IEEE S&amp;amp;P, &lt;a href=&#34;https://rud.is/dl/ieee-sp-2018/435301a870.pdf&#34;&gt;Understanding Linux Malware&lt;/a&gt; *&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;fault-detection-and-evaluation&#34;&gt;Fault Detection and Evaluation&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;2018, DSN, &lt;a href=&#34;https://ieeexplore.ieee.org/document/8416520/&#34;&gt;Detecting and Identifying Faulty IoT Devices in Smart Home with Context Extraction&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;privacy-inference-via-sensors-and-defenses&#34;&gt;Privacy Inference via Sensors and Defenses&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;2018, arXiv, &lt;a href=&#34;https://arxiv.org/pdf/1808.02741&#34;&gt;Peek-a-Boo: I see your smart home activities even encrypted&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;2018, arXiv, &lt;a href=&#34;https://arxiv.org/pdf/1705.06809.pdf&#34;&gt;Closing the Blinds: Four Strategies for Protecting Smart Home Privacy from Network Observers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;2018, arXiv, &lt;a href=&#34;https://arxiv.org/pdf/1808.07432.pdf&#34;&gt;A Developer-Friendly Library for Smart Home IoT Privacy Preserving Traffic Obfuscation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;2017, arXiv, &lt;a href=&#34;https://arxiv.org/pdf/1708.05044.pdf&#34;&gt;Spying on the Smart Home Privacy Attacks and Defenses on Encrypted IoT Traffic&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;2017, arXiv, &lt;a href=&#34;https://faculty.washington.edu/lagesse/publications/HiddenSensorDetection.pdf&#34;&gt;Detecting Spies in IoT Systems using Cyber-Physical Correlation&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;attacks-against-voice-control&#34;&gt;Attacks against Voice Control&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;2018, arXiv, &lt;a href=&#34;https://arxiv.org/pdf/1805.01525.pdf&#34;&gt;Understanding and Mitigating the Security Risks of Voice-Controlled Third-Party Skills on Amazon Alexa and Google Home&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;2018, arXiv, &lt;a href=&#34;https://arxiv.org/pdf/1808.05665.pdf&#34;&gt;Adversarial Attacks Against Automatic Speech Recognition Systems via Psychoacoustic Hiding&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;2018, arXiv, &lt;a href=&#34;https://arxiv.org/pdf/1801.08535.pdf&#34;&gt;CommanderSong: A Systematic Approach for Practical Adversarial Voice Recognition&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;2018, arXiv, &lt;a href=&#34;https://arxiv.org/pdf/1808.01947.pdf&#34;&gt;Nonsense Attacks on Google Assistant&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;trigger-action-platform-measurement-and-security-analysis&#34;&gt;Trigger-action Platform Measurement and Security Analysis&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;2016, CHI, &lt;a href=&#34;https://par.nsf.gov/servlets/purl/10026427&#34;&gt;Trigger-Action Programming in the Wild: An Analysis of 200,000 IFTTT Recipes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;2017, WWW, &lt;a href=&#34;http://www.andrew.cmu.edu/user/liminjia/research/papers/ifttt-info-flows-www2017.pdf&#34;&gt;Some Recipes Can Do More Than Spoil Your Appetite Analyzing the Security and Privacy Risks of IFTTT Recipes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;2017, arXiv, &lt;a href=&#34;https://arxiv.org/pdf/1808.02741&#34;&gt;IFTTT vs. Zapier A Comparative Study of Trigger-Action Programming Frameworks&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;2017, IMC, &lt;a href=&#34;https://conferences.sigcomm.org/imc/2017/papers/imc17-final41.pdf&#34;&gt;An Empirical Characterization of IFTTT Ecosystem, Usage, and Performance&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;2018, NDSS, &lt;a href=&#34;http://earlence.com/assets/papers/dtap_ndss18.pdf&#34;&gt;Decentralized Action Integrity for Trigger-Action IoT Platforms&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;iot-test-suite&#34;&gt;IoT Test Suite&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;2018, &lt;a href=&#34;https://github.com/IoTBench/IoTBench-test-suite&#34;&gt;IoTBench: A micro-benchmark suite to assess the effectiveness of tools designed for IoT apps&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;iot-surveys&#34;&gt;IoT Surveys&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;2019, arXiv, &lt;a href=&#34;https://arxiv.org/pdf/1809.06962.pdf&#34;&gt;Program Analysis of Commodity IoT Applications for Security and Privacy: Challenges and Opportunities&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;2019, IEEE S&amp;amp;P, &lt;a href=&#34;https://www.computer.org/csdl/proceedings/sp/2019/6660/00/666001a208-abs.html&#34;&gt;SoK: Security Evaluation of Home-Based IoT Deployments&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;2018, arXiv, &lt;a href=&#34;https://arxiv.org/pdf/1805.05853.pdf&#34;&gt;IoT Security: An End-to-End View and Case Study&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;2017, arXiv, &lt;a href=&#34;https://arxiv.org/pdf/1807.11023.pdf&#34;&gt;A Survey of Machine and Deep Learning Methods for Internet of Things (IoT) Security&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;2017, arXiv, &lt;a href=&#34;https://arxiv.org/pdf/1703.09809.pdf&#34;&gt;Understanding IoT Security Through the Data Crystal Ball: Where We Are Now and Where We Are Going to Be&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;2017, IEEE S&amp;amp;P Magazine, &lt;a href=&#34;https://arxiv.org/pdf/1705.08522.pdf&#34;&gt;Internet of Things Security Research: A Rehash of Old Ideas or New Intellectual Challenges&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;2018, BlackHat, &lt;a href=&#34;https://i.blackhat.com/us-18/Thu-August-9/us-18-Costin-Zaddach-IoT-Malware-Comprehensive-Survey-Analysis-Framework-and-Case-Studies-wp.pdf&#34;&gt;IoT Malware: Comprehensive Survey, Analysis Framework and Case Studies&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;2018, arXiv, &lt;a href=&#34;https://arxiv.org/pdf/1802.02041.pdf&#34;&gt;A Survey on Sensor-based Threats to Internet-of-Things (IoT) Devices and Applications&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Personal</title>
+      <link>https://beerkay.github.io/personal/</link>
+      <pubDate>Fri, 20 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://beerkay.github.io/personal/</guid>
+      <description>&lt;p&gt;Sailing is my passion, whether it’s racing or cruising. I hold a professional sailing license in my country (equivalent to ASA 106, Advanced Coastal Cruising). I recently had a chance to sail on Charles River, Raritan Bay, and being at &lt;a href=&#34;https://www.sailboston.com/&#34;&gt;Sail Boston&#39;17&lt;/a&gt;.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;I follow college sports closely. I am a huge fan of &lt;a href=&#34;https://purduesports.com/&#34;&gt;Boilermakers&lt;/a&gt; and &lt;a href=&#34;http://www.gopsusports.com/&#34;&gt;Nittany Lions&lt;/a&gt;, particularly when it comes to football and basketball.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://beerkay.github.io/fullpublication/</link>
+      <pubDate>Fri, 20 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://beerkay.github.io/fullpublication/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>News</title>
+      <link>https://beerkay.github.io/news/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://beerkay.github.io/news/</guid>
+      <description>&lt;h4 id=&#34;news&#34;&gt;News&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;[CCS 22] &lt;a href=&#34;https://beerkay.github.io/fullpublication&#34;&gt;Discovering IoT Physical Channel Vulnerabilities&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[CCS 22] &lt;a href=&#34;https://beerkay.github.io/fullpublication&#34;&gt;Physical Hijacking Attacks against Object Trackers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Two papers and two demos are accepted to &lt;a href=&#34;https://beerkay.github.io/fullpublication&#34;&gt;AutoSec 22&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Two journal papers are accepted to &lt;a href=&#34;https://beerkay.github.io/fullpublication&#34;&gt;ACM Transcations on Internet of Things (TIOT) 22&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[IEEE S&amp;amp;P 22] &lt;a href=&#34;https://beerkay.github.io/fullpublication&#34;&gt;PGPatch: Policy-Guided Logic Bug Patching for Robotic Vehicles&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[USENIX Security 22] &lt;a href=&#34;papers/Berkay2022SaraUSENIXSecurity.pdf&#34;&gt;SARA: Secure Android Remote Authorization&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;The &lt;a href=&#34;https://www.ndss-symposium.org/ndss2022/cfp-autosec-workshop/&#34;&gt;AutoSec (Automotive &amp;amp; Autonomous Vehicle Security) Workshop&lt;/a&gt; will be hosted with NDSS again in 2022! &lt;a href=&#34;https://twitter.com/autosec_conf?lang=en&#34;&gt;Follow @autosec_conf&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;I&amp;rsquo;ve earned &lt;a href=&#34;https://www.cs.purdue.edu/news/articles/2022/career_celik.html&#34;&gt;NSF CAREER Award&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[USENIX Security 22] &lt;a href=&#34;papers/Berkay2022YoutubeUSENIXSecurity.pdf&#34;&gt;Behind the Tube: Exploitative Monetization of Content on YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;I&amp;rsquo;ve received funding with the &lt;a href=&#34;https://www.cs.purdue.edu/news/articles/2021/purdue_rolls-royce_research2.html&#34;&gt;Rolls-Royce Cybersecurity Technology Research Network&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Our team lead by I and &lt;a href=&#34;https://antoniobianchi.me/&#34;&gt;Prof. Bianchi&lt;/a&gt; won &lt;a href=&#34;https://www.cs.purdue.edu/news/articles/2021/aspire_award.html&#34;&gt;Google ASPIRE Award&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[SafeThings 21] &lt;a href=&#34;papers/Berkay2021PenserSafethings.pdf&#34;&gt;On the Safety Implications of Misordered Events and Commands in IoT Systems&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[PETS 21] &lt;a href=&#34;papers/Berkay2021DaintPETS2021.pdf&#34;&gt;Real-time Analysis of Privacy-(un)aware IoT Applications&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[NDSS 21] &lt;a href=&#34;papers/Berkay2021PGFuzzNDSS.pdf&#34;&gt;PGFUZZ: Policy-Guided Fuzzing for Robotic Vehicles&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[USENIX Security 21] &lt;a href=&#34;papers/Berkay2021CanoxUSENIXSecurity.pdf&#34;&gt;Exposing New Vulnerabilities of Error Handling Mechanism in CAN&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[USENIX Security 21] &lt;a href=&#34;papers/Berkay2021AtlasUSENIXSecurity.pdf&#34;&gt;ATLAS: A Sequence-based Learning Approach for Attack Investigation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[KDD 21] &lt;a href=&#34;papers/Berkay2021XAITrojan.pdf&#34;&gt;What do you see? Evaluation of XAI Interpretability through Neural Backdoors&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[ICML-FL 21] &lt;a href=&#34;papers/Berkay2021ICMLFLPersonalizedFL.pdf&#34;&gt;New Metrics to Evaluate the Performance and Fairness of Personalized FL&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[IEEE SecDev 21] &lt;a href=&#34;papers/Berkay2021SecDevContainerSecurity.pdf&#34;&gt;Towards Improving Container Security by Preventing Runtime Escapes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[NDSS 21] &lt;a href=&#34;papers/Berkay2021DuetNDSS.pdf&#34;&gt;Evading Voltage-Based Intrusion Detection on Automotive CAN&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[UbiComp 21] &lt;a href=&#34;papers/berkay2021S3UbiComp.pdf&#34;&gt;S3: Side-channel Attack on Stylus Pencil Through Sensors&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[IoTDI 21] &lt;a href=&#34;papers/Berkay2021SentinelIoTDI.pdf&#34;&gt;Sentinel: A Robust IDS for IoT Networks Using Kernel-Level System Information&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://beerkay.github.io/talk/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
       
-      <guid>https://beerkay.github.io/talk/example/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Academic&amp;rsquo;s &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>An example preprint / working paper</title>
-      <link>https://beerkay.github.io/publication/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://beerkay.github.io/publication/preprint/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Display Jupyter Notebooks with Academic</title>
-      <link>https://beerkay.github.io/post/jupyter/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://beerkay.github.io/post/jupyter/</guid>
-      <description>
-
-&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from IPython.core.display import Image
-Image(&#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&#39;)
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;&lt;img src=&#34;./academic_0_0.png&#34; alt=&#34;png&#34; /&gt;&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;print(&amp;quot;Welcome to Academic!&amp;quot;)
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;pre&gt;&lt;code&gt;Welcome to Academic!
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h2 id=&#34;install-python-and-jupyter&#34;&gt;Install Python and Jupyter&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.anaconda.com/distribution/#download-section&#34; target=&#34;_blank&#34;&gt;Install Anaconda&lt;/a&gt; which includes Python 3 and Jupyter notebook.&lt;/p&gt;
-
-&lt;p&gt;Otherwise, for advanced users, install Jupyter notebook with &lt;code&gt;pip3 install jupyter&lt;/code&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;create-a-new-blog-post-as-usual-https-sourcethemes-com-academic-docs-managing-content-create-a-blog-post&#34;&gt;Create a new blog post &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-a-blog-post&#34; target=&#34;_blank&#34;&gt;as usual&lt;/a&gt;&lt;/h2&gt;
-
-&lt;p&gt;Run the following commands in your Terminal, substituting &lt;code&gt;&amp;lt;MY_WEBSITE_FOLDER&amp;gt;&lt;/code&gt; and &lt;code&gt;my-post&lt;/code&gt; with the file path to your Academic website folder and a name for your blog post (without spaces), respectively:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;cd &amp;lt;MY_WEBSITE_FOLDER&amp;gt;
-hugo new  --kind post post/my-post
-cd &amp;lt;MY_WEBSITE_FOLDER&amp;gt;/content/post/my-post/
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h2 id=&#34;create-or-upload-a-jupyter-notebook&#34;&gt;Create or upload a Jupyter notebook&lt;/h2&gt;
-
-&lt;p&gt;Run the following command to start Jupyter within your new blog post folder. Then create a new Jupyter notebook (&lt;em&gt;New &amp;gt; Python Notebook&lt;/em&gt;) or upload a notebook.&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;jupyter notebook
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h2 id=&#34;convert-notebook-to-markdown&#34;&gt;Convert notebook to Markdown&lt;/h2&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;jupyter nbconvert Untitled.ipynb --to markdown --NbConvertApp.output_files_dir=.
-
-# Copy the contents of Untitled.md and append it to index.md:
-cat Untitled.md | tee -a index.md
-
-# Remove the temporary file:
-rm Untitled.md
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h2 id=&#34;edit-your-post-metadata&#34;&gt;Edit your post metadata&lt;/h2&gt;
-
-&lt;p&gt;Open &lt;code&gt;index.md&lt;/code&gt; in your text editor and edit the title etc. in the &lt;a href=&#34;https://sourcethemes.com/academic/docs/front-matter/&#34; target=&#34;_blank&#34;&gt;front matter&lt;/a&gt; according to your preference.&lt;/p&gt;
-
-&lt;p&gt;To set a &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#featured-image&#34; target=&#34;_blank&#34;&gt;featured image&lt;/a&gt;, place an image named &lt;code&gt;featured&lt;/code&gt; into your post&amp;rsquo;s folder.&lt;/p&gt;
-
-&lt;p&gt;For other tips, such as using math, see the guide on &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;writing content with Academic&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Slides</title>
-      <link>https://beerkay.github.io/slides/example/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://beerkay.github.io/slides/example/</guid>
-      <description>
-
-&lt;h1 id=&#34;welcome-to-slides&#34;&gt;Welcome to Slides&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34;&gt;Academic&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
-&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
-&lt;li&gt;Supports speaker notes&lt;/li&gt;
-&lt;li&gt;Mobile friendly slides&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
-
-&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;Code block:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;porridge = &amp;quot;blueberry&amp;quot;
-if porridge == &amp;quot;blueberry&amp;quot;:
-    print(&amp;quot;Eating...&amp;quot;)
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
-
-&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
-
-&lt;p&gt;Block math:&lt;/p&gt;
-
-&lt;p&gt;$$
-f\left( x \right) = \;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
-$$&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
-
-&lt;p&gt;Make content appear incrementally&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
-{{% fragment %}} **Two** {{% /fragment %}}
-{{% fragment %}} Three {{% /fragment %}}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
-
-&lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
-   One
-&lt;/span&gt;
-&lt;span class=&#34;fragment &#34; &gt;
-   &lt;strong&gt;Two&lt;/strong&gt;
-&lt;/span&gt;
-&lt;span class=&#34;fragment &#34; &gt;
-   Three
-&lt;/span&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
-
-&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% speaker_note %}}
-- Only the speaker can read these notes
-- Press `S` key to view
-{{% /speaker_note %}}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
-
-&lt;aside class=&#34;notes&#34;&gt;
-  &lt;ul&gt;
-&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
-&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/aside&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
-&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
-&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
-&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
-&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;ul&gt;
-&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
-&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
-&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
-&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-
-&lt;section data-noprocess data-shortcode-slide
-  
-      
-      data-background-image=&#34;/img/boards.jpg&#34;
-  &gt;
-
-
-&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
-
-&lt;p&gt;Customize the slide style and background&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; slide background-image=&amp;quot;/img/boards.jpg&amp;quot; &amp;gt;}}
-{{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
-{{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
-
-&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
-
-&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;.reveal section h1,
-.reveal section h2,
-.reveal section h3 {
-  color: navy;
-}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;hr /&gt;
-
-&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>External Project</title>
-      <link>https://beerkay.github.io/project/external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://beerkay.github.io/project/external-project/</guid>
+      <guid>https://beerkay.github.io/talk/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Internal Project</title>
-      <link>https://beerkay.github.io/project/internal-project/</link>
+      <title>Courses</title>
+      <link>https://beerkay.github.io/courses/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://beerkay.github.io/courses/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Posts</title>
+      <link>https://beerkay.github.io/post/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://beerkay.github.io/post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>https://beerkay.github.io/slides/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://beerkay.github.io/slides/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://beerkay.github.io/project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://beerkay.github.io/project/internal-project/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Academic: the website builder for Hugo</title>
-      <link>https://beerkay.github.io/post/getting-started/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://beerkay.github.io/post/getting-started/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 &lt;em&gt;widgets&lt;/em&gt;, &lt;em&gt;themes&lt;/em&gt;, and &lt;em&gt;language packs&lt;/em&gt; included!&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or &lt;a href=&#34;https://sourcethemes.com/academic/#expo&#34; target=&#34;_blank&#34;&gt;view the &lt;strong&gt;showcase&lt;/strong&gt;&lt;/a&gt; of personal, project, and business sites.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;#install&#34;&gt;&lt;strong&gt;Setup Academic&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/get-started/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Get Started&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;View the documentation&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://discuss.gohugo.io/&#34; target=&#34;_blank&#34;&gt;Ask a question&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/gcushen/hugo-academic/issues&#34; target=&#34;_blank&#34;&gt;Request a feature or report a bug&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Updating? View the &lt;a href=&#34;https://sourcethemes.com/academic/docs/update/&#34; target=&#34;_blank&#34;&gt;Update Guide&lt;/a&gt; and &lt;a href=&#34;https://sourcethemes.com/academic/updates/&#34; target=&#34;_blank&#34;&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Support development of Academic:
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://paypal.me/cushen&#34; target=&#34;_blank&#34;&gt;Donate a coffee&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.patreon.com/cushen&#34; target=&#34;_blank&#34;&gt;Become a backer on Patreon&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.redbubble.com/people/neutreno/works/34387919-academic&#34; target=&#34;_blank&#34;&gt;Decorate your laptop or journal with an Academic sticker&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://academic.threadless.com/&#34; target=&#34;_blank&#34;&gt;Wear the T-shirt&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/gcushen/hugo-academic/&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png&#34; alt=&#34;Screenshot&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Key features:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Page builder&lt;/strong&gt; - Create &lt;em&gt;anything&lt;/em&gt; with &lt;a href=&#34;https://sourcethemes.com/academic/docs/page-builder/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;widgets&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;elements&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Edit any type of content&lt;/strong&gt; - Blog posts, publications, talks, slides, projects, and more!&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Create content&lt;/strong&gt; in &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Markdown&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;https://sourcethemes.com/academic/docs/jupyter/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Jupyter&lt;/strong&gt;&lt;/a&gt;, or &lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-rstudio&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Plugin System&lt;/strong&gt; - Fully customizable &lt;a href=&#34;https://sourcethemes.com/academic/themes/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;color&lt;/strong&gt; and &lt;strong&gt;font themes&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Display Code and Math&lt;/strong&gt; - Code highlighting and &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34;&gt;LaTeX math&lt;/a&gt; supported&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Integrations&lt;/strong&gt; - &lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34;&gt;Google Analytics&lt;/a&gt;, &lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34;&gt;Disqus commenting&lt;/a&gt;, Maps, Contact Forms, and more!&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Beautiful Site&lt;/strong&gt; - Simple and refreshing one page design&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Industry-Leading SEO&lt;/strong&gt; - Help get your website found on search engines and social media&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Media Galleries&lt;/strong&gt; - Display your images and videos with captions in a customizable gallery&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Mobile Friendly&lt;/strong&gt; - Look amazing on every screen with a mobile friendly version of your site&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Multi-language&lt;/strong&gt; - 15+ language packs including English, 中文, and Português&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Multi-user&lt;/strong&gt; - Each author gets their own profile page&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Privacy Pack&lt;/strong&gt; - Assists with GDPR&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Stand Out&lt;/strong&gt; - Bring your site to life with animation, parallax backgrounds, and scroll effects&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;One-Click Deployment&lt;/strong&gt; - No servers. No databases. Only files.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;color-themes&#34;&gt;Color Themes&lt;/h2&gt;
-
-&lt;p&gt;Academic comes with &lt;strong&gt;day (light) and night (dark) mode&lt;/strong&gt; built-in. Click the sun/moon icon in the top right of the &lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34;&gt;Demo&lt;/a&gt; to see it in action!&lt;/p&gt;
-
-&lt;p&gt;Choose a stunning color and font theme for your site. Themes are fully customizable and include:&lt;/p&gt;
-
-
-
-
-
-
-
-
-
-  
-  
-
-
-&lt;div class=&#34;gallery&#34;&gt;
-
-  
-  
-  
-  
-    
-    
-    
-    
-    
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://beerkay.github.io/post/getting-started/gallery/theme-1950s.png&#34; data-caption=&#34;1950s&#34;&gt;
-  &lt;img src=&#34;https://beerkay.github.io/post/getting-started/gallery/theme-1950s_huaf5482f8cea0c5a703a328640e3b7509_21614_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://beerkay.github.io/post/getting-started/gallery/theme-apogee.png&#34; data-caption=&#34;Apogee&#34;&gt;
-  &lt;img src=&#34;https://beerkay.github.io/post/getting-started/gallery/theme-apogee_hu4b45d99db97150df01464c393bfd17d4_24119_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://beerkay.github.io/post/getting-started/gallery/theme-coffee-playfair.png&#34; data-caption=&#34;Coffee theme with Playfair font&#34;&gt;
-  &lt;img src=&#34;https://beerkay.github.io/post/getting-started/gallery/theme-coffee-playfair_hu446a8f670cc5622adcc77b97ba95f6c5_22462_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://beerkay.github.io/post/getting-started/gallery/theme-cupcake.png&#34; data-caption=&#34;Cupcake&#34;&gt;
-  &lt;img src=&#34;https://beerkay.github.io/post/getting-started/gallery/theme-cupcake_hueba8cfa8cfbc7543924fcbf387a99e92_23986_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://beerkay.github.io/post/getting-started/gallery/theme-dark.png&#34; data-caption=&#34;Dark&#34;&gt;
-  &lt;img src=&#34;https://beerkay.github.io/post/getting-started/gallery/theme-dark_hu1e8601ecc47f58eada7743fdcd709d3d_21456_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://beerkay.github.io/post/getting-started/gallery/theme-default.png&#34; data-caption=&#34;Default&#34;&gt;
-  &lt;img src=&#34;https://beerkay.github.io/post/getting-started/gallery/theme-default_huba6228b7bdf30e2f03f12ea91b2cba0d_21751_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://beerkay.github.io/post/getting-started/gallery/theme-forest.png&#34; data-caption=&#34;Forest&#34;&gt;
-  &lt;img src=&#34;https://beerkay.github.io/post/getting-started/gallery/theme-forest_hu4f093a1c683134431456584193ea41ee_21797_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://beerkay.github.io/post/getting-started/gallery/theme-ocean.png&#34; data-caption=&#34;Ocean&#34;&gt;
-  &lt;img src=&#34;https://beerkay.github.io/post/getting-started/gallery/theme-ocean_hu14831ccafc2219f30a7a096fa7617e01_21760_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-
-  
-&lt;/div&gt;
-
-&lt;h2 id=&#34;ecosystem&#34;&gt;Ecosystem&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/sourcethemes/academic-admin&#34; target=&#34;_blank&#34;&gt;Academic Admin&lt;/a&gt;:&lt;/strong&gt; An admin tool to import publications from BibTeX or import assets for an offline site&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/sourcethemes/academic-scripts&#34; target=&#34;_blank&#34;&gt;Academic Scripts&lt;/a&gt;:&lt;/strong&gt; Scripts to help migrate content to new versions of Academic&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;install&#34;&gt;Install&lt;/h2&gt;
-
-&lt;p&gt;You can choose from one of the following four methods to install:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-web-browser&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;one-click install using your web browser (recommended)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-git&#34; target=&#34;_blank&#34;&gt;install on your computer using &lt;strong&gt;Git&lt;/strong&gt; with the Command Prompt/Terminal app&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-zip&#34; target=&#34;_blank&#34;&gt;install on your computer by downloading the &lt;strong&gt;ZIP files&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-rstudio&#34; target=&#34;_blank&#34;&gt;install on your computer with &lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Then &lt;a href=&#34;https://sourcethemes.com/academic/docs/get-started/&#34; target=&#34;_blank&#34;&gt;personalize and deploy your new site&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;updating&#34;&gt;Updating&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/update/&#34; target=&#34;_blank&#34;&gt;View the Update Guide&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Feel free to &lt;em&gt;star&lt;/em&gt; the project on &lt;a href=&#34;https://github.com/gcushen/hugo-academic/&#34; target=&#34;_blank&#34;&gt;Github&lt;/a&gt; to help keep track of &lt;a href=&#34;https://sourcethemes.com/academic/updates&#34; target=&#34;_blank&#34;&gt;updates&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
-
-&lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md&#34; target=&#34;_blank&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>An example journal article</title>
-      <link>https://beerkay.github.io/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://beerkay.github.io/publication/journal-article/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>An example conference paper</title>
-      <link>https://beerkay.github.io/publication/conference-paper/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      
-      <guid>https://beerkay.github.io/publication/conference-paper/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <guid>https://beerkay.github.io/project/</guid>
+      <description></description>
     </item>
     
   </channel>

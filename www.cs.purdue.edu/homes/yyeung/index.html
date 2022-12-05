@@ -1,0 +1,191 @@
+<!doctype html>
+
+<!--[if lt IE 7]> <html class="ie6 oldie"> <![endif]-->
+
+<!--[if IE 7]>    <html class="ie7 oldie"> <![endif]-->
+
+<!--[if IE 8]>    <html class="ie8 oldie"> <![endif]-->
+
+<!--[if gt IE 8]><!-->
+
+<html class="">
+
+<!--<![endif]-->
+
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="author" content="Yu-Hong Yeung">
+<title>Yu-Hong Yeung</title>
+<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/material-design-iconic-font/2.2.0/css/material-design-iconic-font.min.css">
+<link rel="stylesheet" type="text/css" href="boilerplate.css">
+<link rel="stylesheet" type="text/css" href="portfolioResponsive.css">
+<link rel="stylesheet" type="text/css" href="portfolioStyle.css">
+
+<!-- 
+
+To learn more about the conditional comments around the html tags at the top of the file:
+
+paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/
+
+
+
+Do the following if you're using your customized build of modernizr (http://www.modernizr.com/):
+
+* insert the link to your js here
+
+* remove the link below to the html5shiv
+
+* add the "no-js" class to the html tags at the top
+
+* you can also remove the link to respond.min.js if you included the MQ Polyfill in your modernizr build 
+
+-->
+
+<!--[if lt IE 9]>
+
+<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+
+<![endif]-->
+
+<script src="//code.jquery.com/jquery-1.10.2.js"></script>
+<script type="text/javascript" src="html5lightbox/html5lightbox.js"></script>
+<script src="respond.min.js"></script>
+<script src="extra.js"></script>
+<script>var __adobewebfontsappname__="dreamweaver"</script>
+<script type="text/javascript" src="//use.edgefonts.net/montserrat:n4:default;alice:n4:default.js"></script>
+</head>
+
+<body>
+<div class="site-container">
+  <header class="site-header">
+    <div class="title-area">
+      <canvas id="picture_small" name="cirpic" width="60" height="60" linewidth="8" source="img/picture.jpg"></canvas>
+      <p class="linkStyle"><a href="#" class="toscroll linkStyle">Yu-Hong Yeung</a></p>
+    </div>
+    <div class="header-widget-area">
+      <div class="header-widget">
+        <i id="email_icon" class="zmdi zmdi-email"></i>
+        <p id="email_text" class="e-mail linkStyle" data-user="gnueyy" data-website="ude.eudrup"></p>
+      </div>
+    </div>
+    <nav class="nav-primary">
+      <ul class="responsive-menu">
+        <li class="menu-item"><a href="#biography" class="toscroll linkStyle">Biography</a></li>
+        <li class="menu-item"><a href="#teaching" class="toscroll linkStyle">Teaching</a></li>
+        <li class="menu-item"><a href="#research" class="toscroll linkStyle">Research</a></li>
+        <li class="menu-item"><a href="#personal" class="toscroll linkStyle">Personal</a></li>
+      </ul>
+    </nav>
+  </header>
+  <div class="welcome">
+    <div class="widget-area">
+    <section id="pictureContainer" class="picture-area">
+      <canvas id="picture_big" name="cirpic" width="200" height="200" linewidth="15" source="img/picture.jpg"></canvas>
+    </section>
+    <section id="name" class="welcome-title">
+      <h2 class="fluid fullname firstname">Yu-Hong</h2>
+      <h2 class="fluid fullname lastname">Yeung</h2>
+      <h6 class="fluid affiliation">Department of Computer Science<br>Purdue University</h6>
+    </section>
+    </div>
+  </div>
+  <div class="resume-container"><a href="pub/resume.pdf"><h6 class="resume-button textStyle">r&eacute;sum&eacute;</h6></a></div>
+  <article id="main" class="fluid text-container">
+    <section id="biography" class="fluid block-text anchor">
+      <h2 class="section-heading"><span>bio</span>graphy</h2>
+      <p class="paragraph-block paragraph">Yu-Hong Yeung is a current post-doctoral research associate in the <a href="//www.cs.purdue.edu" target="_blank">Department of Computer Science</a> at <a href="//www.purdue.edu" target="_blank">Purdue University</a>, under the supervision of <a href="//www.cs.purdue.edu/homes/apothen" target="_blank">Prof. Alex Pothen</a>. He received his Ph.D. degree in computer science in 2017 and his M.S. degree in computer science from Purdue University in 2012 and his B.Eng. degree in computer engineering from the <a href="//www.ust.hk" target="_blank">Hong Kong University of Science and Technology</a> in 2006. His research interests includes numerical linear algebra optimization, graph theory and parallel computing. He also did researches in computer graphics in previous years and video codec and streaming during his undergraduate. He has worked at <a href="//www.pnnl.gov" target="_blank">Pacific Northwest National Laboratory</a> for summer internships in 2014-2016 for developing new algorithms to the power grid contingency analysis problem. Prior to coming to the United States, he has worked as an assistant software engineer at the HKUST-WebEx IT Institute for developing a streaming server for teleconferencing.</p>
+    </section>
+    <section id="teaching" class="fluid block-text anchor">
+      <h2 class="section-heading"><span>tea</span>ching</h2>
+      <p class="paragraph-block paragraph">He has been the teaching assistant of the following courses:</p>
+      <ul class="paragraph-block paragraph">
+        <li>Foundations of Computer Science</li>
+        <li>Programming in C</li>
+        <li>Introduction to the Analysis of Algorithms</li>
+        <li>Data Communication and Computer Networks</li>
+        <li>Algorithm Design, Analysis and Implementation</li>
+        <li>Computational Geometry</li>
+        <li>Introduction to Scientific Visualization</li>
+      </ul>
+    </section>
+    <section id="research" class="fluid block-text anchor">
+      <h2 class="section-heading"><span>res</span>earch</h2>
+      <p class="secondary-heading">Current projects</p>
+      <p class="project-name"><img src="img/amps_logo.svg"> <b>A</b>ugmented <b>M</b>atrix Solver for <b>P</b>rincipal <b>S</b>ubmatrix Updates</p>
+      <p class="paragraph-block paragraph">Dynamic matrix systems appear in many real-life applications such as surgery simulation and power grid security analysis. Most often the incremental changes are small compared to the size of the problem. After such changes occur no matter how small they are, traditionally the matrix requires refactorization, which are computationally expensive for large systems or systems with large number of small changes. Augmented matrix formulations provide an efficient alternative to solving these problems by preserving the original matrix as a submatrix of the new system and capturing the changes in the augmented parts. Linear algebra and graph theory techniques are then used to solve for the solutions to the modified systems efficiently. Sparsity of the matrices and vectors are exploited and symmetry of the matrices can also be preserved.</p>
+      <table class="image-text-container">
+        <tr><td class="blurred-image-area"><img class="blurred-image" src="img/eyeball.png"></td>
+        <td class="paragraph-block"><p class="paragraph">Computational surgery requires interactive visualization of solid finite element models of organs and their deformations as they are being cut. An example is astigmatism surgery of the eye, with the cornea cut to restore the normal curvature of the eye in orthogonal directions. The computational challenge here is to provide 10-100 updates of a system of equations of involving the stiffness matrix of a large mesh consisting of hundreds of thousands of nodes and elements to enable the visualization. Results showed that the augmented matrix approach is capable of surgical simulations that could be used in a haptic or graphic simulator.<p>
+        <p class="in-paragraph-heading">&lt; Publications &gt;</p>
+        <ul class="paragraph inline-text">
+          <li><b>Yu-Hong Yeung</b>, Jessica Crouch and Alex Pothen, "Interactively cutting and constraining nodes in a mesh by augmented matrices", ACM Transactions on Graphics, 35, Article 18, 17 pages, May 2016. Presented at SIGGRAPH 2016, Anaheim, CA, July 2016. <a href="https://dl.acm.org/citation.cfm?id=2856317"><i class="zmdi zmdi-file-text"></i></a> <a href="#tog2016" class="html5lightbox" data-width=720 data-height=480><i class="zmdi zmdi-movie"></i></a></li>
+        </ul>
+        </td></tr>
+        <tr><td class="blurred-image-area"><img class="blurred-image" src="img/powergrid.jpg"></td>
+        <td class="paragraph-block"><p class="paragraph">The operators of power grids are required by law to compute what happens to the grids when a single generator or transmission line goes down, so that they know the corrective action to take. The problem arises when we want to compute what happens to the grid when some number k of the generators or lines go down. Now the number of scenarios to consider increases even for a grid consisting of a few thousand nodes. The study of this problem is called contingency analysis. To make the computations more feasible within a reasonable amount of time, augmented matrix solver can be applied to reduce the computation time since each scenario only differs slightly from the normal case. Our results show that the linear approximate solutions can be computed in over hundred times speedups. Extension to full nonlinear systems are being studied.<p>
+        <p class="in-paragraph-heading">&lt; Publications &gt;</p>
+        <ul class="paragraph inline-text">
+          <li><b>Yu-Hong Yeung</b>, Alex Pothen, Mahantesh Halappanavar and Zhanyu Huang, "AMPS: An Augmented Matrix Formulation for Principal Submatrix Updates with Application to Power Grids", SIAM J. Scientific Computing, June 2017, Vol. 39, No. 5: pp. S809-S827. <a href="https://epubs.siam.org/doi/abs/10.1137/16M1082755"><i class="zmdi zmdi-file-text"></i></a></li>
+        </ul>
+        </td></tr>
+    </table>
+      <p class="secondary-heading">Former projects</p>
+      <p class="project-name">Appearance Editing of Real-World Objects</p>
+      <p class="paragraph-block paragraph">Appearance editing offers a unique way to view visually altered objects with various appearances or visualizations. By carefully controlling how an object is illuminated using digital projectors, we obtain stereoscopic imagery for any number of observers with everything visible to the naked eye (i.e., no need for head-mounts or goggles). Such an ability is useful for various applications, including scientific visualization, virtual restoration of cultural heritage, and display systems.</p>
+      <table class="image-text-container">
+        <tr><td class="blurred-image-area"><img class="blurred-image" src="img/restore.jpg"></td>
+        <td class="paragraph-block"><p class="paragraph">Damaged but historically significant objects can be virtually restored without needing to physically change the object in any way. This is done by creating a restored synthetic version of the image as viewed from a camera and projecting the appropriate light patterns using digital projectors to give the illusion of the physical object being restored. In collaboration with museums, the system has been used to restore several priceless artifacts ranging up to about 1000 years old.<p>
+        <p class="in-paragraph-heading">&lt; Publications &gt;</p>
+        <ul class="paragraph inline-text">
+          <li>Daniel G. Aliaga, Alvin J. Law, <b>Yu-Hong Yeung</b>, "A Virtual Restoration Stage for Real-World Objects", ACM SIGGRAPH Asia, ACM Transactions on Graphics, 27, Article 5, 2008. <a href="pub/restore-sigasia-2008.pdf"><i class="zmdi zmdi-file-text"></i></a> <a href="#restore-sigasia" class="html5lightbox" data-width=720 data-height=480><i class="zmdi zmdi-movie"></i></a></li>
+          <li>Alvin J. Law, Daniel G. Aliaga, <b>Yu-Hong Yeung</b>, Richard McCoy, Amy McKune, Larry Zimmerman, "Projecting Restorations in Real-Time for Real-World Objects", Museums and the Web, 8 pages, April 2009. <a href="pub/law-mw09-restoration.pdf"><i class="zmdi zmdi-file-text"></i></a></li>
+        </ul>
+        </td></tr>
+        <tr><td class="blurred-image-area"><img class="blurred-image" src="img/ae-pedestals.png"></td>
+        <td class="paragraph-block"><p class="paragraph">The quality of an appearance edit is directly related to the resolution achievable by the projectors available. Various factors affect a projector's resolution and radiant power, including the projector's distance to the object and the orientation of the projector to the object. In this work, we analyze the appearance editing setup and projector pixel interaction to improve the quality of our appearance edits. We also introduce a technique to swap quickly between different appearances without having to recalculate full compensation images.<p>
+        <p class="in-paragraph-heading">&lt; Publications &gt;</p>
+        <ul class="paragraph inline-text">
+          <li>Daniel G. Aliaga, <b>Yu-Hong Yeung</b>, Alvin J. Law, Behzad Sajadi, Aditi Majumder, "Fast High-Resolution Appearance Editing Using Superimposed Projections", ACM Transactions on Graphics, 31, Article 13, 12 pages, April 2012. Presented at SIGGRAPH 2012, Los Angeles, CA, August 2012. <a href="pub/tog12.pdf"><i class="zmdi zmdi-file-text"></i></a> <a href="#tog12" class="html5lightbox" data-width=720 data-height=480><i class="zmdi zmdi-movie"></i></a> </li>
+        </ul>
+        </td>
+      </tr>
+    </table>
+    </section>
+    <section id="personal" class="fluid block-text anchor">
+      <h2 class="section-heading"><span>per</span>sonal</h2>
+      <section class="description-list">
+        <h6 class="category">hobbies</h6><p class="block-list">music, animes, movies, books, maps drawing, hiking, cooking</p>
+        <h6 class="category">languages</h6><p class="block-list">English, Cantonese, Mandarin</p>
+        <h6 class="category">programming</h6><p class="block-list">C/C++, MATLAB, HTML5, CSS3, JavaScript</p>
+      </section>
+    </section>
+  </article>
+</div>
+
+<div id="tog2016" style="display:none;">
+  <div class="lightboxcontainer">
+    <div class="lightbox">
+      <video src="pub/tog2016-video.mp4" controls></video>
+    </div>
+  </div>
+</div>
+
+<div id="restore-sigasia" style="display:none;">
+  <div class="lightboxcontainer">
+    <div class="lightbox">
+      <video src="pub/restore-sigasia-2008.mov" controls></video>
+    </div>
+  </div>
+</div>
+
+<div id="tog12" style="display:none;">
+  <div class="lightboxcontainer">
+    <div class="lightbox">
+      <video src="pub/tog12-video.mov" controls></video>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
