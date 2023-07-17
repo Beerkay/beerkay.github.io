@@ -55,7 +55,11 @@ increases precision and recall over a system with no privileged information, inc
       <pubDate>Fri, 20 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>https://beerkay.github.io/activities/</guid>
-      <description>&lt;h3 id=&#34;chairco-chair&#34;&gt;Chair/Co-Chair&lt;/h3&gt;
+      <description>&lt;h3 id=&#34;journal-editorial-positions&#34;&gt;Journal Editorial Positions&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;2023-Present, Associate Editor, IEEE Transactions on Information Forensics and Security (T-IFS)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;chairco-chair&#34;&gt;Chair/Co-Chair&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;2023, Program Co-chair, Symposium on Vehicle Security and Privacy (VehicleSec 2023) (co-located with NDSS)&lt;/li&gt;
 &lt;li&gt;2023, Program Co-chair, IEEE/ACM Workshop on the Internet of Safe Things (co-located with CPS-IoT Week)&lt;/li&gt;
@@ -65,11 +69,11 @@ increases precision and recall over a system with no privileged information, inc
 &lt;/ul&gt;
 &lt;h3 id=&#34;technical-program-committee&#34;&gt;Technical Program Committee&lt;/h3&gt;
 &lt;ul&gt;
+&lt;li&gt;2024, 2023, 2022, 2021, USENIX Security&lt;/li&gt;
+&lt;li&gt;2024, IEEE Symposium on Security and Privacy&lt;/li&gt;
+&lt;li&gt;2024, 2023, 2022, NDSS&lt;/li&gt;
 &lt;li&gt;2023, 2021 CCS (ML and Security Track, and Hardware, Side Channels, and Cyber-Physical Systems Track)&lt;/li&gt;
-&lt;li&gt;2023, 2022, NDSS&lt;/li&gt;
-&lt;li&gt;2023, IEEE Symposium on Security and Privacy&lt;/li&gt;
 &lt;li&gt;2023, Security and Privacy in Wireless and Mobile Networks (WiSec)&lt;/li&gt;
-&lt;li&gt;2023, 2022, 2021, USENIX Security&lt;/li&gt;
 &lt;li&gt;2023, Secure and Trustworthy Machine Learning (SATML)&lt;/li&gt;
 &lt;li&gt;2022, 2019, CCS Workshop on the Internet of Things Security and Privacy (IoT S&amp;amp;P)&lt;/li&gt;
 &lt;li&gt;2022, IEEE SmartGridComm (Security and Privacy track)&lt;/li&gt;
@@ -96,12 +100,13 @@ increases precision and recall over a system with no privileged information, inc
 &lt;/ul&gt;
 &lt;h3 id=&#34;journal-and-external-reviewer&#34;&gt;Journal and External Reviewer&lt;/h3&gt;
 &lt;ul&gt;
+&lt;li&gt;2023, 2017, IEEE Transactions on Information Forensics and Security&lt;/li&gt;
+&lt;li&gt;2023, 2019, IEEE Security &amp;amp; Privacy Magazine&lt;/li&gt;
+&lt;li&gt;2023, 2022, 2018, 2017, ACM Computing Surveys (CSUR)&lt;/li&gt;
 &lt;li&gt;2022, 2019, IEEE Transactions on Mobile Computing&lt;/li&gt;
-&lt;li&gt;2022, 2018, 2017, ACM Computing Surveys (CSUR)&lt;/li&gt;
 &lt;li&gt;2022, INFOCOM (External Reviewer on Fuzzing and Explainable AI)&lt;/li&gt;
 &lt;li&gt;2022, IEEE Transactions on Software Engineering&lt;/li&gt;
 &lt;li&gt;2020, 2019, IEEE Transactions on Dependable and Secure Computing&lt;/li&gt;
-&lt;li&gt;2019, IEEE Security &amp;amp; Privacy Magazine&lt;/li&gt;
 &lt;li&gt;2019, ACM Transactions on Internet of Things&lt;/li&gt;
 &lt;li&gt;2019, IEEE Transactions on Neural Networks and Learning Systems&lt;/li&gt;
 &lt;li&gt;2019, 2018, USENIX Security Symposium&lt;/li&gt;
@@ -111,7 +116,6 @@ increases precision and recall over a system with no privileged information, inc
 &lt;li&gt;2018, Neural Information Processing Systems (NIPS)&lt;/li&gt;
 &lt;li&gt;2017, IEEE Security and Privacy Magazine&lt;/li&gt;
 &lt;li&gt;2017, Neural Processing Letters&lt;/li&gt;
-&lt;li&gt;2017, IEEE Transactions on Information Forensics and Security&lt;/li&gt;
 &lt;li&gt;2016, Computers Open Access Journal&lt;/li&gt;
 &lt;li&gt;2016, Journal of Network and Computer Applications (JNCA)&lt;/li&gt;
 &lt;/ul&gt;
@@ -200,13 +204,17 @@ increases precision and recall over a system with no privileged information, inc
 &lt;li&gt;&lt;a href=&#34;https://kimhyungsub.github.io/&#34;&gt;Hyungsub Kim&lt;/a&gt; (PhD) (co-advised by Dongyan Xu and Antonio Bianchi)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;Msc Students: Ben Chen, Chandrika Mukherjee, Rwitam Bandyopadhyay&lt;/li&gt;
-&lt;li&gt;Undergraduate Student Researchers: Jason Perry, Varun Gannavarapu, Xueyuan Cao&lt;/li&gt;
+&lt;li&gt;Msc Students: Ben Chen, Chandrika Mukherjee, Ananth Shreekumar, Jyun-Jhu Syu&lt;/li&gt;
+&lt;li&gt;Undergraduate Student Researchers: Xueyuan Cao, Varun Gannavarapu&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;past-students&#34;&gt;Past Students&lt;/h3&gt;
 &lt;h4 id=&#34;supervised-msc-students&#34;&gt;Supervised Msc Students&lt;/h4&gt;
 &lt;ul&gt;
-&lt;li&gt;Jackson Bizjak, 2022&lt;/li&gt;
+&lt;li&gt;Ananth Shreekumar, 2023&lt;/li&gt;
+&lt;li&gt;Jyun-Jhu Syu, 2023&lt;/li&gt;
+&lt;li&gt;Yufan Chen, 2023&lt;/li&gt;
+&lt;li&gt;Rwitam Bandyopadhyay, 2023 &amp;ndash; now at Amazon&lt;/li&gt;
+&lt;li&gt;Jackson Bizjak, 2022 &amp;ndash; now at NVIDIA&lt;/li&gt;
 &lt;li&gt;Gaurav Jadhav, 2022&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://yslin013.github.io/&#34;&gt;Yi-Shan Lin&lt;/a&gt; (Msc) &amp;ndash; now at Google&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://mastermjr.com&#34;&gt;Michael Reeves&lt;/a&gt; [Thesis: Investigating Escape Vulnerabilities in Container Runtimes] &amp;ndash; now at Sandia Labs&lt;/li&gt;
@@ -221,6 +229,7 @@ increases precision and recall over a system with no privileged information, inc
 &lt;/ul&gt;
 &lt;h4 id=&#34;undergraduate-researchers&#34;&gt;Undergraduate Researchers&lt;/h4&gt;
 &lt;ul&gt;
+&lt;li&gt;Jason Perry &amp;ndash; now at Google&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://haozheee.github.io/&#34;&gt;Haozhe Zhou&lt;/a&gt; &amp;ndash; now PhD at CMU&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://andrewcchu.github.io&#34;&gt;Andrew Chu&lt;/a&gt; &amp;ndash; now PhD at UChicago&lt;/li&gt;
 &lt;li&gt;William Carter Bell (Junior, Data Science)&lt;/li&gt;
@@ -235,6 +244,7 @@ increases precision and recall over a system with no privileged information, inc
 &lt;/ul&gt;
 &lt;h4 id=&#34;external-research-interns&#34;&gt;External Research Interns&lt;/h4&gt;
 &lt;ul&gt;
+&lt;li&gt;Blaise Swartwood (SROP intern program, junior, Rose-Hulman Institute of Technology)&lt;/li&gt;
 &lt;li&gt;Furkan Goksel (GoBoiler Internship Program, Senior, Computer Science, Middle East Technical University, Online)&lt;/li&gt;
 &lt;li&gt;Kerem Ors (GoBoiler Internship Program, Msc, Computer Science, Sabanci University, Online)&lt;/li&gt;
 &lt;li&gt;Yigit Varli (Summer Intern, Senior, Computer Science, Middle East Technical University, Online)&lt;/li&gt;
@@ -373,12 +383,71 @@ increases precision and recall over a system with no privileged information, inc
     </item>
     
     <item>
+      <title>Archieved News</title>
+      <link>https://beerkay.github.io/newsarchieve/</link>
+      <pubDate>Fri, 20 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://beerkay.github.io/newsarchieve/</guid>
+      <description>&lt;h5 id=&#34;2023&#34;&gt;2023&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;I&amp;rsquo;m so proud of my first Ph.D. student, &lt;a href=&#34;https://habiba-farrukh.github.io/&#34;&gt;Habiba Farrukh&lt;/a&gt;, who successfully defended her thesis. Habiba will join UC Irvine as an Assistant Professor in the &lt;a href=&#34;https://www.ics.uci.edu/&#34;&gt;Department of Computer Science&lt;/a&gt;. Congratulations Habiba!&lt;/li&gt;
+&lt;li&gt;Excited to be a part of the new &lt;a href=&#34;https://action.ucsb.edu/&#34;&gt;NSF AI Institute for Agent-based Cyber Threat Intelligence and OperatioN (ACTION)&lt;/a&gt; (led by Giovanni Vigna) with a great team of colleagues.&lt;/li&gt;
+&lt;li&gt;Excited to be part of the &lt;a href=&#34;https://gsabusiness.com/news/education/83217/&#34;&gt;multi-university transportation center&lt;/a&gt; focusing on cybersecurity sponsored by the United States Department of Transportation (USDOT).&lt;/li&gt;
+&lt;li&gt;Congratulations to Raymond Muller on receiving the Graduate Teaching Award from Purdue Computer Science Department.&lt;/li&gt;
+&lt;li&gt;Congratulations to Raymond Muller on receiving the &lt;a href=&#34;https://www.cs.purdue.edu/news/articles/2023/purdue-cs-graduate-student-secures-x-force-fellowship.html?utm_source=sfmc&amp;amp;utm_medium=email&amp;amp;utm_campaign=230713PurdueToday&amp;amp;utm_term=CS+graduate+student+secures+X-Force+Fellowship%2c+focusing+on+national+security+projects+&amp;amp;utm_id=761352&amp;amp;sfmc_id=0038c00002tusszAAA&#34;&gt;X-Force Fellowship&lt;/a&gt; through the National Security Innovation Network to solve national security problems in collaboration with the U.S. military.&lt;/li&gt;
+&lt;li&gt;[USENIX Security 23] &lt;a href=&#34;https://beerkay.github.io/papers/Berkay2023AceroUSENIXSecurity.pdf&#34;&gt;Discovering Adversarial Driving Maneuvers against Autonomous Vehicles&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[USENIX Security 23] &lt;a href=&#34;https://beerkay.github.io/papers/Berkay2023LocInUSENIXSecurity.pdf&#34;&gt;LocIn: Inferring Semantic Location from Spatial Maps in Mixed Realitys&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[USENIX Security 23] &lt;a href=&#34;https://beerkay.github.io/papers/Berkay2023ZBCANUSENIXSecurity.pdf&#34;&gt;ZBCAN: A Zero-Byte CAN Defense System&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[USENIX Security 23] &lt;a href=&#34;https://beerkay.github.io/papers/Berkay2023PercepGuardUSENIXSecurity.pdf&#34;&gt;That Person Moves Like A Car: Misclassification Attack Detection for Autonomous Systems using Spatiotemporal Consistency&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[USENIX Security 23] &lt;a href=&#34;https://beerkay.github.io/papers/Berkay2023PatchVerifUSENIXSecurity.pdf&#34;&gt;PatchVerif: Discovering Faulty Patches in Robotic Vehicles&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[IEEE S&amp;amp;P 23] &lt;a href=&#34;https://beerkay.github.io/papers/Berkay2023IoTCupidOakland.pdf&#34;&gt;One Key to Rule Them All: Secure Group Pairing for Heterogeneous IoT Devices&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[PETS 23] &lt;a href=&#34;https://beerkay.github.io/papers/Berkay2023IStelanc.pdf&#34;&gt;iStelan: Disclosing Sensitive User Information by Mobile Magnetometer from Finger Touches&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[NDSS 23] &lt;a href=&#34;papers/Berkay2023EvasionEVSNDDS.pdf&#34;&gt;Evasion Attacks and Defenses on Smart Home Physical Event Verification&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[VehicleSec 23] &lt;a href=&#34;https://beerkay.github.io/papers/Berkay2023SwarmPairingVehicleSec.pdf&#34;&gt;Rethinking Secure Pairing in Drone Swarms (Position Paper)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[CFP] &lt;a href=&#34;https://safe-things-2023.github.io/&#34;&gt;Workshop Co-chair - Call for Papers: IEEE/ACM Workshop on the Internet of Safe Things 2023&lt;/a&gt;. SafeThings will happen with CPS-IoT Week at San Antonio on May 9, 2023&lt;/li&gt;
+&lt;li&gt;[CFP] &lt;a href=&#34;https://www.ndss-symposium.org/ndss2023/submissions/cfp-vehiclesec/&#34;&gt;Workshop Co-chair - Call for Papers: Inaugural Symposium on Vehicle Security and Privacy (VehicleSec) 2023&lt;/a&gt;. VehicleSec will happen with NDSS at San Diego on Feb 27, 2023 (Hybrid) &lt;a href=&#34;https://twitter.com/vehiclesec_conf&#34;&gt;Follow @VehicleSec2023&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;2022&#34;&gt;2022&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;[2022] I and &lt;a href=&#34;https://www.cs.purdue.edu/homes/dxu/&#34;&gt;Prof. Xu&lt;/a&gt; received funding with the CISCO&lt;/li&gt;
+&lt;li&gt;[Google ASPIRE 2022] Our team lead by I and &lt;a href=&#34;https://antoniobianchi.me/&#34;&gt;Prof. Bianchi&lt;/a&gt; won Google ASPIRE Award&lt;/li&gt;
+&lt;li&gt;[CCS 22] &lt;a href=&#34;https://beerkay.github.io/papers/Berkay2022IoTPhysicalCCS.pdf&#34;&gt;Discovering IoT Physical Channel Vulnerabilities&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[CCS 22] &lt;a href=&#34;https://beerkay.github.io/papers/Berkay2022PhysicalHijackingCCS.pdf&#34;&gt;Physical Hijacking Attacks against Object Trackers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Two papers and two demos are accepted to &lt;a href=&#34;https://beerkay.github.io/fullpublication&#34;&gt;AutoSec 22&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Two journal papers are accepted to &lt;a href=&#34;https://beerkay.github.io/fullpublication&#34;&gt;ACM Transcations on Internet of Things (TIOT) 22&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[IEEE S&amp;amp;P 22] &lt;a href=&#34;https://beerkay.github.io/papers/Berkay2022PGPatchIEEESP.pdf&#34;&gt;PGPatch: Policy-Guided Logic Bug Patching for Robotic Vehicles&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[USENIX Security 22] &lt;a href=&#34;papers/Berkay2022SaraUSENIXSecurity.pdf&#34;&gt;SARA: Secure Android Remote Authorization&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;The &lt;a href=&#34;https://www.ndss-symposium.org/ndss2022/cfp-autosec-workshop/&#34;&gt;AutoSec (Automotive &amp;amp; Autonomous Vehicle Security) Workshop&lt;/a&gt; will be hosted with NDSS again in 2022! &lt;a href=&#34;https://twitter.com/autosec_conf?lang=en&#34;&gt;Follow @autosec_conf&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;I&amp;rsquo;ve earned &lt;a href=&#34;https://www.cs.purdue.edu/news/articles/2022/career_celik.html&#34;&gt;NSF CAREER Award&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[USENIX Security 22] &lt;a href=&#34;papers/Berkay2022YoutubeUSENIXSecurity.pdf&#34;&gt;Behind the Tube: Exploitative Monetization of Content on YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;2021&#34;&gt;2021&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;I&amp;rsquo;ve received funding with the &lt;a href=&#34;https://www.cs.purdue.edu/news/articles/2021/purdue_rolls-royce_research2.html&#34;&gt;Rolls-Royce Cybersecurity Technology Research Network&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[Google ASPIRE 2021] Our team lead by I and &lt;a href=&#34;https://antoniobianchi.me/&#34;&gt;Prof. Bianchi&lt;/a&gt; won &lt;a href=&#34;https://www.cs.purdue.edu/news/articles/2021/aspire_award.html&#34;&gt;Google ASPIRE Award&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[SafeThings 21] &lt;a href=&#34;papers/Berkay2021PenserSafethings.pdf&#34;&gt;On the Safety Implications of Misordered Events and Commands in IoT Systems&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[PETS 21] &lt;a href=&#34;papers/Berkay2021DaintPETS2021.pdf&#34;&gt;Real-time Analysis of Privacy-(un)aware IoT Applications&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[NDSS 21] &lt;a href=&#34;papers/Berkay2021PGFuzzNDSS.pdf&#34;&gt;PGFUZZ: Policy-Guided Fuzzing for Robotic Vehicles&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[USENIX Security 21] &lt;a href=&#34;papers/Berkay2021CanoxUSENIXSecurity.pdf&#34;&gt;Exposing New Vulnerabilities of Error Handling Mechanism in CAN&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[USENIX Security 21] &lt;a href=&#34;papers/Berkay2021AtlasUSENIXSecurity.pdf&#34;&gt;ATLAS: A Sequence-based Learning Approach for Attack Investigation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[KDD 21] &lt;a href=&#34;papers/Berkay2021XAITrojan.pdf&#34;&gt;What do you see? Evaluation of XAI Interpretability through Neural Backdoors&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[ICML-FL 21] &lt;a href=&#34;papers/Berkay2021ICMLFLPersonalizedFL.pdf&#34;&gt;New Metrics to Evaluate the Performance and Fairness of Personalized FL&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[IEEE SecDev 21] &lt;a href=&#34;papers/Berkay2021SecDevContainerSecurity.pdf&#34;&gt;Towards Improving Container Security by Preventing Runtime Escapes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[NDSS 21] &lt;a href=&#34;papers/Berkay2021DuetNDSS.pdf&#34;&gt;Evading Voltage-Based Intrusion Detection on Automotive CAN&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[UbiComp 21] &lt;a href=&#34;papers/berkay2021S3UbiComp.pdf&#34;&gt;S3: Side-channel Attack on Stylus Pencil Through Sensors&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[IoTDI 21] &lt;a href=&#34;papers/Berkay2021SentinelIoTDI.pdf&#34;&gt;Sentinel: A Robust IDS for IoT Networks Using Kernel-Level System Information&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Publications</title>
       <link>https://beerkay.github.io/fullpublication/</link>
       <pubDate>Fri, 20 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>https://beerkay.github.io/fullpublication/</guid>
-      <description>&lt;script src=&#34;https://bibbase.org/show?bib=beerkay.github.io%2Fpapers%2FmyPublications.bib&amp;jsonp=1&amp;fullnames=1&amp;theme=side&amp;hidemenu=true&amp;commas=true&#34;&gt;&lt;/script&gt;
+      <description>&lt;p&gt;&lt;a href=&#34;https://scholar.google.com/schhp?hl=en&#34;&gt;Google Scholar Page&lt;/a&gt; - &lt;a href=&#34;https://github.com/purseclab&#34;&gt;Code and Datasets&lt;/a&gt;&lt;/p&gt;
+&lt;script src=&#34;https://bibbase.org/show?bib=beerkay.github.io%2Fpapers%2FmyPublications.bib&amp;jsonp=1&amp;fullnames=1&amp;theme=side&amp;hidemenu=true&amp;commas=true&#34;&gt;&lt;/script&gt;
 &lt;!--
 	&lt;script src=&#34;https://bibbase.org/show?bib=beerkay.github.io%2Fpapers%2FmyPublications.bib&amp;jsonp=1&amp;fullnames=1&amp;theme=side&amp;hidemenu=true&amp;commas=true&#34;&gt;&lt;/script&gt;
 
