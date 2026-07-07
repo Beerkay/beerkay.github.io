@@ -1,3 +1,3 @@
 window.SITE_META = {
-  lastUpdated: "June 5, 2026"
+  lastUpdated: "July 7, 2026"
 };
