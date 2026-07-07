@@ -5,15 +5,18 @@ Personal academic site for **Z. Berkay Celik** — plain HTML/CSS/JS, no build s
 ## Structure
 
 ```
-index.html          Home (bio, teaching, service & awards, news)
-publications.html   Publications page (BibBase)
-students.html       Research group + past students
-css/style.css       Design system (Crimson Pro + Inter, gold accent, adaptive layout)
-js/main.js          Mobile menu + section entrance animation
-papers/myPublications.bib   BibTeX source for Publications (via BibBase)
-assets/img/         profile.jpg, favicon.png, berkay-purdue.png
-assets/pdf/         BerkayCV.pdf, CS426.pdf, CS592IoTCPS.pdf, CS529.pdf
-.nojekyll           Serve files as-is (no Jekyll processing)
+index.html                    Home (bio, teaching, service & awards, news)
+publications.html             Publications page
+students.html                 Research group + past students
+css/style.css                 Design system (Crimson Pro + Inter, gold accent, adaptive layout)
+js/main.js                    Mobile menu + section entrance animation + footer dates
+js/site-meta.js               Generated footer metadata from the latest git commit
+js/publications.js            BibTeX renderer for Publications
+paper-bib/myPublications.bib   BibTeX source for Publications
+paper-pdfs/                   Paper PDFs used throughout the site
+assets/img/                   profile.jpg, favicon.png, berkay-purdue.png
+assets/pdf/                   BerkayCV.pdf, CS426.pdf, CS592IoTCPS.pdf, CS529.pdf
+.nojekyll                     Serve files as-is (no Jekyll processing)
 ```
 
 Three pages share the same top nav and left identity rail. Because there's no build
@@ -31,20 +34,19 @@ Edit the HTML and push — no build needed.
 - **Add a news item:** add an `<li>` at the top of the `.news` list in `index.html`.
 - **Mark the active nav tab:** each page sets `class="active"` on its own nav link.
 - **Change colors/spacing/fonts:** edit the variables in `:root` at the top of `css/style.css`.
+- **Refresh the footer date:** run `python3 scripts/update-site-meta.py` after a commit to regenerate `js/site-meta.js` from the latest git commit date.
 
-## Publications (BibBase)
+## Publications
 
-The Publications section renders `papers/myPublications.bib` automatically using
-[BibBase](https://bibbase.org/) — the real 100-entry bib carried over from the old site.
-To update the list:
+The Publications page renders `paper-bib/myPublications.bib` automatically with the local
+JavaScript renderer in `js/publications.js`. To update the list:
 
-1. Edit `papers/myPublications.bib` (add/edit BibTeX entries; each `url = {...}` becomes a PDF link).
-2. Commit and push. BibBase fetches `https://beerkay.github.io/papers/myPublications.bib`
-   server-side and regenerates the grouped-by-year list automatically — no other change needed.
+1. Edit `paper-bib/myPublications.bib` (add/edit BibTeX entries; each `url = {...}` becomes a PDF or web link).
+2. Refresh `publications.html` while serving the site over HTTP.
 
-The embed URL/options live in `index.html` (search for `bibbase.org/show`). Because BibBase
-fetches the file from its public URL, the list renders on the **deployed** site and in the
-local preview (it reads the live URL), but not from a bare `file://` open.
+The page groups entries by year and highlights `Z. Berkay Celik` automatically. It works on
+GitHub Pages and during local preview, as long as you open the site through a web server
+instead of `file://`.
 
 ## Assets
 
@@ -57,7 +59,8 @@ All carried over from the old site and committed in this repo:
 | `assets/img/favicon.png` | Browser tab icon |
 | `assets/pdf/BerkayCV.pdf` | CV link |
 | `assets/pdf/CS426.pdf`, `CS592IoTCPS.pdf`, `CS529.pdf` | Course syllabi |
-| `papers/myPublications.bib` | Full publication list (100 entries) for BibBase |
+| `paper-bib/myPublications.bib` | Full publication list in BibTeX form |
+| `js/publications.js` | Client-side renderer for the publication list |
 | `assets/img/people/<slug>.jpg` | Optional member photos — drop one in and it replaces the initials placeholder automatically (filenames referenced in `index.html` / `students.html`) |
 
 Replace any of these with newer files using the same name — no code change needed.
