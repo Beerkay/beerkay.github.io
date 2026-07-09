@@ -396,16 +396,51 @@ ul.tight .year { color: var(--muted); font-variant-numeric: tabular-nums; }
 .m-role { color: var(--muted); font-size: 0.72rem; font-family: var(--sans); }
 
 /* students page link accents */
+.content #students .student-group {
+  margin-top: 18px;
+  padding: 16px 18px 6px;
+  border: 1px solid var(--rule-soft);
+  border-radius: var(--radius);
+  background: linear-gradient(180deg, rgba(240, 245, 252, 0.65), rgba(255, 255, 255, 0.98));
+}
+.content #students .student-group + .student-group {
+  margin-top: 24px;
+}
+.content #students .student-group-label {
+  margin-bottom: 8px;
+  color: var(--accent-strong);
+  font-family: var(--sans);
+  font-size: var(--fs-xsmall);
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
 .content #students .members .m-name a { color: #0b5fb8; }
 .content #students .members .m-name a:hover { color: var(--accent-bright); }
 .content #students .list a { color: var(--link); }
 .content #students .list a:hover { color: var(--accent-bright); }
+.content #students .subhead {
+  margin-top: 22px;
+}
+.content #students .student-group .subhead:first-of-type {
+  margin-top: 16px;
+}
+.content #students .subhead + .members,
+.content #students .subhead + ul.list {
+  margin-top: 4px;
+  margin-bottom: 20px;
+}
 .content #students ul.list li { border-bottom: none; }
 
 html[data-theme="dark"] .content #students .members .m-name a { color: #8cc4ff; }
 html[data-theme="dark"] .content #students .members .m-name a:hover { color: var(--accent-bright); }
 html[data-theme="dark"] .content #students .list a { color: #8cc4ff; }
 html[data-theme="dark"] .content #students .list a:hover { color: var(--accent-bright); }
+html[data-theme="dark"] .content #students .student-group {
+  background: linear-gradient(180deg, rgba(24, 34, 48, 0.92), rgba(18, 25, 35, 0.96));
+  border-color: rgba(131, 154, 184, 0.2);
+}
+html[data-theme="dark"] .content #students .student-group-label { color: #8cc4ff; }
 
 /* rich publication list (selected, Papernot-style) */
 ul.pubs { list-style: none; margin: 4px 0 2px; padding: 0; }
