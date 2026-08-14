@@ -1,15 +1,38 @@
 window.PUBLICATIONS_DATA = [
   {
     "fields": {
+      "title": "{Compiler Provenance as a Service: Decoupled Identification for Composite Provenance and Operational Resilience}",
+      "author": "Gao, Han and Bianchi, Antonio and Celik, Z. Berkay and Tian, Dave (Jing)",
+      "booktitle": "ACM SIGSAC Conference on Computer and Communications Security (CCS)",
+      "year": "2026",
+      "__type": "inproceedings",
+      "__key": "Berkay2026ProvenanceCCS"
+    },
+    "order": 0
+  },
+  {
+    "fields": {
+      "title": "A Self-Explainable Deep Architecture for Security Applications",
+      "author": "Shreekumar, Ananth and Syu, JyunJhu and Ozmen, Muslum Ozgur and Xu, Dongyan and Celik, Z. Berkay",
+      "booktitle": "Conference on Game Theory and AI for Security (GameSec)",
+      "year": "2026",
+      "__type": "inproceedings",
+      "__key": "shreekumar2026self"
+    },
+    "order": 1
+  },
+  {
+    "fields": {
       "title": "STARS: Synchronous Token Alignment for Robust Supervision in Large Language Models",
       "author": "Quamar, Mohammad Atif and Areeb, Mohammad and Kuznetsov, Mikhail and Ozmen, Muslum Ozgur and Celik, Z. Berkay",
       "booktitle": "ICML Workshop on Structured Probabilistic Inference \\& Generative Modeling",
       "pages": "1--10",
       "year": "2026",
-      "__type": "Berkay2026StarsICML-SPIGM",
+      "url": "paper-pdfs/Berkay2026StarsSPIGMICML.pdf",
+      "__type": "inproceedings",
       "__key": "Berkay2026StarsICML-SPIGM"
     },
-    "order": 0
+    "order": 2
   },
   {
     "fields": {
@@ -18,21 +41,12 @@ window.PUBLICATIONS_DATA = [
       "booktitle": "USENIX Security Symposium",
       "pages": "1--18",
       "year": "2026",
-      "__type": "Berkay2026CANXLUSENIX",
+      "note": "Distinguished Paper Runner-Up",
+      "url": "paper-pdfs/Berkay2026canXLUSENIXSecurity.pdf",
+      "__type": "inproceedings",
       "__key": "Berkay2026CANXLUSENIX"
     },
-    "order": 1
-  },
-  {
-    "fields": {
-      "title": "{Compiler Provenance as a Service: Decoupled Identification for Composite Provenance and Operational Resilience}",
-      "author": "Gao, Han and Bianchi, Antonio and Celik, Z. Berkay and Tian, Dave (Jing)",
-      "booktitle": "ACM SIGSAC Conference on Computer and Communications Security (CCS)",
-      "year": "2026",
-      "__type": "Berkay2026ProvenanceCCS",
-      "__key": "Berkay2026ProvenanceCCS"
-    },
-    "order": 2
+    "order": 3
   },
   {
     "fields": {
@@ -41,11 +55,11 @@ window.PUBLICATIONS_DATA = [
       "booktitle": "USENIX Security Symposium",
       "pages": "1--20",
       "year": "2026",
-      "url": "paper-pdfs/Berkay2026BadControlUSENIX.pdf",
-      "__type": "Berkay2026BadControlUSENIX",
+      "url": "paper-pdfs/Berkay2026BadControlUSENIXSecurity.pdf",
+      "__type": "inproceedings",
       "__key": "Berkay2026BadControlUSENIX"
     },
-    "order": 3
+    "order": 4
   },
   {
     "fields": {
@@ -56,10 +70,11 @@ window.PUBLICATIONS_DATA = [
       "number": "4",
       "year": "2026",
       "note": "The Andreas Pfitzmann Best Paper Award",
-      "__type": "Berkay2026MilitaryPrivacyPets",
+      "url": "paper-pdfs/Berkay2026PETSMilitaryApps.pdf",
+      "__type": "article",
       "__key": "Berkay2026MilitaryPrivacyPets"
     },
-    "order": 4
+    "order": 5
   },
   {
     "fields": {
@@ -67,10 +82,11 @@ window.PUBLICATIONS_DATA = [
       "author": "Ka, Eunhan and Yeke, Doguhan and Celik, Z. Berkay and Ukkusuri, Satish",
       "booktitle": "USENIX Symposium on Vehicle Security and Privacy (VehicleSec 25)",
       "year": "2026",
-      "__type": "Berkay2026FakeBrakeVehicleSec",
+      "url": "paper-pdfs/Berkay2026FakeBrakeVehicleSec.pdf",
+      "__type": "inproceedings",
       "__key": "Berkay2026FakeBrakeVehicleSec"
     },
-    "order": 5
+    "order": 6
   },
   {
     "fields": {
@@ -79,10 +95,10 @@ window.PUBLICATIONS_DATA = [
       "booktitle": "The 1st ACM Conference on AI and Agentic Systems (ACM CAIS)",
       "year": "2026",
       "url": "paper-pdfs/Berkay2026PreModelCAIS.pdf",
-      "__type": "Berkay2026PreModelCAIS",
+      "__type": "inproceedings",
       "__key": "Berkay2026PreModelCAIS"
     },
-    "order": 6
+    "order": 7
   },
   {
     "fields": {
@@ -91,10 +107,10 @@ window.PUBLICATIONS_DATA = [
       "booktitle": "Workshop on Agents in the Wild: Safety, Security, and Beyond (co-located at ICLR)",
       "year": "2026",
       "url": "paper-pdfs/BerkayAgenticAISystems2026ICLRWorkshop.pdf",
-      "__type": "BerkayAgenticAISystems2026ICLRWorkshop",
+      "__type": "inproceedings",
       "__key": "BerkayAgenticAISystems2026ICLRWorkshop"
     },
-    "order": 7
+    "order": 8
   },
   {
     "fields": {
@@ -103,10 +119,10 @@ window.PUBLICATIONS_DATA = [
       "booktitle": "ACM/IEEE International Conference on Cyber-Physical Systems",
       "year": "2026",
       "url": "paper-pdfs/Berkay2026PLCTime-AwareCPS.pdf",
-      "__type": "Berkay2026PLCTime-AwareCPS",
+      "__type": "inproceedings",
       "__key": "Berkay2026PLCTime-AwareCPS"
     },
-    "order": 8
+    "order": 9
   },
   {
     "fields": {
@@ -115,10 +131,10 @@ window.PUBLICATIONS_DATA = [
       "booktitle": "ACM Asia Conference on Computer and Communications Security (ASIACCS)",
       "year": "2026",
       "url": "paper-pdfs/Berkay2026MDLAsiaCCS.pdf",
-      "__type": "Berkay2026MDLAsiaCCS",
+      "__type": "inproceedings",
       "__key": "Berkay2026MDLAsiaCCS"
     },
-    "order": 9
+    "order": 10
   },
   {
     "fields": {
@@ -128,10 +144,10 @@ window.PUBLICATIONS_DATA = [
       "pages": "1--10",
       "year": "2026",
       "url": "paper-pdfs/Berkay2026LatencyCooperativeePerceptionAAAI.pdf",
-      "__type": "Berkay2026LatencyCooperativeePerceptionAAAI",
+      "__type": "inproceedings",
       "__key": "Berkay2026LatencyCooperativeePerceptionAAAI"
     },
-    "order": 10
+    "order": 11
   },
   {
     "fields": {
@@ -141,10 +157,10 @@ window.PUBLICATIONS_DATA = [
       "pages": "1--18",
       "year": "2026",
       "url": "paper-pdfs/Berkay2026DarkPatternAgentIEEESP.pdf",
-      "__type": "Berkay2026DarkPatternAgentIEEESP",
+      "__type": "inproceedings",
       "__key": "Berkay2026DarkPatternAgentIEEESP"
     },
-    "order": 11
+    "order": 12
   },
   {
     "fields": {
@@ -154,10 +170,10 @@ window.PUBLICATIONS_DATA = [
       "year": "2026",
       "pages": "1--18",
       "url": "paper-pdfs/Berkay2026IntStudentScamIEEESP.pdf",
-      "__type": "Berkay2026IntStudentScamIEEESP",
+      "__type": "inproceedings",
       "__key": "Berkay2026IntStudentScamIEEESP"
     },
-    "order": 12
+    "order": 13
   },
   {
     "fields": {
@@ -167,10 +183,10 @@ window.PUBLICATIONS_DATA = [
       "year": "2026",
       "pages": "1--18",
       "url": "paper-pdfs/Berkay2026VRSideChannelNDSS.pdf",
-      "__type": "Berkay2026VRSideChannelNDSS",
+      "__type": "inproceedings",
       "__key": "Berkay2026VRSideChannelNDSS"
     },
-    "order": 13
+    "order": 14
   },
   {
     "fields": {
@@ -180,10 +196,10 @@ window.PUBLICATIONS_DATA = [
       "year": "2026",
       "pages": "1--18",
       "url": "paper-pdfs/Berkay2026DNNExtractionNDSS.pdf",
-      "__type": "Berkay2026DNNExtractionNDSS",
+      "__type": "inproceedings",
       "__key": "Berkay2026DNNExtractionNDSS"
     },
-    "order": 14
+    "order": 15
   },
   {
     "fields": {
@@ -195,10 +211,10 @@ window.PUBLICATIONS_DATA = [
       "pages": "66--70",
       "year": "2025",
       "url": "paper-pdfs/Berkay2025SpatioTemporalIEEESPMag.pdf",
-      "__type": "Berkay2025SpatioTemporalIEEESPMag",
+      "__type": "article",
       "__key": "Berkay2025SpatioTemporalIEEESPMag"
     },
-    "order": 15
+    "order": 16
   },
   {
     "fields": {
@@ -208,10 +224,10 @@ window.PUBLICATIONS_DATA = [
       "year": "2025",
       "pages": "1--12",
       "url": "paper-pdfs/Berkay2025rethinkingAISEC.pdf",
-      "__type": "Berkay2025rethinkingAISEC",
+      "__type": "inproceedings",
       "__key": "Berkay2025rethinkingAISEC"
     },
-    "order": 16
+    "order": 17
   },
   {
     "fields": {
@@ -222,10 +238,10 @@ window.PUBLICATIONS_DATA = [
       "pages": "1--24",
       "owner": "berkay",
       "url": "paper-pdfs/Berkay2025ImplicitValuesEMNLP.pdf",
-      "__type": "Berkay2025ImplicitValuesEMNLP",
+      "__type": "inproceedings",
       "__key": "Berkay2025ImplicitValuesEMNLP"
     },
-    "order": 17
+    "order": 18
   },
   {
     "fields": {
@@ -236,10 +252,10 @@ window.PUBLICATIONS_DATA = [
       "pages": "1-18",
       "owner": "berkay",
       "url": "paper-pdfs/Berkay2025MultiRobotSecurity.pdf",
-      "__type": "Berkay2025MultiRobotSecurity",
+      "__type": "inproceedings",
       "__key": "Berkay2025MultiRobotSecurity"
     },
-    "order": 18
+    "order": 19
   },
   {
     "fields": {
@@ -250,10 +266,10 @@ window.PUBLICATIONS_DATA = [
       "pages": "1-18",
       "owner": "berkay",
       "url": "paper-pdfs/Berkay2025CoopPerceptSecurity.pdf",
-      "__type": "Berkay2025CoopPerceptSecurity",
+      "__type": "inproceedings",
       "__key": "Berkay2025CoopPerceptSecurity"
     },
-    "order": 19
+    "order": 20
   },
   {
     "fields": {
@@ -265,10 +281,10 @@ window.PUBLICATIONS_DATA = [
       "owner": "berkay",
       "note": "Honorable Mention Award; Acceptance Rate: 17.1\\%",
       "url": "paper-pdfs/Berkay2025WebXRSecurity.pdf",
-      "__type": "Berkay2025WebXRSecuritySecurity",
+      "__type": "inproceedings",
       "__key": "Berkay2025WebXRSecuritySecurity"
     },
-    "order": 20
+    "order": 21
   },
   {
     "fields": {
@@ -278,10 +294,10 @@ window.PUBLICATIONS_DATA = [
       "pages": "1--7",
       "year": "2025",
       "url": "paper-pdfs/Berkay2025CANFeatures.pdf",
-      "__type": "Berkay2025CANFeaturesVehicleSec",
+      "__type": "inproceedings",
       "__key": "Berkay2025CANFeaturesVehicleSec"
     },
-    "order": 21
+    "order": 22
   },
   {
     "fields": {
@@ -291,10 +307,10 @@ window.PUBLICATIONS_DATA = [
       "year": "2025",
       "pages": "1-5",
       "url": "paper-pdfs/Berkay2025UserInteractionWebXR.pdf",
-      "__type": "Berkay2025UserInteractionWebXRHumansys",
+      "__type": "inproceedings",
       "__key": "Berkay2025UserInteractionWebXRHumansys"
     },
-    "order": 22
+    "order": 23
   },
   {
     "fields": {
@@ -305,10 +321,10 @@ window.PUBLICATIONS_DATA = [
       "pages": "1-18",
       "owner": "berkay",
       "url": "paper-pdfs/Berkay2025PhysicalLatencyIEEESP.pdf",
-      "__type": "Berkay2025PhysicalLatencyIEEESP",
+      "__type": "inproceedings",
       "__key": "Berkay2025PhysicalLatencyIEEESP"
     },
-    "order": 23
+    "order": 24
   },
   {
     "fields": {
@@ -320,10 +336,10 @@ window.PUBLICATIONS_DATA = [
       "volume": "14",
       "pages": "68--72",
       "url": "paper-pdfs/Berkay2025EcommerceFraudIEEESPMag.pdf",
-      "__type": "Berkay2025EcommerceFraudIEEESPMag",
+      "__type": "article",
       "__key": "Berkay2025EcommerceFraudIEEESPMag"
     },
-    "order": 24
+    "order": 25
   },
   {
     "fields": {
@@ -333,10 +349,10 @@ window.PUBLICATIONS_DATA = [
       "year": "2025",
       "pages": "1--30",
       "url": "paper-pdfs/Berkay2025ICSIndicatorsComSec.pdf",
-      "__type": "Berkay2025ICSIndicatorsComSec",
+      "__type": "inproceedings",
       "__key": "Berkay2025ICSIndicatorsComSec"
     },
-    "order": 25
+    "order": 26
   },
   {
     "fields": {
@@ -346,10 +362,10 @@ window.PUBLICATIONS_DATA = [
       "year": "2025",
       "pages": "1--17",
       "url": "paper-pdfs/Berkay2025VRSensorsNDSS.pdf",
-      "__type": "Berkay2025VRSensorsNDSS",
+      "__type": "inproceedings",
       "__key": "Berkay2025VRSensorsNDSS"
     },
-    "order": 26
+    "order": 27
   },
   {
     "fields": {
@@ -359,10 +375,10 @@ window.PUBLICATIONS_DATA = [
       "year": "2025",
       "pages": "1--17",
       "url": "paper-pdfs/Berkay2025ScopeVerifNDSS.pdf",
-      "__type": "Berkay2025ScopeVerifNDSS",
+      "__type": "inproceedings",
       "__key": "Berkay2025ScopeVerifNDSS"
     },
-    "order": 27
+    "order": 28
   },
   {
     "fields": {
@@ -371,10 +387,10 @@ window.PUBLICATIONS_DATA = [
       "booktitle": "International AAAI Conference on Web and Social Media (ICWSM)",
       "year": "2025",
       "url": "paper-pdfs/Berkay2025BeatsICWSM.pdf",
-      "__type": "Berkay2025BeatsICWSM",
+      "__type": "inproceedings",
       "__key": "Berkay2025BeatsICWSM"
     },
-    "order": 28
+    "order": 29
   },
   {
     "fields": {
@@ -384,10 +400,10 @@ window.PUBLICATIONS_DATA = [
       "pages": "1--15",
       "year": "2025",
       "url": "paper-pdfs/Berkay2025VOAXPETs.pdf",
-      "__type": "Berkay2025VOAXPETs",
+      "__type": "inproceedings",
       "__key": "Berkay2025VOAXPETs"
     },
-    "order": 29
+    "order": 30
   },
   {
     "fields": {
@@ -397,10 +413,10 @@ window.PUBLICATIONS_DATA = [
       "pages": "1--10",
       "year": "2025",
       "url": "paper-pdfs/Berkay2025BinarySaner.pdf",
-      "__type": "Berkay2025BinarySaner",
+      "__type": "inproceedings",
       "__key": "Berkay2025BinarySaner"
     },
-    "order": 30
+    "order": 31
   },
   {
     "fields": {
@@ -410,10 +426,10 @@ window.PUBLICATIONS_DATA = [
       "pages": "1-6",
       "year": "2024",
       "url": "paper-pdfs/Berkay2024BeatsCSCW.pdf",
-      "__type": "Berkay2024BeatsCSCW",
+      "__type": "inproceedings",
       "__key": "Berkay2024BeatsCSCW"
     },
-    "order": 31
+    "order": 32
   },
   {
     "fields": {
@@ -423,10 +439,10 @@ window.PUBLICATIONS_DATA = [
       "pages": "1--6",
       "year": "2024",
       "url": "paper-pdfs/Berkay2024RobocopIROS.pdf",
-      "__type": "Berkay2024robocopIROS",
+      "__type": "inproceedings",
       "__key": "Berkay2024robocopIROS"
     },
-    "order": 32
+    "order": 33
   },
   {
     "fields": {
@@ -436,10 +452,10 @@ window.PUBLICATIONS_DATA = [
       "pages": "1--6",
       "year": "2024",
       "url": "paper-pdfs/Berkay2024RoboGuardzIROS.pdf",
-      "__type": "Berkay2024RoboGuardzIROS",
+      "__type": "inproceedings",
       "__key": "Berkay2024RoboGuardzIROS"
     },
-    "order": 33
+    "order": 34
   },
   {
     "fields": {
@@ -450,10 +466,10 @@ window.PUBLICATIONS_DATA = [
       "year": "2024",
       "note": "Distinguished Paper Award; Acceptance Rate: 16.9\\%",
       "url": "paper-pdfs/Berkay2024ERECANCCS.pdf",
-      "__type": "Berkay2024ERECANCCS",
+      "__type": "inproceedings",
       "__key": "Berkay2024ERECANCCS"
     },
-    "order": 34
+    "order": 35
   },
   {
     "fields": {
@@ -464,10 +480,10 @@ window.PUBLICATIONS_DATA = [
       "pages": "1-15",
       "owner": "berkay",
       "url": "paper-pdfs/Berkay2024PhysicalIDTransferACSAC.pdf",
-      "__type": "Berkay2024PhysicalIDTransferACSAC",
+      "__type": "inproceedings",
       "__key": "Berkay2024PhysicalIDTransferACSAC"
     },
-    "order": 35
+    "order": 36
   },
   {
     "fields": {
@@ -481,10 +497,10 @@ window.PUBLICATIONS_DATA = [
       "volume": "2024",
       "publisher": "Sciendo",
       "url": "paper-pdfs/Berkay2024IntermittentPETS.pdf",
-      "__type": "Berkay2024IntermittentPETS",
+      "__type": "article",
       "__key": "Berkay2024IntermittentPETS"
     },
-    "order": 36
+    "order": 37
   },
   {
     "fields": {
@@ -493,10 +509,10 @@ window.PUBLICATIONS_DATA = [
       "year": "2024",
       "eprint": "arXiv:2401.12317",
       "url": "paper-pdfs/Berkay2024NSFRobotics.pdf",
-      "__type": "Berkay2024NSFRobotics",
+      "__type": "inproceedings",
       "__key": "Berkay2024NSFRobotics"
     },
-    "order": 37
+    "order": 38
   },
   {
     "fields": {
@@ -505,10 +521,10 @@ window.PUBLICATIONS_DATA = [
       "booktitle": "Vehicle Security and Privacy (VehicleSec), collocated with NDSS",
       "year": "2024",
       "url": "paper-pdfs/Berkay2024EVFUZZDemoVehicleSec.pdf",
-      "__type": "Berkay2024EVFUZZDemoVehicleSec",
+      "__type": "inproceedings",
       "__key": "Berkay2024EVFUZZDemoVehicleSec"
     },
-    "order": 38
+    "order": 39
   },
   {
     "fields": {
@@ -518,10 +534,10 @@ window.PUBLICATIONS_DATA = [
       "pages": "1-7",
       "year": "2024",
       "url": "paper-pdfs/Berkay2024ToxicContentUSEC.pdf",
-      "__type": "Berkay2024ToxicContentUSEC",
+      "__type": "inproceedings",
       "__key": "Berkay2024ToxicContentUSEC"
     },
-    "order": 39
+    "order": 40
   },
   {
     "fields": {
@@ -531,10 +547,10 @@ window.PUBLICATIONS_DATA = [
       "year": "2024",
       "pages": "1-18",
       "url": "paper-pdfs/Berkay2024SensorSpoofingOakland.pdf",
-      "__type": "Berkay2024SensorSpoofingOakland",
+      "__type": "inproceedings",
       "__key": "Berkay2024SensorSpoofingOakland"
     },
-    "order": 40
+    "order": 41
   },
   {
     "fields": {
@@ -544,10 +560,10 @@ window.PUBLICATIONS_DATA = [
       "year": "2024",
       "pages": "1-18",
       "url": "paper-pdfs/Berkay2024WearOSOakland.pdf",
-      "__type": "Berkay2024WearOSOakland",
+      "__type": "inproceedings",
       "__key": "Berkay2024WearOSOakland"
     },
-    "order": 41
+    "order": 42
   },
   {
     "fields": {
@@ -557,10 +573,10 @@ window.PUBLICATIONS_DATA = [
       "year": "2024",
       "pages": "1-18",
       "url": "paper-pdfs/Berkay2024SainUSENIXSecurity.pdf",
-      "__type": "Berkay2024SainUSENIXSecurity",
+      "__type": "inproceedings",
       "__key": "Berkay2024SainUSENIXSecurity"
     },
-    "order": 42
+    "order": 43
   },
   {
     "fields": {
@@ -570,10 +586,10 @@ window.PUBLICATIONS_DATA = [
       "year": "2024",
       "pages": "1-18",
       "url": "paper-pdfs/Berkay2024VoguesUSENIXSecurity.pdf",
-      "__type": "Berkay2024VoguesUSENIXSecurity",
+      "__type": "inproceedings",
       "__key": "Berkay2024VoguesUSENIXSecurity"
     },
-    "order": 43
+    "order": 44
   },
   {
     "fields": {
@@ -584,10 +600,10 @@ window.PUBLICATIONS_DATA = [
       "pages": "1-18",
       "owner": "berkay",
       "url": "paper-pdfs/Berkay2024ATTUSENIXSecurity.pdf",
-      "__type": "Berkay2024ATTUSENIXSecurity",
+      "__type": "inproceedings",
       "__key": "Berkay2024ATTUSENIXSecurity"
     },
-    "order": 44
+    "order": 45
   },
   {
     "fields": {
@@ -598,10 +614,10 @@ window.PUBLICATIONS_DATA = [
       "pages": "1-18",
       "owner": "berkay",
       "url": "paper-pdfs/Berkay2024ToxicContentUSENIXSecurity.pdf",
-      "__type": "Berkay2024ToxicContentUSENIXSecurity",
+      "__type": "inproceedings",
       "__key": "Berkay2024ToxicContentUSENIXSecurity"
     },
-    "order": 45
+    "order": 46
   },
   {
     "fields": {
@@ -611,10 +627,10 @@ window.PUBLICATIONS_DATA = [
       "pages": "1-18",
       "year": "2024",
       "url": "paper-pdfs/Berkay2024DropshippingNDDS.pdf",
-      "__type": "Berkay2024DropshippingNDDS",
+      "__type": "inproceedings",
       "__key": "Berkay2024DropshippingNDDS"
     },
-    "order": 46
+    "order": 47
   },
   {
     "fields": {
@@ -625,10 +641,10 @@ window.PUBLICATIONS_DATA = [
       "pages": "1-15",
       "owner": "berkay",
       "url": "paper-pdfs/Berkay2023LLMMisconceptions.pdf",
-      "__type": "Berkay2023LLMMisconceptions",
+      "__type": "inproceedings",
       "__key": "Berkay2023LLMMisconceptions"
     },
-    "order": 47
+    "order": 48
   },
   {
     "fields": {
@@ -639,10 +655,10 @@ window.PUBLICATIONS_DATA = [
       "pages": "1-18",
       "owner": "berkay",
       "url": "paper-pdfs/Berkay2023AceroUSENIXSecurity.pdf",
-      "__type": "Berkay2023AceroUSENIXSecurity",
+      "__type": "inproceedings",
       "__key": "Berkay2023AceroUSENIXSecurity"
     },
-    "order": 48
+    "order": 49
   },
   {
     "fields": {
@@ -653,10 +669,10 @@ window.PUBLICATIONS_DATA = [
       "pages": "1-18",
       "owner": "berkay",
       "url": "paper-pdfs/Berkay2023LocInUSENIXSecurity.pdf",
-      "__type": "Berkay2023LocINUSENIXSecurity",
+      "__type": "inproceedings",
       "__key": "Berkay2023LocINUSENIXSecurity"
     },
-    "order": 49
+    "order": 50
   },
   {
     "fields": {
@@ -666,10 +682,10 @@ window.PUBLICATIONS_DATA = [
       "year": "2023",
       "pages": "1-18",
       "url": "paper-pdfs/Berkay2023ZBCANUSENIXSecurity.pdf",
-      "__type": "Berkay2023ZBCANUSENIXSecurity",
+      "__type": "inproceedings",
       "__key": "Berkay2023ZBCANUSENIXSecurity"
     },
-    "order": 50
+    "order": 51
   },
   {
     "fields": {
@@ -679,10 +695,10 @@ window.PUBLICATIONS_DATA = [
       "year": "2023",
       "pages": "1-18",
       "url": "paper-pdfs/Berkay2023PercepGuardUSENIXSecurity.pdf",
-      "__type": "Berkay2023PercepGuardUSENIXSecurity",
+      "__type": "inproceedings",
       "__key": "Berkay2023PercepGuardUSENIXSecurity"
     },
-    "order": 51
+    "order": 52
   },
   {
     "fields": {
@@ -692,10 +708,10 @@ window.PUBLICATIONS_DATA = [
       "year": "2023",
       "pages": "1-18",
       "url": "paper-pdfs/Berkay2023PatchVerifUSENIXSecurity.pdf",
-      "__type": "Berkay2023PatchVerifUSENIXSecurity",
+      "__type": "inproceedings",
       "__key": "Berkay2023PatchVerifUSENIXSecurity"
     },
-    "order": 52
+    "order": 53
   },
   {
     "fields": {
@@ -705,10 +721,10 @@ window.PUBLICATIONS_DATA = [
       "year": "2023",
       "pages": "1-5",
       "url": "paper-pdfs/Berkay2023SwarmPairingVehicleSec.pdf",
-      "__type": "Berkay2023DroneSwarmPairingVehicleSec",
+      "__type": "inproceedings",
       "__key": "Berkay2023DroneSwarmPairingVehicleSec"
     },
-    "order": 53
+    "order": 54
   },
   {
     "fields": {
@@ -717,10 +733,10 @@ window.PUBLICATIONS_DATA = [
       "booktitle": "Vehicle Security and Privacy (VehicleSec), collocated with NDSS",
       "year": "2023",
       "url": "paper-pdfs/Berkay2023AttrrackZoneDemoVehicleSec.pdf",
-      "__type": "Berkay2023AttractZoneDemoVehicleSec",
+      "__type": "inproceedings",
       "__key": "Berkay2023AttractZoneDemoVehicleSec"
     },
-    "order": 54
+    "order": 55
   },
   {
     "fields": {
@@ -729,10 +745,10 @@ window.PUBLICATIONS_DATA = [
       "booktitle": "Vehicle Security and Privacy (VehicleSec), collocated with NDSS",
       "year": "2023",
       "url": "paper-pdfs/Berkay2023PatchVerifDemoVehicleSec.pdf",
-      "__type": "Berkay2023PatchVerifDemoVehicleSec",
+      "__type": "inproceedings",
       "__key": "Berkay2023PatchVerifDemoVehicleSec"
     },
-    "order": 55
+    "order": 56
   },
   {
     "fields": {
@@ -746,10 +762,10 @@ window.PUBLICATIONS_DATA = [
       "volume": "2023",
       "publisher": "Sciendo",
       "url": "paper-pdfs/Berkay2023IStelanPETS.pdf",
-      "__type": "Berkay2023IstelanPETS",
+      "__type": "article",
       "__key": "Berkay2023IstelanPETS"
     },
-    "order": 56
+    "order": 57
   },
   {
     "fields": {
@@ -759,10 +775,10 @@ window.PUBLICATIONS_DATA = [
       "year": "2023",
       "pages": "1-17",
       "url": "paper-pdfs/Berkay2023IoTCupidOakland.pdf",
-      "__type": "Berkay2023IoTCupidOakland",
+      "__type": "inproceedings",
       "__key": "Berkay2023IoTCupidOakland"
     },
-    "order": 57
+    "order": 58
   },
   {
     "fields": {
@@ -772,10 +788,10 @@ window.PUBLICATIONS_DATA = [
       "pages": "1-18",
       "year": "2023",
       "url": "paper-pdfs/Berkay2023EvasionEVSNDDS.pdf",
-      "__type": "Berkay2023EvasionEVSNDDS",
+      "__type": "inproceedings",
       "__key": "Berkay2023EvasionEVSNDDS"
     },
-    "order": 58
+    "order": 59
   },
   {
     "fields": {
@@ -785,10 +801,10 @@ window.PUBLICATIONS_DATA = [
       "year": "2022",
       "pages": "1-13",
       "url": "paper-pdfs/Berkay2022IoTPhysicalCCS.pdf",
-      "__type": "Berkay2022PhysicalChannelCCS",
+      "__type": "inproceedings",
       "__key": "Berkay2022PhysicalChannelCCS"
     },
-    "order": 59
+    "order": 60
   },
   {
     "fields": {
@@ -798,10 +814,10 @@ window.PUBLICATIONS_DATA = [
       "year": "2022",
       "pages": "1-13",
       "url": "paper-pdfs/Berkay2022PhysicalHijackingCCS.pdf",
-      "__type": "Berkay2022PhysicalHijackingCCS",
+      "__type": "inproceedings",
       "__key": "Berkay2022PhysicalHijackingCCS"
     },
-    "order": 60
+    "order": 61
   },
   {
     "fields": {
@@ -810,10 +826,10 @@ window.PUBLICATIONS_DATA = [
       "journal": "ACM Transactions on Internet of Things (TIOT)",
       "pages": "1-39",
       "year": "2022",
-      "__type": "Berkay2022IoTAccessJournal",
+      "__type": "article",
       "__key": "Berkay2022IoTAccessJournal"
     },
-    "order": 61
+    "order": 62
   },
   {
     "fields": {
@@ -822,10 +838,10 @@ window.PUBLICATIONS_DATA = [
       "journal": "ACM Transactions on Internet of Things (TIOT)",
       "pages": "1-32",
       "year": "2022",
-      "__type": "Berkay2022IoTRepairJournal",
+      "__type": "article",
       "__key": "Berkay2022IoTRepairJournal"
     },
-    "order": 62
+    "order": 63
   },
   {
     "fields": {
@@ -833,10 +849,10 @@ window.PUBLICATIONS_DATA = [
       "author": "Yanmao Man and Raymond Muller and Ming Li and Z. Berkay Celik and Ryan Gerdes",
       "booktitle": "USENIX Security Symposium (Poster Session)",
       "year": "2022",
-      "__type": "Berkay2022AVPerceptionAttackUSENIXPoster",
+      "__type": "inproceedings",
       "__key": "Berkay2022AVPerceptionAttackUSENIXPoster"
     },
-    "order": 63
+    "order": 64
   },
   {
     "fields": {
@@ -845,10 +861,10 @@ window.PUBLICATIONS_DATA = [
       "booktitle": "International Conference on Cyber-Physical Systems (ICCPS), WIP (Abstract and Demo Session)",
       "year": "2022",
       "url": "paper-pdfs/Berkay2022RoboticCPSICCPS.pdf",
-      "__type": "Berkay2022RoboticCPSICCPS",
+      "__type": "inproceedings",
       "__key": "Berkay2022RoboticCPSICCPS"
     },
-    "order": 64
+    "order": 65
   },
   {
     "fields": {
@@ -858,10 +874,10 @@ window.PUBLICATIONS_DATA = [
       "year": "2022",
       "pages": "1-18",
       "url": "paper-pdfs/Berkay2022YoutubeUSENIXSecurity.pdf",
-      "__type": "Berkay2022YoutubeUSENIXSecurity",
+      "__type": "inproceedings",
       "__key": "Berkay2022YoutubeUSENIXSecurity"
     },
-    "order": 65
+    "order": 66
   },
   {
     "fields": {
@@ -871,10 +887,10 @@ window.PUBLICATIONS_DATA = [
       "year": "2022",
       "pages": "1-18",
       "url": "paper-pdfs/Berkay2022SaraUSENIXSecurity.pdf",
-      "__type": "Berkay2022SaraUSENIXSecurity",
+      "__type": "inproceedings",
       "__key": "Berkay2022SaraUSENIXSecurity"
     },
-    "order": 66
+    "order": 67
   },
   {
     "fields": {
@@ -884,10 +900,10 @@ window.PUBLICATIONS_DATA = [
       "year": "2022",
       "pages": "1-18",
       "url": "paper-pdfs/Berkay2022PGPatchIEEESP.pdf",
-      "__type": "Berkay2022PGPatchOakland",
+      "__type": "inproceedings",
       "__key": "Berkay2022PGPatchOakland"
     },
-    "order": 67
+    "order": 68
   },
   {
     "fields": {
@@ -898,10 +914,10 @@ window.PUBLICATIONS_DATA = [
       "year": "2022",
       "url": "paper-pdfs/Berkay2022DriveTruthAutoSec.pdf",
       "note": "General Motors AutoDriving Security Award",
-      "__type": "Berkay2022DriveTruthAutoSec",
+      "__type": "inproceedings",
       "__key": "Berkay2022DriveTruthAutoSec"
     },
-    "order": 68
+    "order": 69
   },
   {
     "fields": {
@@ -911,10 +927,10 @@ window.PUBLICATIONS_DATA = [
       "pages": "1-5",
       "year": "2022",
       "url": "paper-pdfs/Berkay2022PhyManipulationAutoSec.pdf",
-      "__type": "Berkay2022PhyManipulationAutoSec",
+      "__type": "inproceedings",
       "__key": "Berkay2022PhyManipulationAutoSec"
     },
-    "order": 69
+    "order": 70
   },
   {
     "fields": {
@@ -923,10 +939,10 @@ window.PUBLICATIONS_DATA = [
       "booktitle": "International Workshop on Automotive and Autonomous Vehicle Security (AutoSec), collocated with NDSS",
       "year": "2022",
       "url": "paper-pdfs/Berkay2022DemoBugPatchingRVs.pdf",
-      "__type": "Berkay2022PGFuzzPGPatch",
+      "__type": "inproceedings",
       "__key": "Berkay2022PGFuzzPGPatch"
     },
-    "order": 70
+    "order": 71
   },
   {
     "fields": {
@@ -935,10 +951,10 @@ window.PUBLICATIONS_DATA = [
       "booktitle": "International Workshop on Automotive and Autonomous Vehicle Security (AutoSec), collocated with NDSS",
       "year": "2022",
       "url": "paper-pdfs/Berkay2022DemoCANAttack.pdf",
-      "__type": "Berkay2022CANErrorAutoSec",
+      "__type": "inproceedings",
       "__key": "Berkay2022CANErrorAutoSec"
     },
-    "order": 71
+    "order": 72
   },
   {
     "fields": {
@@ -948,10 +964,10 @@ window.PUBLICATIONS_DATA = [
       "year": "2021",
       "pages": "1-8",
       "url": "paper-pdfs/Berkay2021ICMLFLPersonalizedFL.pdf",
-      "__type": "Berkay2021ICMLFLPersonalizedFL",
+      "__type": "inproceedings",
       "__key": "Berkay2021ICMLFLPersonalizedFL"
     },
-    "order": 72
+    "order": 73
   },
   {
     "fields": {
@@ -961,10 +977,10 @@ window.PUBLICATIONS_DATA = [
       "year": "2021",
       "pages": "38-46",
       "url": "paper-pdfs/Berkay2021SecDevContainerSecurity.pdf",
-      "__type": "Berkay2021SecDevContainerSecurity",
+      "__type": "inproceedings",
       "__key": "Berkay2021SecDevContainerSecurity"
     },
-    "order": 73
+    "order": 74
   },
   {
     "fields": {
@@ -975,10 +991,10 @@ window.PUBLICATIONS_DATA = [
       "year": "2021",
       "comment": "Acceptance Rate 15.4\\%",
       "url": "paper-pdfs/Berkay2021XAITrojan.pdf",
-      "__type": "Berkay2021XAITrojan",
+      "__type": "inproceedings",
       "__key": "Berkay2021XAITrojan"
     },
-    "order": 74
+    "order": 75
   },
   {
     "fields": {
@@ -988,10 +1004,10 @@ window.PUBLICATIONS_DATA = [
       "pages": "235-241",
       "year": "2021",
       "url": "paper-pdfs/Berkay2021PenserSafethings.pdf",
-      "__type": "Berkay2021PenserSafethings",
+      "__type": "inproceedings",
       "__key": "Berkay2021PenserSafethings"
     },
-    "order": 75
+    "order": 76
   },
   {
     "fields": {
@@ -1002,10 +1018,10 @@ window.PUBLICATIONS_DATA = [
       "pages": "1-52",
       "year": "2021",
       "publisher": "Elsevier",
-      "__type": "Berkay2021IoTPlatformSurvey",
+      "__type": "article",
       "__key": "Berkay2021IoTPlatformSurvey"
     },
-    "order": 76
+    "order": 77
   },
   {
     "fields": {
@@ -1017,10 +1033,10 @@ window.PUBLICATIONS_DATA = [
       "year": "2021",
       "owner": "berkay",
       "url": "paper-pdfs/Berkay2021CanoxUSENIXSecurity.pdf",
-      "__type": "Berkay2021CanoxUSENIXSecurity",
+      "__type": "inproceedings",
       "__key": "Berkay2021CanoxUSENIXSecurity"
     },
-    "order": 77
+    "order": 78
   },
   {
     "fields": {
@@ -1032,10 +1048,10 @@ window.PUBLICATIONS_DATA = [
       "year": "2021",
       "owner": "berkay",
       "url": "paper-pdfs/Berkay2021AtlasUSENIXSecurity.pdf",
-      "__type": "Berkay2021AtlasUSENIXSecurity",
+      "__type": "inproceedings",
       "__key": "Berkay2021AtlasUSENIXSecurity"
     },
-    "order": 78
+    "order": 79
   },
   {
     "fields": {
@@ -1047,10 +1063,10 @@ window.PUBLICATIONS_DATA = [
       "year": "2021",
       "owner": "berkay",
       "url": "paper-pdfs/Berkay2021PGFuzzNDSS.pdf",
-      "__type": "Berkay2021PGFuzzNDSS",
+      "__type": "inproceedings",
       "__key": "Berkay2021PGFuzzNDSS"
     },
-    "order": 79
+    "order": 80
   },
   {
     "fields": {
@@ -1062,10 +1078,10 @@ window.PUBLICATIONS_DATA = [
       "year": "2021",
       "owner": "berkay",
       "url": "paper-pdfs/Berkay2021DuetNDSS.pdf",
-      "__type": "Berkay2021DuetNDSS",
+      "__type": "inproceedings",
       "__key": "Berkay2021DuetNDSS"
     },
-    "order": 80
+    "order": 81
   },
   {
     "fields": {
@@ -1076,10 +1092,10 @@ window.PUBLICATIONS_DATA = [
       "year": "2021",
       "publisher": "ACM New York, NY, USA",
       "url": "paper-pdfs/berkay2021S3UbiComp.pdf",
-      "__type": "berkay2021S3UbiComp",
+      "__type": "article",
       "__key": "berkay2021S3UbiComp"
     },
-    "order": 81
+    "order": 82
   },
   {
     "fields": {
@@ -1093,10 +1109,10 @@ window.PUBLICATIONS_DATA = [
       "volume": "2021",
       "publisher": "Sciendo",
       "url": "paper-pdfs/Berkay2021DaintPETS2021.pdf",
-      "__type": "Berkay2021DaintPETS2021",
+      "__type": "article",
       "__key": "Berkay2021DaintPETS2021"
     },
-    "order": 82
+    "order": 83
   },
   {
     "fields": {
@@ -1107,10 +1123,10 @@ window.PUBLICATIONS_DATA = [
       "year": "2021",
       "month": "April",
       "url": "paper-pdfs/Berkay2021SentinelIoTDI.pdf",
-      "__type": "Berkay2021SentinelIoTDI",
+      "__type": "inproceedings",
       "__key": "Berkay2021SentinelIoTDI"
     },
-    "order": 83
+    "order": 84
   },
   {
     "fields": {
@@ -1120,10 +1136,10 @@ window.PUBLICATIONS_DATA = [
       "pages": "1-6",
       "year": "2020",
       "url": "paper-pdfs/Berkay2020TCASCNS.pdf",
-      "__type": "Berkay2020TCASCNS",
+      "__type": "inproceedings",
       "__key": "Berkay2020TCASCNS"
     },
-    "order": 84
+    "order": 85
   },
   {
     "fields": {
@@ -1133,10 +1149,10 @@ window.PUBLICATIONS_DATA = [
       "year": "2020",
       "pages": "142--148",
       "url": "paper-pdfs/Berkay2020IoTRepairIoTDI.pdf",
-      "__type": "Berkay2020IoTRepairIoTDI",
+      "__type": "inproceedings",
       "__key": "Berkay2020IoTRepairIoTDI"
     },
-    "order": 85
+    "order": 86
   },
   {
     "fields": {
@@ -1146,10 +1162,10 @@ window.PUBLICATIONS_DATA = [
       "pages": "1--12",
       "year": "2020",
       "url": "paper-pdfs/Berkay2020KratosWISEC.pdf",
-      "__type": "Berkay2020KratosWISEC",
+      "__type": "inproceedings",
       "__key": "Berkay2020KratosWISEC"
     },
-    "order": 86
+    "order": 87
   },
   {
     "fields": {
@@ -1161,10 +1177,10 @@ window.PUBLICATIONS_DATA = [
       "number": "4",
       "pages": "1--30",
       "url": "paper-pdfs/Berkay2019IoTProgramAnalysisCSUR.pdf",
-      "__type": "Berkay2019IoTProgramAnalysisCSUR",
+      "__type": "article",
       "__key": "Berkay2019IoTProgramAnalysisCSUR"
     },
-    "order": 87
+    "order": 88
   },
   {
     "fields": {
@@ -1176,10 +1192,10 @@ window.PUBLICATIONS_DATA = [
       "pages": "30-37",
       "year": "2019",
       "url": "paper-pdfs/Berkay2019IoTIEEESPMagazine.pdf",
-      "__type": "Berkay2019IoTIEEESPMagazine",
+      "__type": "article",
       "__key": "Berkay2019IoTIEEESPMagazine"
     },
-    "order": 88
+    "order": 89
   },
   {
     "fields": {
@@ -1191,10 +1207,10 @@ window.PUBLICATIONS_DATA = [
       "address": "Dallas, TX",
       "month": "March",
       "url": "paper-pdfs/Berkay2019CurieCODASPY.pdf",
-      "__type": "Berkay2019CurieCODASPY",
+      "__type": "inproceedings",
       "__key": "Berkay2019CurieCODASPY"
     },
-    "order": 89
+    "order": 90
   },
   {
     "fields": {
@@ -1209,10 +1225,10 @@ window.PUBLICATIONS_DATA = [
       "owner": "berkay",
       "timestamp": "2018.10.04",
       "url": "paper-pdfs/Berkay2019IoTGuardNDSS.pdf",
-      "__type": "Berkay2019IoTGuardNDSS",
+      "__type": "inproceedings",
       "__key": "Berkay2019IoTGuardNDSS"
     },
-    "order": 90
+    "order": 91
   },
   {
     "fields": {
@@ -1221,10 +1237,10 @@ window.PUBLICATIONS_DATA = [
       "booktitle": "Annual Research Conference at the University of Florida's Florida Institute of Cybersecurity Research (FICS), Gainesville",
       "year": "2018",
       "note": "Best DEMO award",
-      "__type": "Berkay2022SaintDemoFICS",
+      "__type": "inproceedings",
       "__key": "Berkay2022SaintDemoFICS"
     },
-    "order": 91
+    "order": 92
   },
   {
     "fields": {
@@ -1234,10 +1250,10 @@ window.PUBLICATIONS_DATA = [
       "pages": "199-206",
       "year": "2018",
       "url": "paper-pdfs/Berkay2018PrivilegedASIACCS.pdf",
-      "__type": "Berkay2018PrivilegedASIACCS",
+      "__type": "inproceedings",
       "__key": "Berkay2018PrivilegedASIACCS"
     },
-    "order": 92
+    "order": 93
   },
   {
     "fields": {
@@ -1247,10 +1263,10 @@ window.PUBLICATIONS_DATA = [
       "pages": "83--88",
       "year": "2018",
       "url": "paper-pdfs/Berkay2018DistillationSPDLS.pdf",
-      "__type": "Berkay2018DistillationSPDLS",
+      "__type": "inproceedings",
       "__key": "Berkay2018DistillationSPDLS"
     },
-    "order": 93
+    "order": 94
   },
   {
     "fields": {
@@ -1264,10 +1280,10 @@ window.PUBLICATIONS_DATA = [
       "owner": "berkay",
       "timestamp": "2018.04.19",
       "url": "paper-pdfs/Berkay2018SoteriaUSENIXATC.pdf",
-      "__type": "Berkay2018SoteriaUSENIXATC",
+      "__type": "inproceedings",
       "__key": "Berkay2018SoteriaUSENIXATC"
     },
-    "order": 94
+    "order": 95
   },
   {
     "fields": {
@@ -1280,10 +1296,10 @@ window.PUBLICATIONS_DATA = [
       "month": "August",
       "owner": "berkay",
       "url": "paper-pdfs/Berkay2018SaintUSENIXSecurity.pdf",
-      "__type": "Berkay2018SaintUSENIXSecurity",
+      "__type": "inproceedings",
       "__key": "Berkay2018SaintUSENIXSecurity"
     },
-    "order": 95
+    "order": 96
   },
   {
     "fields": {
@@ -1295,10 +1311,10 @@ window.PUBLICATIONS_DATA = [
       "pages": "31--48",
       "year": "2018",
       "url": "paper-pdfs/berkay2017MalwareModellingJDMS.pdf",
-      "__type": "Berkay2017MalwareModellingJDMS",
+      "__type": "article",
       "__key": "Berkay2017MalwareModellingJDMS"
     },
-    "order": 96
+    "order": 97
   },
   {
     "fields": {
@@ -1310,10 +1326,10 @@ window.PUBLICATIONS_DATA = [
       "comment": "Best Paper Award",
       "url": "paper-pdfs/berkay2018OmodelSecureComm.pdf",
       "note": "Best Paper Award",
-      "__type": "Berkay2018OmodelSecureComm",
+      "__type": "inproceedings",
       "__key": "Berkay2018OmodelSecureComm"
     },
-    "order": 97
+    "order": 98
   },
   {
     "fields": {
@@ -1323,10 +1339,10 @@ window.PUBLICATIONS_DATA = [
       "year": "2017",
       "pages": "49-59",
       "url": "paper-pdfs/Berkay2017SecurePrivatePAC.pdf",
-      "__type": "Berkay2017SecurePrivatePAC",
+      "__type": "inproceedings",
       "__key": "Berkay2017SecurePrivatePAC"
     },
-    "order": 98
+    "order": 99
   },
   {
     "fields": {
@@ -1336,10 +1352,10 @@ window.PUBLICATIONS_DATA = [
       "pages": "1-12",
       "year": "2017",
       "url": "paper-pdfs/Berkay2017PatientPrivacyPAC.pdf",
-      "__type": "Berkay2017PatientPrivacyPAC",
+      "__type": "inproceedings",
       "__key": "Berkay2017PatientPrivacyPAC"
     },
-    "order": 99
+    "order": 100
   },
   {
     "fields": {
@@ -1351,10 +1367,10 @@ window.PUBLICATIONS_DATA = [
       "owner": "berkay",
       "timestamp": "2017.01.28",
       "url": "paper-pdfs/Berkay2017PrivilegedCultivationIWSPA.pdf",
-      "__type": "Berkay2017PrivilegedCultivationIWSPA",
+      "__type": "inproceedings",
       "__key": "Berkay2017PrivilegedCultivationIWSPA"
     },
-    "order": 100
+    "order": 101
   },
   {
     "fields": {
@@ -1364,10 +1380,10 @@ window.PUBLICATIONS_DATA = [
       "year": "2017",
       "pages": "506-519",
       "url": "paper-pdfs/Berkay2017practicalDLASIACCS.pdf",
-      "__type": "Berkay2017practicalDLASIACCS",
+      "__type": "inproceedings",
       "__key": "Berkay2017practicalDLASIACCS"
     },
-    "order": 101
+    "order": 102
   },
   {
     "fields": {
@@ -1377,10 +1393,11 @@ window.PUBLICATIONS_DATA = [
       "pages": "372--387",
       "year": "2016",
       "url": "paper-pdfs/Berkay2016DLLimitationEuroSP.pdf",
-      "__type": "Berkay2016DLLimitationEuroSP",
+      "note": "Test-of-Time Award",
+      "__type": "inproceedings",
       "__key": "Berkay2016DLLimitationEuroSP"
     },
-    "order": 102
+    "order": 103
   },
   {
     "fields": {
@@ -1392,10 +1409,10 @@ window.PUBLICATIONS_DATA = [
       "volume": "14",
       "pages": "68--72",
       "url": "paper-pdfs/Berkay2016adversarialSPMagazine.pdf",
-      "__type": "Berkay2016adversarialSPMagazine",
+      "__type": "article",
       "__key": "Berkay2016adversarialSPMagazine"
     },
-    "order": 103
+    "order": 104
   },
   {
     "fields": {
@@ -1405,10 +1422,10 @@ window.PUBLICATIONS_DATA = [
       "pages": "7--12",
       "year": "2016",
       "url": "paper-pdfs/Berkay2016mappingOmodelMilcom.pdf",
-      "__type": "Berkay2016mappingOmodelMilcom",
+      "__type": "inproceedings",
       "__key": "Berkay2016mappingOmodelMilcom"
     },
-    "order": 104
+    "order": 105
   },
   {
     "fields": {
@@ -1421,10 +1438,10 @@ window.PUBLICATIONS_DATA = [
       "journal": "Department of Computer Science and Engineering, Pennsylvania State University, University Park, PA, USA",
       "publisher": "SIIS Lab",
       "url": "paper-pdfs/Berkay2015proofTR.pdf",
-      "__type": "Berkay2015proofTR",
+      "__type": "techreport",
       "__key": "Berkay2015proofTR"
     },
-    "order": 105
+    "order": 106
   },
   {
     "fields": {
@@ -1434,10 +1451,10 @@ window.PUBLICATIONS_DATA = [
       "pages": "330-335",
       "year": "2015",
       "url": "paper-pdfs/Berkay2015malwareMILCOM.pdf",
-      "__type": "Berkay2015malwareMILCOM",
+      "__type": "inproceedings",
       "__key": "Berkay2015malwareMILCOM"
     },
-    "order": 106
+    "order": 107
   },
   {
     "fields": {
@@ -1447,10 +1464,10 @@ window.PUBLICATIONS_DATA = [
       "pages": "868-873",
       "year": "2013",
       "url": "paper-pdfs/Berkay2013fastFluxISCC.pdf",
-      "__type": "Berkay2013fastFluxISCC",
+      "__type": "inproceedings",
       "__key": "Berkay2013fastFluxISCC"
     },
-    "order": 107
+    "order": 108
   },
   {
     "fields": {
@@ -1460,9 +1477,9 @@ window.PUBLICATIONS_DATA = [
       "pages": "1-8",
       "year": "2011",
       "url": "paper-pdfs/Berkay2011saltingCSET.pdf",
-      "__type": "Berkay2011saltingCSET",
+      "__type": "inproceedings",
       "__key": "Berkay2011saltingCSET"
     },
-    "order": 108
+    "order": 109
   }
 ];
