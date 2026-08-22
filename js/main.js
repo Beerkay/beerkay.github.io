@@ -76,6 +76,39 @@
     sections.forEach(function (s) { spy.observe(s); });
   }
 
+  // ---- Homepage news expander ----
+  var newsList = document.querySelector("[data-news-list]");
+  var newsToggle = document.querySelector("[data-news-toggle]");
+  var olderNewsLink = document.querySelector("[data-older-news]");
+  if (newsList && newsToggle) {
+    var newsItems = Array.prototype.slice.call(newsList.querySelectorAll("li"));
+    var newsLimit = 5;
+    var newsPreviewLimit = 10;
+    var newsVisible = newsLimit;
+
+    function setNewsVisible(count) {
+      newsVisible = Math.min(count, newsItems.length, newsPreviewLimit);
+      newsList.setAttribute("data-news-visible", String(newsVisible));
+      newsItems.forEach(function (item, index) {
+        item.hidden = index >= newsVisible;
+      });
+      newsToggle.hidden = newsItems.length <= newsLimit;
+      newsToggle.textContent = newsVisible > newsLimit ? "-" : "+";
+      newsToggle.setAttribute("aria-label", newsVisible > newsLimit ? "Show fewer news items" : "Show 5 more news items");
+      newsToggle.setAttribute("aria-expanded", newsVisible > newsLimit ? "true" : "false");
+      if (olderNewsLink) olderNewsLink.hidden = newsVisible <= newsLimit;
+    }
+
+    if (newsItems.length <= newsLimit) {
+      newsToggle.hidden = true;
+    } else {
+      newsToggle.addEventListener("click", function () {
+        setNewsVisible(newsVisible > newsLimit ? newsLimit : newsVisible + 5);
+      });
+      setNewsVisible(newsLimit);
+    }
+  }
+
   // ---- Entrance reveal (skip if reduced motion) ----
   var reveals = Array.prototype.slice.call(document.querySelectorAll(".reveal"));
   if (prefersReduced || !("IntersectionObserver" in window)) {

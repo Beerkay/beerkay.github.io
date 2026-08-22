@@ -16,7 +16,6 @@
     { label: "Students", hrefHome: "#students", hrefPage: "students.html", page: "students" },
     { label: "Teaching", hrefHome: "#teaching", hrefPage: "teaching.html", page: "teaching" },
     { label: "Service", hrefHome: "service.html", hrefPage: "service.html", page: "service" },
-    { label: "News", hrefHome: "#news", hrefPage: "news.html", page: "news" },
     { label: "Personal", hrefHome: "personal.html", hrefPage: "personal.html", page: "personal" }
   ];
 
